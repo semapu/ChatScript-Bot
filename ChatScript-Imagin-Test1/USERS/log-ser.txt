@@ -1,0 +1,56 @@
+﻿Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-11:40:51 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:39:24 0:Jun28'17-11:40:51 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:ser bot:imagin ip: rand:3453 (~introductions) 0 ==> Hola!  When:Jun28'17-11:41:06 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:41:02 0:Jun28'17-11:40:51 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-11:41:09 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:41:02 0:Jun28'17-11:40:51 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:ser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:41:10 Why:~introductions.3.0.~control.1.0   F:16 
+Respond: user:ser bot:imagin ip: (~introductions) 2   hola ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-11:41:16 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ser bot:imagin ip: (~introductions) 3   hola ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-11:41:19 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ser bot:imagin ip: (~introductions) 4   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-11:41:21 Why:~introductions.4.0.~control.1.0   F:16 
+Command: :reset
+Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-11:41:23 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:41:02 0:Jun28'17-11:40:51 F:0 P:Jun28'17-11:41:21 Why:~introductions.1.0.~control.0.0 
+Respond: user:ser bot:imagin ip: (~introductions) 1   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-11:41:27 Why:~introductions.4.0.~control.1.0   F:0 
+Respond: user:ser bot:imagin ip: (~chitadios) 2   adios ==> CHIT adios  When:Jun28'17-11:41:30 Why:~chitadios.0.0.~control.1.0   F:16 
+Respond: user:ser bot:imagin ip: (~chitadios) 3   dejame en paz ==> CHIT adios  When:Jun28'17-11:41:35 Why:~chitadios.1.0.~control.1.0   F:16 
+Respond: user:ser bot:imagin ip: (~quetal) 4   como estamos? ==> CHIT que tal  When:Jun28'17-11:41:43 Why:~quetal.0.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+No such bot  ser -  -  status: defaultbot word not found   in topic_ser_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+Start: user:ser bot:imagin ip: rand:3457 (~introductions) 4 ==> Bienvenido!  When:Jun28'17-11:51:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:51:44 0:Jun28'17-11:40:51 F:0 P:Jun28'17-11:41:43 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-11:51:51 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:51:44 0:Jun28'17-11:40:51 F:0 P:Jun28'17-11:41:43 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+No such bot  ser -  -  status: defaultbot word not found   in topic_ser_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  ser -  -  status: defaultbot word not found   in topic_ser_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  ser -  -  status: defaultbot word not found   in topic_ser_anonymous.txt at 0: ^anonymous
+    
+No such bot  ser -  -  status: defaultbot word not found   in topic_ser_anonymous.txt at 1: ^anonymous
+    Command: :build Imagin_test1
+Start: user:ser bot:imagin ip: rand:3453 (~introductions) 0 ==> Hola!  When:Jun28'17-12:03:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:03:06 0:Jun28'17-11:40:51 F:0 P:Jun28'17-11:41:43 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-12:03:19 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:03:06 0:Jun28'17-11:40:51 F:0 P:Jun28'17-11:41:43 Why:~introductions.1.0.~control.0.0 
+Respond: user:ser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:03:20 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:ser bot:imagin ip: (~dequecompaniaeres) 2   que piensas de tu compania? ==> CHIT de que compania eres  When:Jun28'17-12:03:34 Why:~dequecompaniaeres.8.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:ser bot:imagin ip: rand:3454 (~introductions) 2 ==> Bienvenido!  When:Jun28'17-12:08:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:08:03 0:Jun28'17-11:40:51 F:0 P:Jun28'17-12:03:34 Why:~introductions.0.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:ser bot:imagin ip: rand:3455 (~introductions) 2 ==> Hola!  When:Jun28'17-12:12:06 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:12:02 0:Jun28'17-11:40:51 F:0 P:Jun28'17-12:03:34 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-12:12:10 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:12:02 0:Jun28'17-11:40:51 F:0 P:Jun28'17-12:03:34 Why:~introductions.1.0.~control.0.0 
+Respond: user:ser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:12:13 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:ser bot:imagin ip: (~introductions) 2   feliz aÑo ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:12:19 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:ser bot:imagin ip: rand:3454 (~introductions) 2 ==> Bienvenido!  When:Jun28'17-12:12:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:12:23 0:Jun28'17-11:40:51 F:0 P:Jun28'17-12:12:19 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-12:12:29 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:12:23 0:Jun28'17-11:40:51 F:0 P:Jun28'17-12:12:19 Why:~introductions.1.0.~control.0.0 
+Respond: user:ser bot:imagin ip: (~introductions) 1   felices fiestas ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:12:39 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:ser bot:imagin ip: (~introductions) 2   felices fiestas ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:12:42 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-12:12:44 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:12:23 0:Jun28'17-11:40:51 F:0 P:Jun28'17-12:12:42 Why:~introductions.1.0.~control.0.0 
+Respond: user:ser bot:imagin ip: (~introductions) 1   felices fiestas ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:12:46 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:ser bot:imagin ip: rand:3452 (~introductions) 0 ==> Buenos días!  When:Jun28'17-12:12:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:12:23 0:Jun28'17-11:40:51 F:0 P:Jun28'17-12:12:46 Why:~introductions.1.0.~control.0.0 
+Respond: user:ser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:12:49 Why:~introductions.3.0.~control.1.0   F:16 
+Respond: user:ser bot:imagin ip: (~introductions) 2   felices fiestas ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:12:51 Why:~control.1.0.~control.1.0   F:15 

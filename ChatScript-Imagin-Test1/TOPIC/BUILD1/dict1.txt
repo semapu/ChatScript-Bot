@@ -1,0 +1,39 @@
+﻿+ mas NOUN NOUN_PLURAL KINDERGARTEN 
++ pases NOUN NOUN_PLURAL KINDERGARTEN 
++ mis NOUN NOUN_PLURAL 
++ pies NOUN NOUN_PLURAL KINDERGARTEN 
++ seas NOUN NOUN_PLURAL KINDERGARTEN 
++ seras NOUN NOUN_PLURAL 
++ llamas NOUN NOUN_PLURAL GRADE1_2 
++ fiestas NOUN NOUN_PLURAL 
++ amigos NOUN NOUN_PLURAL 
++ buenos_dias 
++ hasta_luego 
++ hasta_pronto 
++ hasta_nunca 
++ hasta_la_proxima 
++ me_voy 
++ de_acuerdo 
++ dineros NOUN NOUN_PLURAL 
++ euros NOUN NOUN_PLURAL 
++ paises NOUN NOUN_PLURAL 
++ otro_país 
++ otra_nación 
++ otros_paises 
++ puede_obtener 
++ puedo_obtener 
++ puede_conseguir 
++ puedo_conseguir 
++ se_tiene_que 
++ tengo_que 
++ se_debe 
++ tener MORE_FORM ADJECTIVE ADJECTIVE_NORMAL KINDERGARTEN 
++ acerca_de 
++ referente_a 
++ relativo_a 
++ en_donde 
++ en_que 
++ se_activa 
++ se_bloquea 
++ he_perdido 
++ defaultbot 

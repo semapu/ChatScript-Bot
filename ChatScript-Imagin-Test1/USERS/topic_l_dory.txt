@@ -1,0 +1,50 @@
+USERS/topic_l_dory.txt
+jul2116 Jun20'17-15:33:10 Jun20'17-15:47:23 0 |
+10 13 0 DY 0 7 7 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~keywordless #pending
+#`end topics
+$cs_randindex=3984
+$cs_bot=Dory
+$cs_login=l
+$cs_token=512
+$cs_control_main=~control
+$userprompt=l: >
+$botprompt=ImaginBank Bot: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ como te llamas?
+ cual es tu nombre?
+ hola
+ como te llamas?
+ cual es tu nambre?
+ como te llamas?
+ hola
+ como te llamas?
+ hola
+ si
+ como te llamas
+ como te llamas?
+#`end user
+ Bienvenido!
+ ¿Tiene alguna pregunta?
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ Hola!
+ ¿Le puedo ayudar en algo?
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+ My name is Harry.
+ No entiendo lo que me quiere decir.
+ ¿Tiene alguna pregunta?
+ No consigue entender lo que me está diciendo.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ ¿Le puedo ayudar en algo?
+ No comprendo lo que ha dicho.
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+#`end chatbot

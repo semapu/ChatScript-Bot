@@ -1,0 +1,28 @@
+USERS/topic_mapu_imagin.txt
+jul2116 Jun21'17-15:56:08 Jun21'17-16:18:11 0 |
+3 2 0 DY 0 9 9 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~tran ~introductions #pending
+~tran + 1 vM%XF ea 2 0 0 
+#`end topics
+$destinatario=madre por su cumpleaÑos
+$cs_randindex=3000
+$cs_bot=Imagin
+$cs_login=mapu
+$cs_token=512
+$cs_control_main=~control
+$userprompt=mapu: >
+$botprompt=ImaginBank Bot: 
+$concepto=cumpleaÑos
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ quiero hacer una transferencia a mi madre por su cumpleaÑos
+ cumpleaÑos
+#`end user
+ Buenos días!
+ \r\n\t Necesito conocer el concepto
+ \r\n\t Destinatario: madre por su cumpleaÑos \r\n\t concepto: cumpleaÑos
+ Bienvenido!
+#`end chatbot

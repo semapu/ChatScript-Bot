@@ -1,0 +1,23 @@
+USERS/topic_mas_sergi_imagin.txt
+jul2116 Jun20'17-16:15:29 Jun20'17-16:34:02 1497969089-2.1.0.2.1.0 |
+1 1 0 DY 0 7 7 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 EKwt3 ca 1 0 0 
+#`end topics
+$cs_randindex=2056
+$cs_bot=Imagin
+$cs_login=mas_sergi
+$cs_token=512
+$cs_control_main=~control
+$userprompt=mas_sergi: >
+$botprompt=ImaginBank Bot: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+#`end user
+ Bienvenido!
+ Encantado de conocerte. En aue puedo ayudarte?
+#`end chatbot

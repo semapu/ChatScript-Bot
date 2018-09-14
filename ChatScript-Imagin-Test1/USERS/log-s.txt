@@ -1,0 +1,24 @@
+﻿Start: user:s bot:harry ip: rand:1195 (~introductions) 0 ==> Welcome to ChatScript.  When:Jun20'17-15:08:14 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Sep11'16-16:37:53 0:Jun20'17-15:08:14 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build ontology
+Start: user:s bot:harry ip: rand:1195 (~introductions) 0 ==> Have you been here before?  When:Jun20'17-15:08:44 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Sep11'16-16:37:53 0:Jun20'17-15:08:14 F:0 P:0 Why:~introductions.2.0.~control.0.0 
+Command: :buid ONTOLOGY
+Respond: user:s bot:harry ip: (~childhood) 1   :buid ONTOLOGY ==> Did you run away from home when you were little?  When:Jun20'17-15:08:57 Why:~childhood.0.0.~control.9.0   F:16 
+Respond: user:s bot:harry ip: (~childhood) 2   NO ==> You should try it some time. Travel broadens the mind.  When:Jun20'17-15:09:01 Why:~childhood.0.2   F:0 
+Command: :build GERMAN
+Start: user:s bot:test ip: rand:1195 (~introductions) 0 ==> Use :prepare to see your input data German tagging IF YOU HAVE INSTALLED TREETAGGER + German data.  When:Jun20'17-15:09:17 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:13 0:Jun20'17-15:09:17 F:0 P:0 Why:~introductions.0.0.~control.0.0 
+Respond: user:s bot:test ip: (~introductions) 1   HI ==> Line gambit  When:Jun20'17-15:09:22 Why:~introductions.1.0.~control.1.0   F:47 
+Respond: user:s bot:test ip: (~introductions) 2   hi ==> Line gambit  When:Jun20'17-15:09:29 Why:~introductions.1.0.~control.1.0   F:16 
+Command: :buils harry
+Respond: user:s bot:test ip: (~introductions) 3   :buils harry ==> Line gambit  When:Jun20'17-15:09:37 Why:~introductions.1.0.~control.1.0   F:16 
+Command: :buils HARRY
+Respond: user:s bot:test ip: (~introductions) 4   :buils HARRY ==> Line gambit  When:Jun20'17-15:09:41 Why:~introductions.1.0.~control.1.0   F:15 
+Command: :build harry
+Start: user:s bot:harry ip: rand:1198 (~introductions) 2 ==> Welcome back  When:Jun20'17-15:09:51 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:48 0:Jun20'17-15:08:14 F:0 P:Jun20'17-15:09:01 Why:~introductions.0.0.~control.0.0 
+Command: :restard
+Respond: user:s bot:harry ip: (~introductions) 3   :restard ==> Right.  When:Jun20'17-15:09:59 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:16 
+Command: :restart
+Start: user:s bot:harry ip: rand:1199 (~introductions) 3 ==> Hi.  When:Jun20'17-15:10:06 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:48 0:Jun20'17-15:08:14 F:0 P:Jun20'17-15:09:59 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:s bot:harry ip: rand:1195 (~introductions) 0 ==> Welcome to ChatScript.  When:Jun20'17-15:10:09 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:48 0:Jun20'17-15:08:14 F:0 P:Jun20'17-15:09:59 Why:~introductions.1.0.~control.0.0 
+Respond: user:s bot:harry ip: (~introductions) 1   jhi ==> Have you been here before?  When:Jun20'17-15:10:12 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:s bot:harry ip: (~introductions) 2   no ==> No? And why not?  When:Jun20'17-15:10:14 Why:~honest_response.1.0.~quibble_all.12.0   F:0 

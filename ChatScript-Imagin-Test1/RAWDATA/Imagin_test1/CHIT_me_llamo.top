@@ -1,0 +1,31 @@
+TOPIC: ~FELICITACIONES repeat (~nombre)
+
+u: (me llamo) ^keep()
+CHIT_me_llamo
+
+u: (mi nombre es) ^keep()
+CHIT_me_llamo
+
+u: (puedes llamarme) ^keep()
+CHIT_me_llamo
+
+u: (mis amigos me llaman) ^keep()
+CHIT_me_llamo
+
+u: (mis nombres son) ^keep()
+CHIT_me_llamo
+
+u: (me suelen llamar) ^keep()
+CHIT_me_llamo
+
+u: (me llamaban) ^keep()
+CHIT_me_llamo
+
+u: (ahora me llamo) ^keep()
+CHIT_me_llamo
+
+u: (llamame) ^keep()
+CHIT_me_llamo
+
+u: (mi nombre completo es) ^keep()
+CHIT_me_llamo

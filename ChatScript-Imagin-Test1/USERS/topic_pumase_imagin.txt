@@ -1,0 +1,37 @@
+USERS/topic_pumase_imagin.txt
+jul2116 Jun28'17-12:51:46 Jun28'17-17:36:52 1498648233-1.0.0.14.1.0 |
+1 38 0 DY 0 18 18 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~chitadios ~comofuncionas ~dequecompaniaeres ~felicitaciones ~eres ~halagos ~novedades ~quehaces ~vale ~quetal #pending
+~introductions + 1 3O%a9 ba 1 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=pumase: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=pumase
+$cs_bot=Imagin
+$cs_randindex=2995
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ te va?
+ como estas?
+ muy bien
+ si
+ muy bien
+ como estas?
+ estas bien?
+ cuanto quedo el barça ayer?
+#`end user
+ CHIT que haces
+ No entiendo lo que me quiere decir.
+ CHIT que tal
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ CHIT vale
+ CHIT vale
+ CHIT que tal
+ CHIT que tal
+ No consigo entender lo que me estas diciendo.
+#`end chatbot

@@ -1,0 +1,42 @@
+﻿Start: user:gi bot:dory ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:52:50 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:51:08 0:Jun20'17-15:52:50 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:gi bot:dory ip: (~introductions) 1   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-15:52:54 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:gi bot:dory ip: (~introductions) 2     ==> No comprendo lo que ha dicho.  When:Jun20'17-15:52:55 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:gi bot:dory ip: (~introductions) 3   como te llmas? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-15:52:58 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:gi bot:dory ip: (~introductions) 4   como te llamas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:53:02 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:gi bot:dory ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:53:09 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:51:08 0:Jun20'17-15:52:50 F:0 P:Jun20'17-15:53:02 Why:~introductions.1.0.~control.0.0 
+Respond: user:gi bot:dory ip: (~introductions) 1   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-15:53:12 Why:~introductions.2.0.~control.1.0   F:16 
+Respond: user:gi bot:dory ip: (~introductions) 2   como te llamas? ==> No comprendo lo que ha dicho.  When:Jun20'17-15:53:13 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:gi bot:imagin ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:56:18 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:56:14 0:Jun20'17-15:56:18 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user:gi bot:imagin ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:56:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:56:14 0:Jun20'17-15:56:18 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:gi bot:imagin ip: (~introductions) 1   hola ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:56:25 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:gi bot:imagin ip: (~introductions) 2   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-15:56:31 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:gi bot:imagin ip: (~introductions) 3   como te llamas? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-15:56:33 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:gi bot:imagin ip: (~introductions) 4   como te llamas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:57:38 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:gi bot:imagin ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:57:40 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:56:14 0:Jun20'17-15:56:18 F:0 P:Jun20'17-15:57:38 Why:~introductions.1.0.~control.0.0 
+Respond: user:gi bot:imagin ip: (~introductions) 1   gracias ==> Un placer, ¿en qué puedo ayudarle?  When:Jun20'17-15:57:45 Why:~introductions.1.1.~control.1.0   F:16 
+Command: :reset
+Start: user:gi bot:imagin ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:57:52 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:56:14 0:Jun20'17-15:56:18 F:0 P:Jun20'17-15:57:45 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:gi bot:imagin ip: rand:1602 (~introductions) 0 ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:57:58 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:57:55 0:Jun20'17-15:56:18 F:0 P:Jun20'17-15:57:45 Why:~control.1.0.~control.1.0 
+Command: :reset
+Start: user:gi bot:imagin ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:58:01 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:57:55 0:Jun20'17-15:56:18 F:0 P:Jun20'17-15:57:45 Why:~introductions.1.0.~control.0.0 
+Respond: user:gi bot:imagin ip: (~introductions) 1   GRACIAS ==> ¿En qué puedo ayudarle?  When:Jun20'17-15:58:04 Why:~introductions.1.1.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:gi bot:imagin ip: rand:1602 (~introductions) 1 ==> Buenos días!  When:Jun20'17-15:58:26 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:58:23 0:Jun20'17-15:56:18 F:0 P:Jun20'17-15:58:04 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:gi bot:imagin ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:58:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:58:23 0:Jun20'17-15:56:18 F:0 P:Jun20'17-15:58:04 Why:~introductions.1.0.~control.0.0 
+Respond: user:gi bot:imagin ip: (~introductions) 1   GRACIAS ==> En qué puedo ayudarle?  When:Jun20'17-15:58:31 Why:~introductions.1.1.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:gi bot:imagin ip: rand:1602 (~introductions) 1 ==> Buenos días!  When:Jun20'17-16:01:05 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:01:01 0:Jun20'17-15:56:18 F:0 P:Jun20'17-15:58:31 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:gi bot:imagin ip: rand:1600 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:01:10 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:01:01 0:Jun20'17-15:56:18 F:0 P:Jun20'17-15:58:31 Why:~introductions.1.0.~control.0.0 
+Respond: user:gi bot:imagin ip: (~introductions) 1   HOLA ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:01:13 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:gi bot:imagin ip: (~introductions) 2   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-16:01:18 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:gi bot:imagin ip: (~tarjeta) 3   como puedo bloquear mi tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun20'17-16:02:00 Why:~tarjeta.0.0.~control.1.0   F:0 
+Respond: user:gi bot:imagin ip: (~tarjeta) 4   no recuerdo mi pin ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:05:47 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:gi bot:imagin ip: (~tarjeta) 5   como puedo dar de alta mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:06:05 Why:~tarjeta.4.0.~control.1.0   F:16 
+Respond: user:gi bot:imagin ip: (~tarjeta) 6   quiero personalizar mi tarjeta ==> Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight  When:Jun20'17-16:06:20 Why:~tarjeta.2.0.~control.1.0   F:0 

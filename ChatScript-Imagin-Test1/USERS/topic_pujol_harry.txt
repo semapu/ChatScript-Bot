@@ -1,0 +1,22 @@
+USERS/topic_pujol_harry.txt
+jul2116 Jun20'17-16:39:20 0 0 |
+1 0 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 8H9S3Js*Ok3 ca 0 0 0 
+#`end topics
+$cs_randindex=1771
+$cs_bot=Harry
+$cs_login=pujol
+$cs_token=163583
+$cs_control_main=~control
+$userprompt=pujol: >
+$botprompt=HARRY: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+#`end chatbot

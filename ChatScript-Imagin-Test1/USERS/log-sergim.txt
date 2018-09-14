@@ -1,0 +1,68 @@
+﻿Start: user:sergim bot:imagin ip: rand:2950 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-11:03:54 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:01:34 0:Jun28'17-11:03:54 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergim bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:03:56 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~tarjeta) 2   como puedo activar mi tarjeta? ==> Necesito conocer el número de la tarjeta  When:Jun28'17-11:04:04 Why:~tarjeta.1.0.~control.1.0   F:16 
+Respond: user:sergim bot:imagin ip: (~tarjeta) 3   1234 ==> El número de tu tarjeta es: 1234 .   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun28'17-11:04:07 Why:~tarjeta.1.1   F:0 
+Respond: user:sergim bot:imagin ip: (~tarjeta) 4   cual es tu fuentes? ==> No entiendo lo que me quiere decir.  When:Jun28'17-11:04:23 Why:~control.1.0.~control.1.0   F:16 
+Command: :Build Imagin_test1
+Start: user:sergim bot:imagin ip: rand:2954 (~introductions) 4 ==> Hola!  When:Jun28'17-11:05:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:05:04 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:04:23 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergim bot:imagin ip: rand:2950 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-11:05:16 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:05:04 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:04:23 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergim bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:05:18 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 2   puedes ayudarme en algo? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:05:29 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~quehaces) 3   cuales son tus fuertes? ==> CHIT que haces  When:Jun28'17-11:05:38 Why:~quehaces.0.0.~control.1.0   F:16 
+Respond: user:sergim bot:imagin ip: (~quehaces) 4   puedes ayudarme en algo? ==> CHIT que haces  When:Jun28'17-11:05:47 Why:~quehaces.1.0.~control.1.0   F:0 
+Command: :Build Imagin_test1
+Start: user:sergim bot:imagin ip: rand:2954 (~introductions) 4 ==> Hola!  When:Jun28'17-11:06:50 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:06:46 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:05:47 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergim bot:imagin ip: rand:2950 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-11:06:52 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:06:46 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:05:47 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergim bot:imagin ip: (~introductions) 1   puedes ayudarme en algo? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:06:55 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 2   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:06:58 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~quehaces) 3   cuales son tus fuertes? ==> CHIT que haces  When:Jun28'17-11:07:01 Why:~quehaces.0.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~quehaces) 4   cuentame tu especializacion ==> CHIT que haces  When:Jun28'17-11:07:16 Why:~quehaces.8.0.~control.1.0   F:15 
+Respond: user:sergim bot:imagin ip: (~quehaces) 5   que haces ==> CHIT que haces  When:Jun28'17-11:23:32 Why:~quehaces.44.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~quehaces) 6   que haces? ==> CHIT que haces  When:Jun28'17-11:23:35 Why:~quehaces.44.0.~control.1.0   F:0 
+Command: :Build Imagin_test1
+No such bot  sergim -  -  status: defaultbot word not found   in topic_sergim_anonymous.txt at 0: ^anonymous
+    Command: :Build Imagin_test1
+No such bot  sergim -  -  status: defaultbot word not found   in topic_sergim_anonymous.txt at 0: ^anonymous
+    Command: :Build Imagin_test1
+No such bot  sergim -  -  status: defaultbot word not found   in topic_sergim_anonymous.txt at 0: ^anonymous
+    Command: :Build Imagin_test1
+No such bot  sergim -  -  status: defaultbot word not found   in topic_sergim_anonymous.txt at 0: ^anonymous
+    
+No such bot  sergim -  -  status: defaultbot word not found   in topic_sergim_anonymous.txt at 1: ^anonymous
+    Command: :Build Imagin_test1
+No such bot  sergim -  -  status: defaultbot word not found   in topic_sergim_anonymous.txt at 0: ^anonymous
+    Command: :Build Imagin_test1
+Start: user:sergim bot:imagin ip: rand:2956 (~introductions) 6 ==> Buenos días!  When:Jun28'17-11:34:21 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:34:17 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:23:35 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergim bot:imagin ip: rand:2950 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-11:34:25 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:34:17 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:23:35 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergim bot:imagin ip: (~introductions) 1   HOLA ==> En que puedo serte de ayuda?  When:Jun28'17-11:34:31 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 2   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-11:34:35 Why:~introductions.4.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 3   dejame en paz ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:34:40 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 4   me voy a dormir ==> No entiendo lo que me quiere decir.  When:Jun28'17-11:34:47 Why:~control.1.0.~control.1.0   F:0 
+Command: :Build Imagin_test1
+Start: user:sergim bot:imagin ip: rand:2954 (~introductions) 4 ==> Hola!  When:Jun28'17-11:35:14 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:35:10 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:34:47 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergim bot:imagin ip: rand:2950 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-11:35:18 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:35:10 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:34:47 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergim bot:imagin ip: (~introductions) 1   holza ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:35:20 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 2   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:35:22 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 3   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-11:35:23 Why:~introductions.4.0.~control.1.0   F:15 
+Respond: user:sergim bot:imagin ip: (~introductions) 4   dejame en paz ==> No entiendo lo que me quiere decir.  When:Jun28'17-11:35:30 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergim bot:imagin ip: rand:2954 (~introductions) 4 ==> Hola!  When:Jun28'17-11:35:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:35:44 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:35:30 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergim bot:imagin ip: rand:2950 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-11:35:50 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:35:44 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:35:30 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergim bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:35:52 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 2   me voy ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:35:54 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 3   cueales son tus funtes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:36:05 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 4   hola ==> No entiendo lo que me quiere decir.  When:Jun28'17-11:36:07 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:sergim bot:imagin ip: rand:2950 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-11:36:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:35:44 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:36:07 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergim bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:36:13 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 2   cuales son tus funtes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:36:20 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergim bot:imagin ip: rand:2950 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-11:36:23 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:35:44 0:Jun28'17-11:03:54 F:0 P:Jun28'17-11:36:20 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergim bot:imagin ip: (~introductions) 1   cuales son tus funtes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:36:27 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 2   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:36:29 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergim bot:imagin ip: (~introductions) 3   cuales son tus funtes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:36:34 Why:~control.1.0.~control.1.0   F:15 

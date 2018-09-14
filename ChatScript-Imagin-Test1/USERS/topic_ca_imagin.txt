@@ -1,0 +1,25 @@
+USERS/topic_ca_imagin.txt
+jul2116 Jun28'17-09:52:31 Jun28'17-10:02:40 0 |
+1 2 0 DY 0 10 10 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 3O%a9 ba 1 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=ca: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=ca
+$cs_bot=Imagin
+$cs_randindex=3836
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ cuales son tus fuertes?
+#`end user
+ Hola!
+ En que puedo serte de ayuda?
+ ¿Puede repetir lo que ha dicho con otras palabras?
+#`end chatbot

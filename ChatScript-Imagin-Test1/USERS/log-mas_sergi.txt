@@ -1,0 +1,66 @@
+﻿Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:15:29 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:01:01 0:Jun20'17-16:15:29 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   hola ==> No comprendo lo que ha dicho.  When:Jun20'17-16:15:31 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:mas_sergi bot:imagin ip: rand:2058 (~introductions) 1 ==> Hola!  When:Jun20'17-16:17:13 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:17:09 0:Jun20'17-16:15:29 F:0 P:Jun20'17-16:15:31 Why:~introductions.0.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 2   hola ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:17:17 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 3   como te llmas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:17:23 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 4   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-16:17:26 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 5   como te llamas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:17:31 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 6   como puedo bloquear me tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun20'17-16:17:45 Why:~tarjeta.0.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 7   como puedo activar mi tajeta? ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:28:39 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 8   como puedo activar mi tajeta? ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:28:42 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:28:46 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:17:09 0:Jun20'17-16:15:29 F:0 P:Jun20'17-16:28:42 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   como puedo activar mi tajeta? ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:28:49 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 2   como puedo activar mi tajeta? ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:28:51 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 3   como puedo dar de alta mi tajeta? ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:29:02 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 4   como puedo bloquear mi tajeta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:29:12 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 5   como puedo bloquear mi tajeta? ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:29:16 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 6   hola ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:29:46 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 7   como puedo bloquear mi tajeta? ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:29:56 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 8   como puedo bloquear mi tajeta ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:29:58 Why:~control.1.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:mas_sergi bot:imagin ip: rand:2065 (~introductions) 8 ==> Hola!  When:Jun20'17-16:30:16 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:30:12 0:Jun20'17-16:15:29 F:0 P:Jun20'17-16:29:58 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:30:21 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:30:12 0:Jun20'17-16:15:29 F:0 P:Jun20'17-16:29:58 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   hola ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:30:23 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 2   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-16:30:28 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 3   como puedo activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:30:38 Why:~tarjeta.4.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 4   i como puedo bloquearla? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:30:45 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 5   y como puedo bloquearla mi tarjeta? ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:30:55 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 6   como se bloquea la tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun20'17-16:31:21 Why:~tarjeta.0.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 7     ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:31:22 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 8     ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:31:23 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 9     ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:31:23 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 10     ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:31:23 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 11     ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:31:23 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 12     ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:31:24 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 13     ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:31:24 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 14   hola ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:31:25 Why:~control.1.0.~control.1.0   F:63 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 15   hola ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:31:29 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:31:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:30:12 0:Jun20'17-16:15:29 F:1497969089-2.1.0.2.1.0 P:Jun20'17-16:31:29 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   hola ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:31:33 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 2   hola ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:31:35 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 3   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-16:31:39 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~tarjeta) 4   como puedo activar la tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:31:56 Why:~tarjeta.4.0.~control.1.0   F:0 
+Command: :reset
+Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:33:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:30:12 0:Jun20'17-16:15:29 F:1497969089-2.1.0.2.1.0 P:Jun20'17-16:31:56 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   holita ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:33:25 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:mas_sergi bot:imagin ip: rand:2058 (~introductions) 1 ==> Hola!  When:Jun20'17-16:33:36 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:33:32 0:Jun20'17-16:15:29 F:1497969089-2.1.0.2.1.0 P:Jun20'17-16:33:25 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:33:39 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:33:32 0:Jun20'17-16:15:29 F:1497969089-2.1.0.2.1.0 P:Jun20'17-16:33:25 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   holita ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:33:42 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 2   hola ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:33:44 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 3   hola ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:33:47 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:33:49 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:33:32 0:Jun20'17-16:15:29 F:1497969089-2.1.0.2.1.0 P:Jun20'17-16:33:47 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   hola ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:33:50 Why:~introductions.2.0.~control.1.0   F:16 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 2   holita ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:33:54 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:33:56 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:33:32 0:Jun20'17-16:15:29 F:1497969089-2.1.0.2.1.0 P:Jun20'17-16:33:54 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   holita ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:33:59 Why:~introductions.2.0.~control.1.0   F:0 
+Command: :reset
+Start: user:mas_sergi bot:imagin ip: rand:2056 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:34:01 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:33:32 0:Jun20'17-16:15:29 F:1497969089-2.1.0.2.1.0 P:Jun20'17-16:33:59 Why:~introductions.1.0.~control.0.0 
+Respond: user:mas_sergi bot:imagin ip: (~introductions) 1   hola ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:34:02 Why:~introductions.2.0.~control.1.0   F:0 

@@ -1,0 +1,23 @@
+USERS/topic__imagin.txt
+jul2116 Jun27'17-14:25:33 Jun27'17-14:26:42 0 |
+1 1 ~tran ~Mb vM%XF  DY 0 9 9 0 # start, input#, rejoindertopic,rejoinderid (a:  ( _* ) $concepto = '_0 \n \t destinatario: $destinatario \n \t concepto: $concepto ),checksum
+~introductions ~tran #pending
+~tran + 1 vM%XF ea 1 0 0 
+#`end topics
+$destinatario=madre para su cumpleaÑos
+$cs_randindex=0
+$cs_bot=Imagin
+$cs_token=512
+$cs_control_main=~control
+$userprompt=: >
+$botprompt=ImaginBank Bot: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ quiero hacer una transferencia a mi madre para su cumpleaÑos
+#`end user
+ Bienvenido!
+ \r\n\t Necesito conocer el concepto
+#`end chatbot

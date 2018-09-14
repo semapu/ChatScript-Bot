@@ -1,0 +1,37 @@
+TOPIC: ~VALE repeat (~sí)
+
+u: (de acuerdo) ^keep()
+CHIT_vale
+
+u: (me parece bien) ^keep()
+CHIT_vale
+
+u: (muy bien) ^keep()
+CHIT_vale
+
+u: (~sí) ^keep()
+CHIT_vale
+
+u: (perfecto) ^keep()
+CHIT_vale
+
+u: (quedamos asi) ^keep()
+CHIT_vale
+
+u: (entendido) ^keep()
+CHIT_vale
+
+u: (volvamos a nuestra conversacion) ^keep()
+CHIT_vale
+
+u: (de maravilla) ^keep()
+CHIT_vale
+
+u: (eso es bueno) ^keep()
+CHIT_vale
+
+u: (que bien) ^keep()
+CHIT_vale
+
+u: (me alegro) ^keep()
+CHIT_vale

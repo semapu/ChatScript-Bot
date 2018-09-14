@@ -1,0 +1,22 @@
+USERS/topic_maser_imagin.txt
+jul2116 Jun21'17-12:11:07 Jun21'17-12:27:39 0 |
+1 1 0 DY 0 9 9 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~tran #pending
+#`end topics
+$cs_randindex=1134
+$cs_bot=Imagin
+$cs_login=maser
+$cs_token=512
+$cs_control_main=~control
+$userprompt=maser: >
+$botprompt=ImaginBank Bot: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos
+#`end user
+ Hola!
+ Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.
+#`end chatbot

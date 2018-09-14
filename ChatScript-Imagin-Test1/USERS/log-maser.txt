@@ -1,0 +1,73 @@
+﻿Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:11:07 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:46:35 0:Jun21'17-12:11:07 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:11:09 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~introductions) 2   como puedo activar mi tarjeta? ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-12:11:23 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:maser bot:imagin ip: (~tarjeta) 3   y bloquear mi tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun21'17-12:11:29 Why:~tarjeta.0.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~saludo-despedida) 4   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun21'17-12:11:35 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~saludo-despedida) 5   quiero ver mi saldo ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun21'17-12:11:47 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:maser bot:imagin ip: (~tran) 6   quiero hacer una transferencia de 220? ==> Transferencia-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:12:06 Why:~tran.1.0.~control.1.0   F:16 
+Respond: user:maser bot:imagin ip: (~tran) 7   quiero transferir 3 euros a mi madre ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:12:18 Why:~tran.0.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~tran) 8   quiero activar mi tajeta numero 1234 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun21'17-12:16:39 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:maser bot:imagin ip: (~tran) 9   quiero activar mi tajeta numero 1234 ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-12:16:49 Why:~control.1.0.~control.1.0   F:15 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:16:52 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:46:35 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:16:49 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:16:54 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:maser bot:imagin ip: (~tarjeta) 2   activar mi tarjeta numero 1234 ==> El número de tu tarjeta es: 1234 .   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun21'17-12:17:11 Why:~tarjeta.1.0.~control.1.0   F:16 
+Respond: user:maser bot:imagin ip: (~tarjeta) 3   quiero activar mi tarjeta numero 1234 ==> El número de tu tarjeta es: 1234 .   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun21'17-12:17:22 Why:~tarjeta.1.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~tarjeta) 4   quiero activar mi tarjeta numero 123 ==> El número de tu tarjeta es: 123 .   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun21'17-12:17:25 Why:~tarjeta.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:maser bot:imagin ip: rand:1139 (~introductions) 4 ==> Buenos días!  When:Jun21'17-12:18:43 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:18:40 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:17:25 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:18:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:18:40 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:17:25 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:18:50 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~tran) 2   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> Transferencia-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:19:16 Why:~tran.1.0.~control.1.0   F:15 
+Respond: user:maser bot:imagin ip: (~tran) 3     ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun21'17-12:19:22 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~tarjeta) 4   quiero activar mi tarjeta numero 123 ==> El número de tu tarjeta es: 123 .   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun21'17-12:19:27 Why:~tarjeta.1.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~tran) 5   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> Transferencia-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:19:32 Why:~tran.1.0.~control.1.0   F:16 
+Respond: user:maser bot:imagin ip: (~tran) 6     ==> No entiendo lo que me quiere decir.  When:Jun21'17-12:19:35 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:maser bot:imagin ip: rand:1142 (~introductions) 6 ==> Bienvenido!  When:Jun21'17-12:20:10 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:20:06 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:19:35 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:20:13 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:20:06 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:19:35 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:20:15 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~tarjeta) 2   quiero activar mi tarjeta numero 2345 ==> El número de tu tarjeta es: 2345 .   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun21'17-12:20:25 Why:~tarjeta.1.0.~control.1.0   F:16 
+Respond: user:maser bot:imagin ip: (~tarjeta) 3   quiero activar mi tarjeta numero ES2345 ==> El número de tu tarjeta es: unknown-word.   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun21'17-12:20:36 Why:~tarjeta.1.0.~control.1.0   F:16 
+Respond: user:maser bot:imagin ip: (~tran) 4   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> Transferencia-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:20:50 Why:~tran.1.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+No such bot  maser -  -  status: defaultbot word not found   in topic_maser_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  maser -  -  status: defaultbot word not found   in topic_maser_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+Start: user:maser bot:imagin ip: rand:1139 (~introductions) 4 ==> Buenos días!  When:Jun21'17-12:22:05 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:22:01 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:20:50 Why:~introductions.0.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~saludo-despedida) 5   hola ==> Hola de nuevo. Sigo aqui a la espera de poder ayudarte  When:Jun21'17-12:22:07 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:22:16 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:22:01 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:22:07 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:22:18 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~tran) 2   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> Transferencia-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:22:24 Why:~tran.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:maser bot:imagin ip: rand:1137 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-12:22:41 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:22:37 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:22:24 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:22:44 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:22:37 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:22:24 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:22:50 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~introductions) 2   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-12:22:52 Why:~control.1.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:maser bot:imagin ip: rand:1137 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-12:24:27 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:24:24 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:22:52 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:24:31 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:24:24 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:22:52 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:24:34 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~introductions) 2   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-12:24:36 Why:~control.1.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:maser bot:imagin ip: rand:1137 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-12:25:57 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:25:54 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:24:36 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:26:00 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:25:54 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:24:36 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:26:02 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:maser bot:imagin ip: (~introductions) 2   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-12:26:07 Why:~control.1.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:maser bot:imagin ip: rand:1137 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-12:27:03 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:26:59 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:26:07 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:27:04 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:26:59 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:26:07 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~tran) 1   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:27:11 Why:~tran.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:maser bot:imagin ip: rand:1136 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:27:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:27:29 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:27:11 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:maser bot:imagin ip: rand:1135 (~introductions) 0 ==> Hola!  When:Jun21'17-12:27:37 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:27:29 0:Jun21'17-12:11:07 F:0 P:Jun21'17-12:27:11 Why:~introductions.1.0.~control.0.0 
+Respond: user:maser bot:imagin ip: (~tran) 1   quiero hacer una transferencia de 200? a mi madre por su cumpleaÑos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:27:39 Why:~tran.1.0.~control.1.0   F:16 

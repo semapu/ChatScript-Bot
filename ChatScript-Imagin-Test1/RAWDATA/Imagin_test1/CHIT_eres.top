@@ -1,0 +1,133 @@
+TOPIC: ~ERES repeat (eres)
+
+u: (eres) ^keep()
+CHIT_eres
+
+u: (eres humano) ^keep()
+CHIT_eres
+
+u: (eres por casualidad) ^keep()
+CHIT_eres
+
+u: (eres una persona) ^keep()
+CHIT_eres
+
+u: (eres un asistente) ^keep()
+CHIT_eres
+
+u: (eres un experto) ^keep()
+CHIT_eres
+
+u: (eres un operador) ^keep()
+CHIT_eres
+
+u: (eres un robot) ^keep()
+CHIT_eres
+
+u: (eres un trabajador de) ^keep()
+CHIT_eres
+
+u: (es este) ^keep()
+CHIT_eres
+
+u: (es posible que seas) ^keep()
+CHIT_eres
+
+u: (es posible que seas un) ^keep()
+CHIT_eres
+
+u: (estas en el banco) ^keep()
+CHIT_eres
+
+u: (estas en el departamento) ^keep()
+CHIT_eres
+
+u: (que eres) ^keep()
+CHIT_eres
+
+u: (quien eres) ^keep()
+CHIT_eres
+
+u: (no seras por casualidad) ^keep()
+CHIT_eres
+
+u: (no seras por casualidad un) ^keep()
+CHIT_eres
+
+u: (trabajas aqu�) ^keep()
+CHIT_eres
+
+u: (estoy hablando con una persona real) ^keep()
+CHIT_eres
+
+u: (eres algo) ^keep()
+CHIT_eres
+
+u: (que es lo que eres) ^keep()
+CHIT_eres
+
+u: (estaria bien que me dijeras que eres) ^keep()
+CHIT_eres
+
+u: (por favor dime que eres) ^keep()
+CHIT_eres
+
+u: (dime que eres) ^keep()
+CHIT_eres
+
+u: (cuentame que es lo que eres) ^keep()
+CHIT_eres
+
+u: (se puede saber que eres) ^keep()
+CHIT_eres
+
+u: (se puede saber que es lo que eres) ^keep()
+CHIT_eres
+
+u: (como te llaman) ^keep()
+CHIT_eres
+
+u: (desearia saber con quien hablo) ^keep()
+CHIT_eres
+
+u: (quiero saber con que hablo) ^keep()
+CHIT_eres
+
+u: (quiero saber con quien hablo) ^keep()
+CHIT_eres
+
+u: (exijo saber con quien hablo) ^keep()
+CHIT_eres
+
+u: (exijo saber que eres) ^keep()
+CHIT_eres
+
+u: (necesito saber que eres) ^keep()
+CHIT_eres
+
+u: (necesito saber quien eres) ^keep()
+CHIT_eres
+
+u: (eres un) ^keep()
+CHIT_eres
+
+u: (eres una) ^keep()
+CHIT_eres
+
+u: (eres del departamento de fondos) ^keep()
+CHIT_eres
+
+u: (como te llamas) ^keep()
+CHIT_eres
+
+u: (cual es tu nombre) ^keep()
+CHIT_eres
+
+u: (dime tu nombre) ^keep()
+CHIT_eres
+
+u: (como te suelen llamar) ^keep()
+CHIT_eres
+
+u: (desearia saber con que hablo) ^keep()
+CHIT_eres

@@ -1,0 +1,2 @@
+﻿Start: user:sergi_mas bot:imagin ip: rand:552 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:08:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:01:01 0:Jun20'17-16:08:11 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergi_mas bot:imagin ip: (~introductions) 1   hola ==> No consigue entender lo que me está diciendo.  When:Jun20'17-16:08:14 Why:~control.1.0.~control.1.0   F:15 

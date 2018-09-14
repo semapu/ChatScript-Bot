@@ -1,0 +1,15 @@
+USERS/topic__.txt
+jul2116 Jun20'17-15:30:15 Jun20'17-15:30:15 0 |
+1 1 0 DY 0 7 7 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+#pending
+#`end topics
+$cs_bot=Imaginbankbot
+$cs_randindex=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ :exit
+#`end user
+#`end chatbot

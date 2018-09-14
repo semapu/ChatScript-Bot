@@ -1,0 +1,25 @@
+USERS/topic_ergi_dory.txt
+jul2116 Jun20'17-15:51:11 Jun20'17-15:51:19 0 |
+1 2 0 DY 0 6 6 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 7Md!S ca 2 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=ergi: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=ergi
+$cs_bot=Dory
+$cs_randindex=3481
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ como te llamas?
+#`end user
+ Bienvenido!
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ Soy ImaginBank Bot.
+#`end chatbot

@@ -1,0 +1,29 @@
+USERS/topic_sergimas_imagin.txt
+jul2116 Jun28'17-11:37:19 Jun28'17-11:39:56 0 |
+1 4 0 DY 0 10 10 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~tarjeta #pending
+~introductions + 1 3O%a9 bi 2 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=sergimas: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=sergimas
+$cs_bot=Imagin
+$cs_randindex=382
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ holas
+ adios
+ dejame en paz
+ como puedo bloquear mi tarjeta?
+#`end user
+ Buenos días!
+ En que puedo serte de ayuda?
+ Espero poder serte de ayuda la próxima vez.
+ No entiendo lo que me quiere decir.
+ Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.
+#`end chatbot

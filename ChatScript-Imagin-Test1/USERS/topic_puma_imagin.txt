@@ -1,0 +1,37 @@
+USERS/topic_puma_imagin.txt
+jul2116 Jun21'17-12:28:02 Jun21'17-13:15:35 0 |
+1 7 0 DY 0 9 9 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~tarjeta ~saludo-despedida ~tran #pending
+~introductions + 1 3O%a9 ba 1 0 0 
+~tarjeta + 1 $u+v% ea 3 0 0 
+~tran + 1 VO?Gk ca 7 0 0 
+#`end topics
+$cs_randindex=2930
+$cs_bot=Imagin
+$cs_login=puma
+$cs_token=512
+$cs_control_main=~control
+$userprompt=puma: >
+$botprompt=ImaginBank Bot: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ ACTIVAR MI TARJETA
+ 9876
+ ADIOS
+ HOLA
+ TRANSFERENCIA DE 200?
+ A MI MADRE POR SU CUMPLEA•OS
+#`end user
+ Hola!
+ En que puedo serte de ayuda?
+ \t Necesito conocer el n√∫mero de la tarjeta
+ El n√∫mero de tu tarjeta es: 9876 . \r\n1. Busca un cajero Caixabank \r\n2. Introduce la tarjeta y elige tu PIN \r\n3. O acude a tu oficina de confianza
+ Espero haber podido serte de ayuda
+ Gracias por vorvel a saludar. En que puedo ayudarte?
+ \r\n\t Necesito conocer el destinatario y el concepto
+ \r\n\t Destinatario: MADRE \r\n\t concepto: CUMPLEA•OS
+#`end chatbot

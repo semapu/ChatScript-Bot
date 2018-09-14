@@ -1,0 +1,31 @@
+USERS/topic_s_test.txt
+jul2116 Jun20'17-15:09:17 Jun20'17-15:09:41 0 |
+1 4 0 DY 0 4 4 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 BJtPV ia 4 0 0 
+#`end topics
+$cs_token=1184511
+$botprompt=TEST: 
+$userprompt=s: >
+$cs_externaltag=~xpostagsentence
+$cs_language=english
+$cs_control_main=~control
+$cs_login=s
+$cs_bot=Test
+$cs_randindex=1195
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ HI
+ hi
+ :buils harry
+ :buils HARRY
+#`end user
+ Use :prepare to see your input data German tagging IF YOU HAVE INSTALLED TREETAGGER + German data.
+ Line gambit
+ Line gambit
+ Line gambit
+ Line gambit
+#`end chatbot

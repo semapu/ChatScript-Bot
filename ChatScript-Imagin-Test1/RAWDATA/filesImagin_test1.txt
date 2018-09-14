@@ -1,0 +1,6 @@
+# underlying conversation system
+RAWDATA/Imagin_test1/	
+# quibble ability
+RAWDATA/QUIBBLE_ES/
+
+

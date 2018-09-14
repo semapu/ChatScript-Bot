@@ -1,0 +1,6 @@
+﻿
+No such bot  ergi -  -  status: DORY   in topic_ergi_dory.txt at 1: ^dory
+    Command: :build Imagin_test1
+Start: user:ergi bot:dory ip: rand:3481 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:51:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:51:08 0:Jun20'17-15:51:11 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:ergi bot:dory ip: (~introductions) 1   hola ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-15:51:14 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ergi bot:dory ip: (~introductions) 2   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-15:51:19 Why:~introductions.2.0.~control.1.0   F:0 

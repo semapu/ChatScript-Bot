@@ -1,0 +1,163 @@
+﻿Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:13:06 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:12:23 0:Jun28'17-12:13:06 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:sergipuma bot:imagin ip: rand:243 (~introductions) 0 ==> Hola!  When:Jun28'17-12:13:23 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:13:25 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:13:36 Why:~introductions.3.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~tarjeta) 2   como puedo bloquear mi tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun28'17-12:13:44 Why:~tarjeta.0.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~tarjeta) 3   hola ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:13:51 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:13:53 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:13:51 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   felices pascuas ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:13:57 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:14:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:13:57 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   cuentame cosas de tu compaÑia ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:14:17 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 2   cuentame cosas de tu compania ==> CHIT de que compania eres  When:Jun28'17-12:14:20 Why:~dequecompaniaeres.2.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 3   cuentame cosas de tu compaÑia ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:14:24 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 4   cuentame cosas de tu compania ==> CHIT de que compania eres  When:Jun28'17-12:14:27 Why:~dequecompaniaeres.2.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 5   como esta ested? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:14:39 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 6   como esta ested? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:14:46 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:14:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:14:46 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   como esta ested? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:14:50 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:14:54 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:14:50 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:14:55 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   como esta ested? ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:14:56 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 3   cuentame cosas de tu compania ==> CHIT de que compania eres  When:Jun28'17-12:14:59 Why:~dequecompaniaeres.2.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 4   como va? ==> CHIT que tal  When:Jun28'17-12:15:09 Why:~quetal.7.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 5   como esta usted? ==> CHIT que tal  When:Jun28'17-12:15:19 Why:~quetal.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 6   como va? ==> CHIT que tal  When:Jun28'17-12:15:23 Why:~quetal.7.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 7   lo haces muy bien ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:15:35 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 8   lo haces muy bien ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:15:49 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:15:52 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:15:49 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   lo haces muy bien ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:16:04 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:16:09 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:16:04 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:16:11 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   lo haces muy bien ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:16:13 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 3   como va? ==> CHIT que tal  When:Jun28'17-12:16:17 Why:~quetal.7.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 4   como esta ested? ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:16:19 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 5   como va? ==> CHIT que tal  When:Jun28'17-12:16:25 Why:~quetal.7.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 6   como esta ested? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:16:30 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 7   como va? ==> CHIT que tal  When:Jun28'17-12:16:32 Why:~quetal.7.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~comofuncionas) 8   como funcionas ==> CHIT como funcionas  When:Jun28'17-12:16:52 Why:~comofuncionas.0.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~comofuncionas) 9   como sabes lo que voy a preguntar? ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:17:03 Why:~control.1.0.~control.1.0   F:15 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:17:05 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:17:03 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   como sabes lo que voy a preguntar? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:17:07 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:17:12 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:13:18 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:17:07 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:17:13 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   como sabes lo que voy a preguntar? ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:17:14 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~comofuncionas) 3   como funcionas ==> CHIT como funcionas  When:Jun28'17-12:17:17 Why:~comofuncionas.0.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~comofuncionas) 4   como te lo haces para contestar? ==> CHIT como funcionas  When:Jun28'17-12:17:36 Why:~comofuncionas.1.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~eres) 5   eres humano? ==> CHIT eres  When:Jun28'17-12:17:50 Why:~eres.0.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 6   como va? ==> CHIT que tal  When:Jun28'17-12:17:59 Why:~quetal.7.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 7   felices fiestas ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:18:17 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 8   buena pascua ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:18:31 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergipuma bot:imagin ip: rand:250 (~introductions) 8 ==> Buenos días!  When:Jun28'17-12:19:04 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:19:00 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:18:31 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:19:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:19:00 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:18:31 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:19:11 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   felices pascuas ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:19:20 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 3   buena pascua ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:19:26 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:19:29 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:19:00 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:19:26 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~eres) 1   eres humano? ==> CHIT eres  When:Jun28'17-12:19:33 Why:~eres.0.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~eres) 2   felices fiestas ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:19:41 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergipuma bot:imagin ip: rand:244 (~introductions) 2 ==> Hola!  When:Jun28'17-12:21:27 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:21:22 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:19:41 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:21:30 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:21:22 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:19:41 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:21:31 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~felicitaciones) 2   felices pascuas ==> CHIT felicitaciones  When:Jun28'17-12:21:36 Why:~felicitaciones.0.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~felicitaciones) 3   lo haces muy bien ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:34:18 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~felicitaciones) 4   estas bien programado ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:34:42 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergipuma bot:imagin ip: rand:246 (~introductions) 4 ==> Hola!  When:Jun28'17-12:36:16 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:36:12 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:34:42 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:36:20 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:36:12 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:34:42 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:36:22 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   te felicito ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:36:27 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~eres) 3   eres humano? ==> CHIT eres  When:Jun28'17-12:36:34 Why:~eres.0.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergipuma bot:imagin ip: rand:245 (~introductions) 3 ==> Buenos días!  When:Jun28'17-12:39:04 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:39:00 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:36:34 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:39:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:39:00 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:36:34 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:39:29 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   muuy bien ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:39:33 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~quetal) 3   como estamos ==> CHIT que tal  When:Jun28'17-12:40:43 Why:~quetal.0.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~novedades) 4   cuentame novedades ==> CHIT novedades  When:Jun28'17-12:41:03 Why:~novedades.6.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~novedades) 5   puedes llamarme ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:41:28 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~novedades) 6   me llamo ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:41:33 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~novedades) 7   llamame ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:42:02 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:42:04 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:39:00 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:42:02 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:42:05 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   llamame ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:42:22 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~halagos) 3   se te da bien esto ==> CHIT halagos  When:Jun28'17-12:42:42 Why:~halagos.6.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~felicitaciones) 4   feliz pascua ==> CHIT felicitaciones  When:Jun28'17-12:42:56 Why:~felicitaciones.8.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~eres) 5   eres un robot? ==> CHIT eres  When:Jun28'17-12:43:11 Why:~eres.0.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 6   quien es el presidente de tu compania? ==> CHIT de que compania eres  When:Jun28'17-12:43:32 Why:~dequecompaniaeres.1.0.~control.1.0   F:15 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 7   donde vives? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:43:46 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 8   cuentame cosas sobre ti ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:44:10 Why:~control.1.0.~control.1.0   F:15 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:44:12 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:39:00 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:44:10 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   cuentame cosas sobre ti ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:44:14 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   donde vives? ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:44:16 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 3   me voy ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:44:32 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergipuma bot:imagin ip: rand:245 (~introductions) 3 ==> Buenos días!  When:Jun28'17-12:45:07 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:45:02 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:44:32 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:45:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:45:02 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:44:32 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:45:10 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-12:45:14 Why:~introductions.4.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 3   como activar mi tarjeta? ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:45:22 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:45:24 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:45:02 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:45:22 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   como activar mi tarjeta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:45:26 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   como puedo activar mi tarjeta? ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:45:34 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:45:36 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:45:02 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:45:34 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   como activar mi tarjeta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:45:37 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:45:41 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:45:02 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:45:37 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   como puedo activar mi tarjeta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:45:46 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-12:45:53 Why:~introductions.4.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 3   me voy ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:46:00 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergipuma bot:imagin ip: rand:245 (~introductions) 3 ==> Buenos días!  When:Jun28'17-12:46:38 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:46:33 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:46:00 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:46:40 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:46:33 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:46:00 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   me voy ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-12:46:43 Why:~introductions.4.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:46:54 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 3   dejame en paz ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:47:03 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergipuma bot:imagin ip: rand:245 (~introductions) 3 ==> Buenos días!  When:Jun28'17-12:47:37 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:47:33 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:47:03 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:47:40 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:47:33 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:47:03 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:47:43 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   bueno me voy ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-12:47:48 Why:~introductions.4.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:47:57 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:47:33 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:47:48 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:47:58 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   quiero que me dejes en paz ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:48:06 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 3   cuentame cosas sobre ti ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:48:23 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:48:26 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:47:33 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:48:23 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:48:29 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   cuentame cosas sobre ti ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:48:31 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 3   te gusta la musica? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:48:42 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:48:44 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:47:33 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:48:42 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   te gusta la musica? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:48:48 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 2   en que empresa estas? ==> CHIT de que compania eres  When:Jun28'17-12:49:02 Why:~dequecompaniaeres.3.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~dequecompaniaeres) 3   buena pascua ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:50:00 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:sergipuma bot:imagin ip: rand:242 (~introductions) 0 ==> Bienvenido!  When:Jun28'17-12:50:03 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:47:33 0:Jun28'17-12:13:06 F:0 P:Jun28'17-12:50:00 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 1   buena pascua ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:50:05 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 2   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:50:07 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:sergipuma bot:imagin ip: (~introductions) 3   buena pascua ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:50:09 Why:~control.1.0.~control.1.0   F:0 

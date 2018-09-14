@@ -1,0 +1,40 @@
+USERS/topic_sergi_dory.txt
+jul2116 Jun20'17-15:16:19 Jun20'17-15:50:29 0 |
+7 8 0 DY 0 6 6 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 7Md!S ca 5 0 0 
+#`end topics
+$cs_randindex=57
+$cs_bot=Dory
+$cs_login=sergi
+$cs_token=512
+$cs_control_main=~control
+$userprompt=sergi: >
+$botprompt=ImaginBank Bot: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ hola
+ como te llamas?
+ cual es tu nambre?
+ como te llamas?
+ como puedo acceder a la linea abierta?
+ hola
+ como te llamas?
+#`end user
+ Bienvenido!
+ ¿Tiene alguna pregunta?
+ Buenos dias!
+ ¿Le puedo ayudar en algo?
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ Hola!
+ Soy ImaginBank Bot.
+ No comprendo lo que ha dicho.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+#`end chatbot

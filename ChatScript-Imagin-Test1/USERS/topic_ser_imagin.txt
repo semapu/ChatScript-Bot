@@ -1,0 +1,25 @@
+USERS/topic_ser_imagin.txt
+jul2116 Jun28'17-11:40:51 Jun28'17-12:12:51 0 |
+1 2 0 DY 0 18 18 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 3O%a9 ba 1 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=ser: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=ser
+$cs_bot=Imagin
+$cs_randindex=3451
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ felices fiestas
+#`end user
+ Buenos días!
+ En que puedo serte de ayuda?
+ No consigo entender lo que me estas diciendo.
+#`end chatbot

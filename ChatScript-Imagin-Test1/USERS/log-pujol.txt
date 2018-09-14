@@ -1,0 +1,171 @@
+﻿Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:35:26 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:33:32 0:Jun20'17-16:35:26 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   holita ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:35:29 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 2   como puedo bloquear mi tajeta? ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:35:47 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 3   hola ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:35:51 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 4     ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:35:52 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 5   como puedo bloquear mi tajeta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:35:54 Why:~control.1.0.~control.1.0   F:15 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:36:01 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:33:32 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:35:54 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:36:04 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 2   como puedo activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:36:13 Why:~tarjeta.4.0.~control.1.0   F:16 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:36:20 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:33:32 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:36:13 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   holita ==> Encantado de conocerte. En aue puedo ayudarte?  When:Jun20'17-16:36:22 Why:~introductions.2.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~introductions) 2   s ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:36:28 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~introductions) 3     ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:36:29 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 4   como puedo activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:36:31 Why:~tarjeta.4.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 5   hola ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:36:35 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 6   holita ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:36:38 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :build HARRY
+Start: user:pujol bot:harry ip: rand:1771 (~introductions) 0 ==> Welcome to ChatScript.  When:Jun20'17-16:39:20 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:39:16 0:Jun20'17-16:39:20 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1778 (~introductions) 6 ==> Hola!  When:Jun20'17-16:40:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:40:04 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:36:38 Why:~introductions.0.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 7   hola ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:40:25 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~introductions) 8   gracias ==> De nada.  When:Jun20'17-16:40:30 Why:~honest_response.1.0.~quibble_all.0.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 9   como puedo activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:40:42 Why:~tarjeta.1.0.~control.1.0   F:15 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 10   como puedo bloquear mi tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun20'17-16:40:52 Why:~tarjeta.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1783 (~introductions) 10 ==> Buenos días!  When:Jun20'17-16:41:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:41:28 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:40:52 Why:~introductions.0.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 11   hola ==> En que puedo serte de ayuda?  When:Jun20'17-16:41:35 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 12   como puedo bloquear mi tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun20'17-16:41:46 Why:~tarjeta.0.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1789 (~introductions) 12 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:43:13 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:43:09 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:41:46 Why:~control.1.0.~control.1.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:43:21 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:43:09 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:41:46 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-16:43:23 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 2   activar tarjeta ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:43:27 Why:~tarjeta.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 3   hola ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:43:29 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 4   hola ==> No entiendo lo que me quiere decir.  When:Jun20'17-16:45:07 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 1: ^anonymous
+    
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 1: ^anonymous
+    Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1776 (~introductions) 4 ==> Hola!  When:Jun20'17-16:47:31 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:47:27 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:45:07 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:47:38 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:47:27 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:45:07 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-16:47:40 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo) 2   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun20'17-16:47:44 Why:~saludo.0.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo) 3   hola ==> Hola de nuevo. Sigo aqui a la espera de poder ayudarte  When:Jun20'17-16:47:48 Why:~saludo.0.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1775 (~introductions) 3 ==> Buenos días!  When:Jun20'17-16:49:13 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:49:10 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:47:48 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:49:15 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:49:10 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:47:48 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-16:49:19 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo) 2   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun20'17-16:49:24 Why:~saludo.0.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo) 3   hola ==> Hola de nuevo. Sigo aqui a la espera de poder ayudarte  When:Jun20'17-16:49:25 Why:~saludo.0.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo) 4   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun20'17-16:49:27 Why:~saludo.0.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo) 5   adios ==> Espero haber podido serte de ayuda  When:Jun20'17-16:49:29 Why:~saludo.1.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~saludo) 6   hasta luego ==> Hasta la prómixa  When:Jun20'17-16:49:35 Why:~saludo.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo) 7   nos vemos ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:49:39 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:50:07 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:49:10 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:49:39 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-16:50:09 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 2   hasta la proxima ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-16:50:13 Why:~control.1.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1774 (~introductions) 2 ==> Hola!  When:Jun20'17-16:50:21 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:50:18 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:50:13 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:50:23 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:50:18 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:50:13 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-16:50:25 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 2   hasta la proxima ==> Espero poder serte de ayuda la próxima vez.  When:Jun20'17-16:50:30 Why:~introductions.3.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1774 (~introductions) 2 ==> Hola!  When:Jun20'17-16:52:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:52:04 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:50:30 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1773 (~introductions) 0 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:52:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:52:04 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:50:30 Why:~control.1.0.~control.1.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1773 (~introductions) 0 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:52:17 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:52:04 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:50:30 Why:~control.1.0.~control.1.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1773 (~introductions) 0 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-16:52:19 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:52:04 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:50:30 Why:~control.1.0.~control.1.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-16:52:23 Why:~introductions.2.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 2   gracias ==> En que puedo ayudarte?  When:Jun20'17-16:52:29 Why:~introductions.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 3   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun20'17-16:52:34 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 4   como puedo activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:52:43 Why:~tarjeta.1.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~saludo) 5   hola ==> Hola de nuevo. Sigo aqui a la espera de poder ayudarte  When:Jun20'17-16:52:45 Why:~saludo.0.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1777 (~introductions) 5 ==> Buenos días!  When:Jun20'17-16:53:16 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:53:12 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:52:45 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:53:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:53:12 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:52:45 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1771 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:53:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:53:12 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:52:45 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-16:53:52 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 2   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun20'17-16:54:00 Why:~introductions.4.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 3   como activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-16:54:07 Why:~tarjeta.1.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~saludo) 4   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun20'17-16:54:09 Why:~saludo.0.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1776 (~introductions) 4 ==> Hola!  When:Jun20'17-16:54:47 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:54:44 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:54:09 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1772 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-16:54:52 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:54:44 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:54:09 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1772 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-17:00:09 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-16:54:44 0:Jun20'17-16:35:26 F:0 P:Jun20'17-16:54:09 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 1   COMO PUEDO ACTIVAR MI TARJETA? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. Actívala mediante un SMS que te llegará a tu móvil  When:Jun20'17-17:00:16 Why:~tarjeta.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 2   TENGO UNA PREGUNTA ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-17:01:31 Why:~control.1.0.~control.1.0   F:0 
+Command: :buils Imagin_test1
+Respond: user:pujol bot:imagin ip: (~tarjeta) 3   :buils Imagin_test1 ==> No consigue entender lo que me estas diciendo.  When:Jun20'17-17:10:52 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :build HARRY
+Start: user:pujol bot:harry ip: rand:1771 (~introductions) 0 ==> Have you been here before?  When:Jun20'17-17:12:06 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:12:03 0:Jun20'17-16:39:20 F:0 P:0 Why:~introductions.2.0.~control.0.0 
+Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :buils Imagin_test1
+Respond: user:pujol bot: ip: () 1   :buils Imagin_test1 ==>   When:Jun20'17-17:13:36   F:16 
+Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  pujol -  -  status: defaultbot word not found   in topic_pujol_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1776 (~introductions) 3 ==> Hola!  When:Jun20'17-17:14:59 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:14:55 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:10:52 Why:~introductions.0.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 4   quiero hacer una transferencia ==> No entiendo lo que me quiere decir.  When:Jun20'17-17:15:26 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 5   hola ==> En que puedo serte de ayuda?  When:Jun20'17-17:15:28 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo-despedida) 6   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun20'17-17:15:30 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo-despedida) 7   hola ==> Hola de nuevo. Sigo aqui a la espera de poder ayudarte  When:Jun20'17-17:15:34 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo-despedida) 8   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun20'17-17:15:37 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1781 (~introductions) 8 ==> Buenos días!  When:Jun20'17-17:21:05 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:21:01 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:15:37 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1772 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-17:21:12 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:21:01 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:15:37 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-17:21:14 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~saludo-despedida) 2   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun20'17-17:21:16 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 3   como puedo activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun20'17-17:21:24 Why:~tarjeta.1.0.~control.1.0   F:15 
+Respond: user:pujol bot:imagin ip: (~tran) 4   como puedo transferir dinero a otra cuenta? ==> Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun20'17-17:21:53 Why:~tran.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1776 (~introductions) 4 ==> Hola!  When:Jun20'17-17:22:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:22:28 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:21:53 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1772 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-17:22:41 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:22:28 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:21:53 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-17:22:46 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tran) 2   como puedo hacer una transferencia a mi madre? ==> Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun20'17-17:22:55 Why:~tran.1.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1775 (~introductions) 2 ==> Buenos días!  When:Jun20'17-17:23:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:23:18 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:22:55 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1772 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-17:23:24 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:23:18 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:22:55 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 1   como puedo activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun20'17-17:23:32 Why:~tarjeta.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tran) 2   como puedo transferir dinero a mi madre? ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun20'17-17:23:40 Why:~tran.0.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~tran) 3   como puedo hacer una transferencia a mi madre? ==> Transferencia-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun20'17-17:23:51 Why:~tran.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1776 (~introductions) 3 ==> Hola!  When:Jun20'17-17:44:50 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:44:46 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:23:51 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1772 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-17:44:53 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:44:46 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:23:51 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun20'17-17:44:56 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 2   como puedo activar mi tarjeta nñmero 1234 ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun20'17-17:45:18 Why:~tarjeta.1.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 3   como puedo activar mi tarjeta nñmero 1234 ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun20'17-17:46:33 Why:~tarjeta.1.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:pujol bot:imagin ip: rand:1776 (~introductions) 3 ==> Hola!  When:Jun20'17-17:46:39 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:46:35 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:46:33 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pujol bot:imagin ip: rand:1772 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-17:46:42 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-17:46:35 0:Jun20'17-16:35:26 F:0 P:Jun20'17-17:46:33 Why:~introductions.1.0.~control.0.0 
+Respond: user:pujol bot:imagin ip: (~introductions) 1   hol+ ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-17:46:44 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 2   hjola ==> No consigo entender lo que me estas diciendo.  When:Jun20'17-17:46:46 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pujol bot:imagin ip: (~introductions) 3   hola ==> En que puedo serte de ayuda?  When:Jun20'17-17:46:48 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 4   como puedo activar mi tarjeta numero 1234 ==> El número de tu tarjeta es: 1234 .   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun20'17-17:47:01 Why:~tarjeta.1.0.~control.1.0   F:16 
+Respond: user:pujol bot:imagin ip: (~tarjeta) 5   como puedo activar mi tarjeta numero 1234 ==> El número de tu tarjeta es: 1234 .   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun20'17-17:47:48 Why:~tarjeta.1.0.~control.1.0   F:0 

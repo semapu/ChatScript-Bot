@@ -1,0 +1,61 @@
+TOPIC: ~DEQUECOMPANIAERES repeat (~compania)
+
+u: (hablame de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (quien es el presidente de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (cuentame cosas de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (en que empresa estas) ^keep()
+CHIT_de_que_compania_eres
+
+u: (que puedes contarme de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (que puedes contarme de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (en que ~compania estas) ^keep()
+CHIT_de_que_compania_eres
+
+u: (quien es el presidente de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (que piensas de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (cual es tu opinion de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (cuentame mas cosas sobre tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (hablame mas de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (hay algo que puedas contarme de tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (como describirias a tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (de que ~compania eres) ^keep()
+CHIT_de_que_compania_eres
+
+u: (de que ~compania eres) ^keep()
+CHIT_de_que_compania_eres
+
+u: (a que se dedica tu ~compania) ^keep()
+CHIT_de_que_compania_eres
+
+u: (donde trabajas) ^keep()
+CHIT_de_que_compania_eres
+
+u: (en que ~compania trabajas) ^keep()
+CHIT_de_que_compania_eres
+
+u: (de que firma eres) ^keep()
+CHIT_de_que_compania_eres

@@ -1,0 +1,174 @@
+﻿Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:28:02 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:27:29 0:Jun21'17-12:28:02 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:28:05 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   transferencia a mi madre por su cumpleanos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:28:36 Why:~tran.1.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2934 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-12:29:27 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:29:23 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:28:36 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:29:30 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:29:23 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:28:36 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-12:29:32 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tarjeta) 2   activar mi tarjeta numero 1234 ==> El número de tu tarjeta es: 1234 .   Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun21'17-12:29:38 Why:~tarjeta.1.0.~control.1.0   F:15 
+Respond: user:puma bot:imagin ip: (~tran) 3   transferencia a mi madre de 200? ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:29:48 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 4   transferencia a mi madre por su cumpleanos ==> Destinatario: A mi Madre unknown-word Su //concepto: unknown-word  When:Jun21'17-12:30:37 Why:~tran.0.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 5   transferencia a mi madre por su boda ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:05 Why:~tran.1.0.~control.1.0   F:16 
+Respond: user:puma bot:imagin ip: (~tran) 6   transferencia a mi madre por su cumpleanos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:15 Why:~tran.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:32:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:29:23 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:32:15 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 1   holA ==> En que puedo serte de ayuda?  When:Jun21'17-12:32:25 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   transferencia a mi madre por su cumpleanos ==> Destinatario: A mi Madre unknown-word Su //concepto: unknown-word  When:Jun21'17-12:32:30 Why:~tran.0.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 3   transferencia a mi madre por su boda ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:41 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 4   transferencia a mi madre por su cumpleanos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:45 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 5   transferencia a mi madre por su cumpleanos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:47 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 6   transferencia a mi madre por su cumpleanos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:48 Why:~tran.1.0.~control.1.0   F:15 
+Respond: user:puma bot:imagin ip: (~tran) 7   transferencia a mi madre por su cumpleanos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:48 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 8   transferencia a mi madre por su cumpleanos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:49 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 9   transferencia a mi madre por su cumpleanos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:32:50 Why:~tran.1.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2940 (~introductions) 9 ==> Bienvenido!  When:Jun21'17-12:36:27 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:36:23 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:32:50 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:36:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:36:23 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:32:50 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 1   HOLA ==> En que puedo serte de ayuda?  When:Jun21'17-12:36:34 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:puma bot:imagin ip: (~tran) 2   transferencia a mi madre por su cumpleanos ==> Destinatario: A mi Madre unknown-word Su //concepto: unknown-word  When:Jun21'17-12:36:40 Why:~tran.0.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 3   transferencia a mi madre por regalo ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:37:09 Why:~tran.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:37:13 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:36:23 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:37:09 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por regalo ==> Destinatario: A mi Madre unknown-word //concepto: unknown-word  When:Jun21'17-12:37:15 Why:~tran.0.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2932 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:37:36 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:37:32 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:37:15 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:37:39 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:37:32 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:37:15 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por regalo ==> Destinatario: mi Madre unknown-word //concepto: unknown-word  When:Jun21'17-12:37:50 Why:~tran.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2932 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:38:16 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:38:12 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:37:50 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:38:20 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:38:12 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:37:50 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su cumpleanos ==> Destinatario: Madre unknown-word Su //concepto: unknown-word  When:Jun21'17-12:38:23 Why:~tran.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2932 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:38:59 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:38:55 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:38:23 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:39:02 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:38:55 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:38:23 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su cumpleanos ==> Destinatario: Madre //concepto: unknown-word  When:Jun21'17-12:39:05 Why:~tran.0.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2932 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:40:13 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:40:09 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:39:05 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:40:15 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:40:09 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:39:05 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su cumpleanos ==> Destinatario: Madre //concepto: Su unknown-word  When:Jun21'17-12:40:17 Why:~tran.0.0.~control.1.0   F:16 
+Respond: user:puma bot:imagin ip: (~tran) 2   transferencia a mi madre por su boda ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:40:32 Why:~tran.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:40:36 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:40:09 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:40:32 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su boda ==> Destinatario: Madre //concepto: Su Boda  When:Jun21'17-12:40:37 Why:~tran.0.0.~control.1.0   F:16 
+Respond: user:puma bot:imagin ip: (~tran) 2   transferencia a mi madre por su cumpleaÑos ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:40:47 Why:~tran.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:40:49 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:40:09 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:40:47 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su cumpleaÑos ==> Destinatario: Madre //concepto: Su unknown-word  When:Jun21'17-12:40:53 Why:~tran.0.0.~control.1.0   F:16 
+Respond: user:puma bot:imagin ip: (~tran) 2   transferencia a mi madre por su aniversario ==> Transferir-Para hacer una transferencia necesitas tener la APP de ImaghinBank.  When:Jun21'17-12:41:01 Why:~tran.1.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2934 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-12:41:19 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:41:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:41:01 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:41:26 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:41:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:41:01 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su boda ==> Destinatario: Madre //concepto: Su Boda  When:Jun21'17-12:41:31 Why:~tran.0.0.~control.1.0   F:16 
+Respond: user:puma bot:imagin ip: (~tran) 2   transferencia a mi madre por su aniversario ==> No entiendo lo que me quiere decir.  When:Jun21'17-12:41:37 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 3   transferencia a mi madre por su aniversario ==> No entiendo lo que me quiere decir.  When:Jun21'17-12:42:11 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:42:14 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:41:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:42:11 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su aniversario ==> Destinatario: Madre //concepto: Su unknown-word  When:Jun21'17-12:42:16 Why:~tran.0.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   me gustaria hacer una transferencia a mi hermana por el aniversario de sergi ==> No entiendo lo que me quiere decir.  When:Jun21'17-12:42:59 Why:~control.1.0.~control.1.0   F:15 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:43:01 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:41:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:42:59 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   me gustaria hacer una transferencia a mi hermana por el aniversario de sergi ==> Destinatario: unknown-word //concepto: el unknown-word de unknown-word  When:Jun21'17-12:43:04 Why:~tran.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2932 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:44:18 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:44:14 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:43:04 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:44:20 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:44:14 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:43:04 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su aniversario ==> Destinatario: madre   concepto: su aniversario  When:Jun21'17-12:44:26 Why:~tran.0.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   transferencia a mi madre por su cumpleanos ==> No entiendo lo que me quiere decir.  When:Jun21'17-12:44:46 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:44:49 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:44:14 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:44:46 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su cumpleanos ==> Destinatario: madre   concepto: su cumpleanos  When:Jun21'17-12:44:51 Why:~tran.0.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2932 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:45:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:45:05 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:44:51 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:45:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:45:05 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:44:51 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   me gustaria hacer una transferencia a mi hermana por el aniversario de sergi ==>   Destinatario: hermana   concepto: el aniversario de sergi  When:Jun21'17-12:45:14 Why:~tran.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2932 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:49:26 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:49:22 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:45:14 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:49:29 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:49:22 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:45:14 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su cumpleaÑos ==>   	 Destinatario: madre   	 concepto: su cumpleaÑos  When:Jun21'17-12:49:33 Why:~tran.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2932 (~introductions) 1 ==> Buenos días!  When:Jun21'17-12:59:14 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:59:10 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:49:33 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:59:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:59:10 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:49:33 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su cumpleanos ==>   	 Destinatario: madre   	 concepto: cumpleanos  When:Jun21'17-12:59:30 Why:~tran.0.0.~control.1.0   F:16 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-12:59:34 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-12:59:10 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:59:30 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre ==>   	 Necesito conocer el concepto  When:Jun21'17-12:59:38 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   cumpleanos ==>   	 Destinatario: madre   	 concepto: cumpleanos  When:Jun21'17-12:59:45 Why:~tran.1.1.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2934 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-13:00:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:00:28 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:59:45 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:00:35 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:00:28 0:Jun21'17-12:28:02 F:0 P:Jun21'17-12:59:45 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   me gustaria hacer una transferencia a mi hermana por el aniversario de sergi ==>   	 Destinatario: hermana   	 concepto: el aniversario de sergi  When:Jun21'17-13:00:46 Why:~tran.0.0.~control.1.0   F:16 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:00:52 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:00:28 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:00:46 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia ==>   	 Necesito conocer el concepto  When:Jun21'17-13:01:10 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   cumplewan ==>   	 Destinatario:   	 concepto: cumplewan  When:Jun21'17-13:01:31 Why:~tran.1.1.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2934 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-13:02:19 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:02:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:01:31 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:02:21 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:02:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:01:31 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre por su cumpleanos ==>   	 Destinatario: madre   	 concepto: cumpleanos  When:Jun21'17-13:02:24 Why:~tran.0.0.~control.1.0   F:16 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:02:25 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:02:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:02:24 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre ==>   	 Necesito conocer el concepto  When:Jun21'17-13:02:29 Why:~tran.1.0.~control.1.0   F:15 
+Respond: user:puma bot:imagin ip: (~tran) 2   boda ==>   	 Destinatario: madre   	 concepto: boda  When:Jun21'17-13:02:31 Why:~tran.1.1.~control.1.0   F:0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:02:35 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:02:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:02:31 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-13:02:41 Why:~tran.2.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   a mi madre por su gh ==>   	 Destinatario: madre   	 concepto: gh  When:Jun21'17-13:02:48 Why:~tran.2.1.~control.1.0   F:16 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:02:52 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:02:15 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:02:48 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   transferencia a mi madre ==>   	 Necesito conocer el concepto  When:Jun21'17-13:02:58 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   regalo ==>   	 Destinatario: madre   	 concepto: regalo  When:Jun21'17-13:03:08 Why:~tran.1.1.~control.1.0   F:16 
+Respond: user:puma bot:imagin ip: (~saludo-despedida) 3   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun21'17-13:05:51 Why:~saludo-despedida.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2935 (~introductions) 3 ==> Buenos días!  When:Jun21'17-13:07:07 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:07:04 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:05:51 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:08:07 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:07:04 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:05:51 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-13:08:15 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   quiero hacer una transferencia ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-13:08:21 Why:~tran.2.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 3   a mi madre de 200? ==> No entiendo lo que me quiere decir.  When:Jun21'17-13:08:27 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 4   a mi madre por nu cumpleaÑos ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun21'17-13:08:39 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:puma bot:imagin ip: (~tran) 5   quiero hacer una transferencia ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-13:08:42 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:08:45 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:07:04 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:08:42 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~tran) 1   quiero hacer una transferencia ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-13:08:46 Why:~tran.2.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 2   a mi madre por su cumpleaÑos ==>   	 Destinatario: madre   	 concepto: cumpleaÑos  When:Jun21'17-13:08:53 Why:~tran.2.1.~control.1.0   F:15 
+Command: :build Imagin_test1
+No such bot  puma -  -  status: defaultbot word not found   in topic_puma_anonymous.txt at 0: ^anonymous
+    Command: :reset
+Start: user:puma bot: ip: rand:2930 () 0 ==>   When:Jun21'17-13:11:09 Version:6.83 Build0:Sep11'16-15:31:14 Build1: 0:Jun21'17-13:11:09 F:0 P:0 
+No such bot  puma -  -  status: defaultbot word not found   in topic_puma_anonymous.txt at 2: ^anonymous
+    Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2934 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-13:11:18 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:11:14 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:08:53 Why:~introductions.0.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 3   hola ==> 	 En que puedo serte de ayuda?  When:Jun21'17-13:11:20 Why:~introductions.3.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2935 (~introductions) 3 ==> Buenos días!  When:Jun21'17-13:11:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:11:45 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:11:20 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:11:50 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:11:45 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:11:20 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-13:11:51 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~introductions) 2   quiero activar mi tarjeta ==> No entiendo lo que me quiere decir.  When:Jun21'17-13:12:00 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2934 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-13:13:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:13:28 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:12:00 Why:~introductions.0.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 3   hol ==> No entiendo lo que me quiere decir.  When:Jun21'17-13:13:58 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~saludo-despedida) 4   hola ==> 	 Hola de nuevo. Sigo aqui a la espera de poder ayudarte	 Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun21'17-13:14:00 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:puma bot:imagin ip: rand:2935 (~introductions) 4 ==> Buenos días!  When:Jun21'17-13:14:26 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:14:23 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:14:00 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:puma bot:imagin ip: rand:2931 (~introductions) 0 ==> Hola!  When:Jun21'17-13:14:30 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:14:23 0:Jun21'17-12:28:02 F:0 P:Jun21'17-13:14:00 Why:~introductions.1.0.~control.0.0 
+Respond: user:puma bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun21'17-13:14:33 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tarjeta) 2   ACTIVAR MI TARJETA ==> 	 Necesito conocer el número de la tarjeta  When:Jun21'17-13:14:50 Why:~tarjeta.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tarjeta) 3   9876 ==> El número de tu tarjeta es: 9876 .   1. Busca un cajero Caixabank   2. Introduce la tarjeta y elige tu PIN   3. O acude a tu oficina de confianza  When:Jun21'17-13:14:53 Why:~tarjeta.1.1.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~saludo-despedida) 4   ADIOS ==> Espero haber podido serte de ayuda  When:Jun21'17-13:15:12 Why:~saludo-despedida.1.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~saludo-despedida) 5   HOLA ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun21'17-13:15:17 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 6   TRANSFERENCIA DE 200? ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-13:15:25 Why:~tran.2.0.~control.1.0   F:0 
+Respond: user:puma bot:imagin ip: (~tran) 7   A MI MADRE POR SU CUMPLEA�OS ==>   	 Destinatario: MADRE   	 concepto: CUMPLEA�OS  When:Jun21'17-13:15:35 Why:~tran.2.1.~control.1.0   F:16 

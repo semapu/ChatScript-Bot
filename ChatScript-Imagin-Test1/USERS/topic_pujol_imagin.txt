@@ -1,0 +1,31 @@
+USERS/topic_pujol_imagin.txt
+jul2116 Jun20'17-16:35:26 Jun20'17-17:47:48 0 |
+1 5 0 DY 0 10 10 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~tarjeta #pending
+~introductions + 1 3O%a9 ba 3 0 0 
+#`end topics
+$cs_randindex=1771
+$cs_bot=Imagin
+$cs_login=pujol
+$cs_token=512
+$cs_control_main=~control
+$userprompt=pujol: >
+$botprompt=ImaginBank Bot: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hol+
+ hjola
+ hola
+ como puedo activar mi tarjeta numero 1234
+ como puedo activar mi tarjeta numero 1234
+#`end user
+ Bienvenido!
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No consigo entender lo que me estas diciendo.
+ En que puedo serte de ayuda?
+ El número de tu tarjeta es: 1234 . \r\nPor seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas? \r\n1. Busca un cajero Caixabank \r\n2. Introduce la tarjeta y elige 
+ El número de tu tarjeta es: 1234 . \r\nPor seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas? \r\n1. Busca un cajero Caixabank \r\n2. Introduce la tarjeta y elige 
+#`end chatbot

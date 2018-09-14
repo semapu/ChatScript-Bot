@@ -1,0 +1,20 @@
+﻿Start: user:sergimas bot:imagin ip: rand:383 (~introductions) 0 ==> Buenos días!  When:Jun28'17-11:37:19 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:35:44 0:Jun28'17-11:37:19 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergimas bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:37:21 Why:~introductions.3.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergimas bot:imagin ip: rand:385 (~introductions) 1 ==> Bienvenido!  When:Jun28'17-11:37:35 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:37:31 0:Jun28'17-11:37:19 F:0 P:Jun28'17-11:37:21 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergimas bot:imagin ip: rand:383 (~introductions) 0 ==> Buenos días!  When:Jun28'17-11:37:39 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:37:31 0:Jun28'17-11:37:19 F:0 P:Jun28'17-11:37:21 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergimas bot:imagin ip: (~introductions) 1   hoila ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:37:42 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergimas bot:imagin ip: (~introductions) 2     ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:37:42 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergimas bot:imagin ip: (~introductions) 3   hola ==> En que puedo serte de ayuda?  When:Jun28'17-11:37:43 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergimas bot:imagin ip: (~tarjeta) 4   como puedo bloquear me tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun28'17-11:37:52 Why:~tarjeta.0.0.~control.1.0   F:0 
+Respond: user:sergimas bot:imagin ip: (~tarjeta) 5   que tal vamos? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-11:38:02 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergimas bot:imagin ip: (~tarjeta) 6   cuales son tus funtes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-11:38:15 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergimas bot:imagin ip: rand:390 (~introductions) 6 ==> Bienvenido!  When:Jun28'17-11:39:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:39:24 0:Jun28'17-11:37:19 F:0 P:Jun28'17-11:38:15 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:sergimas bot:imagin ip: rand:383 (~introductions) 0 ==> Buenos días!  When:Jun28'17-11:39:31 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-11:39:24 0:Jun28'17-11:37:19 F:0 P:Jun28'17-11:38:15 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergimas bot:imagin ip: (~introductions) 1   holas ==> En que puedo serte de ayuda?  When:Jun28'17-11:39:32 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:sergimas bot:imagin ip: (~introductions) 2   adios ==> Espero poder serte de ayuda la próxima vez.  When:Jun28'17-11:39:35 Why:~introductions.4.0.~control.1.0   F:0 
+Respond: user:sergimas bot:imagin ip: (~introductions) 3   dejame en paz ==> No entiendo lo que me quiere decir.  When:Jun28'17-11:39:41 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergimas bot:imagin ip: (~tarjeta) 4   como puedo bloquear mi tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun28'17-11:39:56 Why:~tarjeta.0.0.~control.1.0   F:0 

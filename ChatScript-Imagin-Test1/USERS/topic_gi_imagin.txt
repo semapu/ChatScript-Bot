@@ -1,0 +1,33 @@
+USERS/topic_gi_imagin.txt
+jul2116 Jun20'17-15:56:18 Jun20'17-16:06:20 0 |
+1 6 0 DY 0 7 7 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~tarjeta #pending
+~introductions + 1 pz7LBIs*Ok3 ca 2 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=gi: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=gi
+$cs_bot=Imagin
+$cs_randindex=1600
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ HOLA
+ como te llamas?
+ como puedo bloquear mi tarjeta?
+ no recuerdo mi pin
+ como puedo dar de alta mi tarjeta?
+ quiero personalizar mi tarjeta
+#`end user
+ Bienvenido!
+ No entiendo lo que me quiere decir.
+ Soy ImaginBank Bot.
+ Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.
+ No entiendo lo que me quiere decir.
+ Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas? \r\n1. Busca un cajero Caixabank \r\n2. Introduce la tarjeta y elige tu PIN \r\n3. Actívala mediante un SMS 
+ Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight
+#`end chatbot

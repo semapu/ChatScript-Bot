@@ -1,0 +1,29 @@
+USERS/topic_cat_imagin.txt
+jul2116 Jun28'17-10:03:38 Jun28'17-10:58:08 0 |
+1 4 0 DY 0 10 10 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~saludo-despedida #pending
+~introductions + 1 3O%a9 ba 1 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=cat: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=cat
+$cs_bot=Imagin
+$cs_randindex=3286
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ cuentame tu especializacion
+ hola
+ cuales son tus fuentes?
+#`end user
+ Bienvenido!
+ En que puedo serte de ayuda?
+ No entiendo lo que me quiere decir.
+ Gracias por vorvel a saludar. En que puedo ayudarte?
+ ¿Puede repetir lo que ha dicho con otras palabras?
+#`end chatbot

@@ -1,0 +1,106 @@
+﻿Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-15:56:08 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:14:23 0:Jun21'17-15:56:08 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi hermana ==>   	 Necesito conocer el concepto  When:Jun21'17-15:56:26 Why:~tran.1.0.~control.1.0   F:15 
+Respond: user:mapu bot:imagin ip: (~tran) 2   cumpleaÑos ==>   	 Destinatario: hermana   	 concepto: cumpleaÑos  When:Jun21'17-15:56:37 Why:~tran.1.1   F:0 
+Respond: user:mapu bot:imagin ip: (~tran) 3   gracias ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun21'17-15:56:40 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mapu bot:imagin ip: (~saludo-despedida) 4   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun21'17-15:56:45 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:mapu bot:imagin ip: (~saludo-despedida) 5   quiero hacer una tramnsferencia a mi madre por su cumpleaÑos ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-15:57:07 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-15:57:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:14:23 0:Jun21'17-15:56:08 F:0 P:Jun21'17-15:57:07 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~introductions) 1   quiero hacer una tramnsferencia a mi madre por su cumpleaÑos ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun21'17-15:57:14 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~tran) 2   quiero hacer una transferencia a mi madre por su cumpleaÑos ==>   	 Destinatario: madre   	 concepto: cumpleaÑos  When:Jun21'17-15:57:25 Why:~tran.0.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~tran) 3   quiero hacer una transferencia a mi madre por su cumpleaÑos ==>   	 Necesito conocer el concepto  When:Jun21'17-15:57:29 Why:~tran.1.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~tran) 4   quiero hacer una transferencia a mi madre por su cumpleaÑos ==>   	 Destinatario: madre por su cumpleaÑos   	 concepto: quiero hacer una transferencia a mi madre por su cumpleaÑos  When:Jun21'17-15:57:32 Why:~tran.1.1.~control.1.0   F:16 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-15:57:38 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:14:23 0:Jun21'17-15:56:08 F:0 P:Jun21'17-15:57:32 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia para la boda a mi madre ==>   	 Destinatario:   	 concepto: la boda a mi madre  When:Jun21'17-15:58:10 Why:~tran.0.0.~control.1.0   F:31 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-15:58:21 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-13:14:23 0:Jun21'17-15:56:08 F:0 P:Jun21'17-15:58:10 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+
+No such bot  mapu -  -  status: defaultbot word not found   in topic_mapu_anonymous.txt at 1: ^anonymous
+    Command: :build HARRY
+Start: user:mapu bot:harry ip: rand:3000 (~introductions) 0 ==> Welcome to ChatScript.  When:Jun21'17-15:59:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-15:59:28 0:Jun21'17-15:59:32 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+No such bot  mapu -  -  status: defaultbot word not found   in topic_mapu_anonymous.txt at 0: ^anonymous
+    
+No such bot  mapu -  -  status: defaultbot word not found   in topic_mapu_anonymous.txt at 1: ^anonymous
+    Command: :build Imagin_test1
+Start: user:mapu bot:imagin ip: rand:3002 (~introductions) 0 ==> Hola!  When:Jun21'17-16:00:06 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:00:02 0:Jun21'17-15:56:08 F:0 P:Jun21'17-15:58:10 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia para la boda a mi madre ==>   	 Destinatario:   	 concepto: boda a mi madre  When:Jun21'17-16:00:29 Why:~tran.0.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+No such bot  mapu -  -  status: defaultbot word not found   in topic_mapu_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  mapu -  -  status: defaultbot word not found   in topic_mapu_anonymous.txt at 0: ^anonymous
+    Command: :build HARRY
+Start: user:mapu bot:harry ip: rand:3000 (~introductions) 0 ==> Have you been here before?  When:Jun21'17-16:02:14 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:02:10 0:Jun21'17-15:59:32 F:0 P:0 Why:~introductions.2.0.~control.0.0 
+Command: :build Imagin_test1
+No such bot  mapu -  -  status: defaultbot word not found   in topic_mapu_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+Start: user:mapu bot:imagin ip: rand:3003 (~introductions) 1 ==> Bienvenido!  When:Jun21'17-16:02:42 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:02:38 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:00:29 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:02:50 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:02:38 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:00:29 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia para la boda a mi madre ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-16:02:55 Why:~tran.2.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~tran) 2   madre boda ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-16:03:06 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:mapu bot:imagin ip: (~tran) 3   a mi madre para la boda ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun21'17-16:03:13 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~saludo-despedida) 4   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun21'17-16:03:16 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:mapu bot:imagin ip: (~saludo-despedida) 5   quiero hacer una transferencia para la boda a mi madre ==> No consigo entender lo que me estas diciendo.  When:Jun21'17-16:03:21 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:03:25 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:02:38 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:03:21 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi madre para la boda ==>   	 Destinatario: madre   	 concepto: boda  When:Jun21'17-16:03:37 Why:~tran.0.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~saludo-despedida) 2   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun21'17-16:03:40 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:mapu bot:imagin ip: (~tran) 3   quiero hacer una transferencia para la boda a mi madre ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-16:03:54 Why:~tran.2.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+No such bot  mapu -  -  status: defaultbot word not found   in topic_mapu_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+Start: user:mapu bot:imagin ip: rand:3005 (~introductions) 3 ==> Bienvenido!  When:Jun21'17-16:07:27 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:07:24 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:03:54 Why:~introductions.0.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~introductions) 4   hola ==> En que puedo serte de ayuda?  When:Jun21'17-16:07:31 Why:~introductions.3.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~tran) 5   quiero hacer una transferencia a mi madre por su cumpleaÑos ==>   	 Necesito conocer el concepto  When:Jun21'17-16:07:52 Why:~tran.1.0.~control.1.0   F:0 
+Respond: user:mapu bot:imagin ip: (~tran) 6   cumpleaÑos ==>   	 Destinatario: madre por su cumpleaÑos   	 concepto: cumpleaÑos  When:Jun21'17-16:08:38 Why:~tran.1.1.~control.1.0   F:0 
+Respond: user:mapu bot:imagin ip: (~tran) 7   quiero hacer una transferencia para la boda a mi madre ==>   	 Destinatario: madre   	 concepto: cumpleaÑos boda  When:Jun21'17-16:09:27 Why:~tran.0.0.~control.1.0   F:16 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:09:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:07:24 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:09:27 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia para la boda a mi madre ==>   	 Destinatario: madre   	 concepto: boda  When:Jun21'17-16:09:34 Why:~tran.0.0.~control.1.0   F:15 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:09:41 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:07:24 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:09:34 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi madre para la boda ==>   	 Destinatario: madre   	 concepto: boda  When:Jun21'17-16:10:04 Why:~tran.0.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~tran) 2   quiero hacer una transferencia a mi madre para la boda ==>   	 Necesito conocer el concepto  When:Jun21'17-16:10:44 Why:~tran.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:10:47 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:07:24 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:10:44 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi madre para la boda ==>   	 Destinatario: madre   	 concepto: boda  When:Jun21'17-16:10:50 Why:~tran.0.0.~control.1.0   F:16 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:10:55 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:07:24 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:10:50 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia para la boda a mi madre ==>   	 Destinatario: madre   	 concepto: boda  When:Jun21'17-16:11:04 Why:~tran.0.0.~control.1.0   F:16 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:11:09 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:07:24 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:11:04 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi madre por su cumpleanos ==>   	 Necesito conocer el concepto  When:Jun21'17-16:11:23 Why:~tran.1.0.~control.1.0   F:15 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:11:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:07:24 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:11:23 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:mapu bot:imagin ip: rand:3002 (~introductions) 0 ==> Hola!  When:Jun21'17-16:12:05 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:12:01 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:11:23 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:12:07 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:12:01 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:11:23 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi madre por su aniversario ==>   	 Destinatario: madre   	 concepto: aniversario  When:Jun21'17-16:12:32 Why:~tran.0.0.~control.1.0   F:15 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:12:36 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:12:01 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:12:32 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia por su aniversario a mi madre ==>   	 Destinatario: madre   	 concepto: aniversario  When:Jun21'17-16:12:53 Why:~tran.0.0.~control.1.0   F:15 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:12:59 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:12:01 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:12:53 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~introductions) 1   quiero por su cumpleaÑos a mi madre hacerle una trnasferencia ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun21'17-16:13:21 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:mapu bot:imagin ip: (~tran) 2   quiero por su cumpleaÑos a mi madre hacerle una transferencia ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-16:13:32 Why:~tran.2.0.~control.1.0   F:16 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:13:35 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:12:01 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:13:32 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero por su cumpleaÑos a mi madre hacerle una transferencia ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-16:13:43 Why:~tran.2.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:mapu bot:imagin ip: rand:3003 (~introductions) 1 ==> Hola!  When:Jun21'17-16:14:20 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:14:16 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:13:43 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:14:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:14:16 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:13:43 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero por su cumpleaÑos a mi madre hacerle una transferencia ==>   	 Necesito conocer el destinatario y el concepto  When:Jun21'17-16:17:10 Why:~tran.2.0.~control.1.0   F:0 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:17:14 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:14:16 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:17:10 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi madre por su cumpleaÑos ==>   	 Necesito conocer el concepto  When:Jun21'17-16:17:32 Why:~tran.1.0.~control.1.0   F:15 
+Command: :reset
+Start: user:mapu bot:imagin ip: rand:3001 (~introductions) 0 ==> Buenos días!  When:Jun21'17-16:17:35 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:14:16 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:17:32 Why:~introductions.1.0.~control.0.0 
+Respond: user:mapu bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi madre por su cumpleaÑos ==>   	 Necesito conocer el concepto  When:Jun21'17-16:17:36 Why:~tran.1.0.~control.1.0   F:15 
+Respond: user:mapu bot:imagin ip: (~tran) 2   cumpleaÑos ==>   	 Destinatario: madre por su cumpleaÑos   	 concepto: cumpleaÑos  When:Jun21'17-16:18:11 Why:~tran.1.1.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:mapu bot:imagin ip: rand:3003 (~introductions) 2 ==> Bienvenido!  When:Jun21'17-16:18:24 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:18:21 0:Jun21'17-15:56:08 F:0 P:Jun21'17-16:18:11 Why:~introductions.0.0.~control.0.0 

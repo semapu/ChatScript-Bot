@@ -1,0 +1,87 @@
+﻿Start: user:sergi bot:harry ip: rand:57 (~introductions) 0 ==> Welcome to ChatScript.  When:Sep26'16-21:35:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Sep11'16-16:37:53 0:Sep26'16-21:35:28 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergi bot:harry ip: (~introductions) 1   hi ==> Have you been here before?  When:Sep26'16-21:35:31 Why:~introductions.2.0.~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 2   no ==> Did you run away from home when you were little?  When:Sep26'16-21:35:35 Why:~childhood.0.0.~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 3   no ==> You should try it some time. Travel broadens the mind.  When:Sep26'16-21:35:47 Why:~childhood.0.2   F:1 
+Respond: user:sergi bot:harry ip: (~introductions) 4   what is your name? ==> My name is Harry.  When:Sep26'16-21:36:05 Why:~introductions.3.0.~control.9.0   F:3 
+Respond: user:sergi bot:harry ip: (~childhood) 5   hi Harry ==> I ran away once, but my parents found me and dragged me back.  When:Sep26'16-21:36:10 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 6   how was your childhood ==> I was happy as a kid.  When:Sep26'16-21:36:27 Why:~childhood.6.0=HAPPY.~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 7   by ==> What scared you as a kid?  When:Sep26'16-21:36:30 Why:~childhood.2.0.~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 8   bie ==> I was scared of machines. I had vivid dreams of the Terminator robots.  When:Sep26'16-21:36:32 Why:~childhood.3.0=SCARE.~control.9.0   F:4 
+Respond: user:sergi bot:harry ip: (~childhood) 9   see you tomorrow ==> Did you have a happy childhood?  When:Sep26'16-21:36:43 Why:~childhood.4.0.~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 10   no ==> I don't know what to say.  When:Sep26'16-21:36:46 Why:~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 11   no ==> I won't argue about this.  When:Sep26'16-21:36:49 Why:~honest_response.1.0.~quibble_all.12.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 12   no ==> I don't know what to say.  When:Sep26'16-21:36:51 Why:~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 13   no ==> I don't know what to say.  When:Sep26'16-21:36:52 Why:~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 14   no ==> I don't know what to say.  When:Sep26'16-21:36:54 Why:~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 15   si ==> I don't know what to say.  When:Sep26'16-21:36:57 Why:~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 16   yes ==> OK. We agree.  When:Sep26'16-21:36:59 Why:~honest_response.2.0.~quibble_all.12.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 17   ok ==> Are we actually agreeing?  When:Sep26'16-21:37:02 Why:~honest_response.2.0.~quibble_all.12.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 18   no ==> No? Are you sure?  When:Sep26'16-21:37:04 Why:~honest_response.1.0.~quibble_all.12.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 19   no ==> No? How come?  When:Sep26'16-21:37:06 Why:~honest_response.1.0.~quibble_all.12.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 20   no ==> I don't know what to say.  When:Sep26'16-21:37:07 Why:~control.9.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 21   yes ==> So nice that we agree.  When:Sep26'16-21:37:09 Why:~honest_response.2.0.~quibble_all.12.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 22   yes ==> Yes.  When:Sep26'16-21:37:11 Why:~honest_response.2.0.~quibble_all.12.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 23     ==> Cool.  When:Sep26'16-21:37:13 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 24     ==> I don't know what to say.  When:Sep26'16-21:37:14 Why:~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 25     ==> I don't know what to say.  When:Sep26'16-21:37:15 Why:~control.9.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 26     ==> I don't know what to say.  When:Sep26'16-21:37:15 Why:~control.9.0   F:1 
+Respond: user:sergi bot:harry ip: (~childhood) 27     ==> I don't know what to say.  When:Sep26'16-21:37:15 Why:~control.9.0   F:2 
+Respond: user:sergi bot:harry ip: (~childhood) 28     ==> Right.  When:Sep26'16-21:37:15 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:sergi bot:harry ip: rand:86 (~introductions) 28 ==> Hi, again.  When:Jun20'17-15:13:19 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:48 0:Sep26'16-21:35:28 F:1474918617-4.9.0 P:Sep26'16-21:37:15 Why:~introductions.0.0.~control.0.0 
+Command: :build imagin_test1
+Start: user:sergi bot:harry ip: rand:87 (~introductions) 28 ==> Hello, again.  When:Jun20'17-15:13:38 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:48 0:Sep26'16-21:35:28 F:1474918617-4.9.0 P:Sep26'16-21:37:15 Why:~introductions.0.0.~control.0.0 
+Command: :build Iagin_test1
+Start: user:sergi bot:harry ip: rand:86 (~introductions) 28 ==> Hi, again.  When:Jun20'17-15:15:23 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:48 0:Sep26'16-21:35:28 F:1474918617-4.9.0 P:Sep26'16-21:37:15 Why:~introductions.0.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:sergi bot:harry ip: rand:88 (~introductions) 28 ==> Glad you came back.  When:Jun20'17-15:15:30 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:48 0:Sep26'16-21:35:28 F:1474918617-4.9.0 P:Sep26'16-21:37:15 Why:~introductions.0.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:sergi bot:harry ip: rand:89 (~introductions) 28 ==> Welcome back  When:Jun20'17-15:15:57 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:09:48 0:Sep26'16-21:35:28 F:1474918617-4.9.0 P:Sep26'16-21:37:15 Why:~introductions.0.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:sergi bot:dory ip: rand:57 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:16:19 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:16:15 0:Jun20'17-15:16:19 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergi bot:dory ip: (~keywordless) 1   hola ==> ¿Tiene alguna pregunta?  When:Jun20'17-15:16:28 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~keywordless) 2   si ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-15:16:30 Why:~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~keywordless) 3   como puedo activar mis tarjetas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:16:41 Why:~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~keywordless) 4   como puedo activar mis targetas? ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:16:45 Why:~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergi bot:dory ip: rand:61 (~introductions) 4 ==> Hola!  When:Jun20'17-15:17:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:17:25 0:Jun20'17-15:16:19 F:0 P:Jun20'17-15:16:45 Why:~introductions.0.0.~control.0.0 
+Respond: user:sergi bot:dory ip: (~keywordless) 5   hola ==> ¿Le puedo ayudar en algo?  When:Jun20'17-15:17:31 Why:~keywordless.31.0.~control.1.0   F:16 
+Respond: user:sergi bot:dory ip: (~keywordless) 6   si ==> No comprendo lo que ha dicho.  When:Jun20'17-15:17:33 Why:~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~keywordless) 7   como puedo hacer una transferencia? ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:17:41 Why:~control.1.0   F:0 
+Command: :build HARRY
+Start: user:sergi bot:harry ip: rand:89 (~introductions) 28 ==> Hi.  When:Jun20'17-15:22:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:22:24 0:Sep26'16-21:35:28 F:1474918617-4.9.0 P:Sep26'16-21:37:15 Why:~introductions.0.0.~control.0.0 
+Respond: user:sergi bot:harry ip: (~introductions) 29   hi ==> I don't know what to say.  When:Jun20'17-15:22:30 Why:~control.9.0   F:0 
+Respond: user:sergi bot:harry ip: (~introductions) 30   hello ==> I don't know what to say.  When:Jun20'17-15:22:36 Why:~control.9.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergi bot:dory ip: rand:65 (~introductions) 7 ==> Buenos días!  When:Jun20'17-15:22:51 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:22:48 0:Jun20'17-15:16:19 F:0 P:Jun20'17-15:17:41 Why:~introductions.0.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:sergi bot:dory ip: rand:65 (~introductions) 7 ==> Buenos dias!  When:Jun20'17-15:23:15 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:23:11 0:Jun20'17-15:16:19 F:0 P:Jun20'17-15:17:41 Why:~introductions.0.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:sergi bot:dory ip: rand:74 (~introductions) 7 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-15:25:41 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:25:38 0:Jun20'17-15:16:19 F:0 P:Jun20'17-15:17:41 Why:~control.1.0 
+Command: :reset
+Start: user:sergi bot:dory ip: rand:57 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:25:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:25:38 0:Jun20'17-15:16:19 F:0 P:Jun20'17-15:17:41 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergi bot:dory ip: (~keywordless) 1   hola ==> ¿Tiene alguna pregunta?  When:Jun20'17-15:25:50 Why:~keywordless.31.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:sergi bot:dory ip: rand:59 (~introductions) 1 ==> Buenos dias!  When:Jun20'17-15:27:16 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:27:11 0:Jun20'17-15:16:19 F:0 P:Jun20'17-15:25:50 Why:~introductions.0.0.~control.0.0 
+Respond: user:sergi bot:dory ip: (~keywordless) 2   hola ==> ¿Le puedo ayudar en algo?  When:Jun20'17-15:27:21 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~keywordless) 3   como te llamas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:27:26 Why:~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~keywordless) 4   cual es tu nambre? ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:27:53 Why:~control.1.0   F:0 
+Command: :build Imagin_test1
+No such bot  sergi -  -  status: ImaginBankBot   in topic_sergi_imaginbankbot.txt at 0: ^imaginbankbot
+    Command: :reset
+Start: user:sergi bot: ip: rand:57 () 0 ==>   When:Jun20'17-15:28:25 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:28:12 0:Jun20'17-15:28:25 F:0 P:0 
+No such bot  sergi -  - hola status: ImaginBankBot   in topic_sergi_imaginbankbot.txt at 1: ^imaginbankbot
+    
+No such bot  sergi -  - hola status: ImaginBankBot   in topic_sergi_imaginbankbot.txt at 1: ^imaginbankbot
+    Start: user:sergi bot:dory ip: rand:61 (~introductions) 4 ==> Hola!  When:Jun20'17-15:47:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:46:42 0:Jun20'17-15:16:19 F:0 P:Jun20'17-15:27:53 Why:~introductions.0.0.~control.0.0 
+Respond: user:sergi bot:dory ip: (~introductions) 5   como te llamas? ==> Soy ImaginBank Bot.  When:Jun20'17-15:47:57 Why:~introductions.2.0.~control.1.0   F:15 
+Respond: user:sergi bot:dory ip: (~introductions) 6   como puedo acceder a la linea abierta? ==> No comprendo lo que ha dicho.  When:Jun20'17-15:48:39 Why:~control.1.0   F:0 
+Command: :build Imagin_test1
+No such bot  sergi -  -  status: ImaginBank   in topic_sergi_imaginbank.txt at 0: ^imaginbank
+    Command: :build HARRY
+Start: user:sergi bot:harry ip: rand:91 (~introductions) 30 ==> Welcome to ChatScript.  When:Jun20'17-15:49:34 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:49:30 0:Sep26'16-21:35:28 F:1474918617-4.9.0 P:Jun20'17-15:22:36 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+No such bot  sergi -  -  status: ImaginBank   in topic_sergi_imaginbank.txt at 0: ^imaginbank
+    Command: :build Imagin_test1
+Start: user:sergi bot:dory ip: rand:65 (~introductions) 6 ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:50:19 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:50:16 0:Jun20'17-15:16:19 F:0 P:Jun20'17-15:48:39 Why:~control.1.0.~control.1.0 
+Respond: user:sergi bot:dory ip: (~introductions) 7   hola ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:50:22 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~introductions) 8   como te llamas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:50:29 Why:~control.1.0.~control.1.0   F:16 

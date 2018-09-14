@@ -1,0 +1,777 @@
+﻿ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+>>Reading folder RAWDATA/Imagin_test1/
+
+----Reading file CHIT_adios.top
+Reading topic ~chitadios
+*** Warning- line 6 of CHIT_adios.top: dejame is not a known word. Is it misspelled?
+*** Warning- line 6 of CHIT_adios.top: Word paz only known in opposite case
+*** Warning- line 9 of CHIT_adios.top: molestes is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_adios.top: voy is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_adios.top: dormir is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_adios.top: necesito is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_adios.top: Substitutes.txt changes nada to nothing anywhere in input
+*** Warning- line 21 of CHIT_adios.top: que is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_adios.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 21 of CHIT_adios.top: vaya is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_adios.top: Word bien only known in opposite case
+*** Warning- line 27 of CHIT_adios.top: tengo is not a known word. Is it misspelled?
+*** Warning- line 27 of CHIT_adios.top: preguntas is not a known word. Is it misspelled?
+*** Warning- line 30 of CHIT_adios.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 30 of CHIT_adios.top: irme is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_adios.top: ayuda is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_adios.top: Spelling.txt changes ya to you anywhere in input
+*** Warning- line 33 of CHIT_adios.top: es is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_adios.top: necesaria is not a known word. Is it misspelled?
+*** Warning- line 36 of CHIT_adios.top: Spelling.txt changes ya to you anywhere in input
+*** Warning- line 36 of CHIT_adios.top: acabado is not a known word. Is it misspelled?
+*** Warning- line 39 of CHIT_adios.top: Spelling.txt changes ya to you anywhere in input
+*** Warning- line 39 of CHIT_adios.top: terminado is not a known word. Is it misspelled?
+*** Warning- line 42 of CHIT_adios.top: Spelling.txt changes ya to you anywhere in input
+*** Warning- line 45 of CHIT_adios.top: Spelling.txt changes ya to you anywhere in input
+*** Warning- line 45 of CHIT_adios.top: dudas is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_adios.top: quiero is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_adios.top: dejar is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_adios.top: Word esta only known in opposite case
+*** Warning- line 48 of CHIT_adios.top: conversacion is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_adios.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 51 of CHIT_adios.top: tengas is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_adios.top: un is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_adios.top: buen is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_adios.top: Word dia only known in opposite case
+*** Warning- line 54 of CHIT_adios.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 57 of CHIT_adios.top: Word hasta only known in opposite case
+*** Warning- line 60 of CHIT_adios.top: Word bueno only known in opposite case
+*** Warning- line 63 of CHIT_adios.top: gracias is not a known word. Is it misspelled?
+*** Warning- line 63 of CHIT_adios.top: por is not a known word. Is it misspelled?
+*** Warning- line 66 of CHIT_adios.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 66 of CHIT_adios.top: vayas is not a known word. Is it misspelled?
+*** Warning- line 69 of CHIT_adios.top: vete is not a known word. Is it misspelled?
+*** Warning- line 72 of CHIT_adios.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 72 of CHIT_adios.top: dejes is not a known word. Is it misspelled?
+
+----Reading file CHIT_como_funcionas.top
+Reading topic ~comofuncionas
+*** Warning- line 3 of CHIT_como_funcionas.top: funcionas is not a known word. Is it misspelled?
+*** Warning- line 6 of CHIT_como_funcionas.top: lo is not a known word. Is it misspelled?
+*** Warning- line 6 of CHIT_como_funcionas.top: haces is not a known word. Is it misspelled?
+*** Warning- line 6 of CHIT_como_funcionas.top: contestar is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_como_funcionas.top: montas is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_como_funcionas.top: funcionar is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_como_funcionas.top: funcionamiento is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_como_funcionas.top: tecnologia is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_como_funcionas.top: sabes is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_como_funcionas.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 18 of CHIT_como_funcionas.top: preguntarte is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_como_funcionas.top: cuentame is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_como_funcionas.top: cosas is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_como_funcionas.top: sobre is not a known word. Is it misspelled?
+*** Warning- line 30 of CHIT_como_funcionas.top: identificas is not a known word. Is it misspelled?
+*** Warning- line 30 of CHIT_como_funcionas.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 30 of CHIT_como_funcionas.top: pregunto is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_como_funcionas.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 33 of CHIT_como_funcionas.top: se is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_como_funcionas.top: basa is not a known word. Is it misspelled?
+*** Warning- line 36 of CHIT_como_funcionas.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 36 of CHIT_como_funcionas.top: basas is not a known word. Is it misspelled?
+*** Warning- line 39 of CHIT_como_funcionas.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_como_funcionas.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_como_funcionas.top: todo is not a known word. Is it misspelled?
+*** Warning- line 42 of CHIT_como_funcionas.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 42 of CHIT_como_funcionas.top: algoritmo is not a known word. Is it misspelled?
+*** Warning- line 45 of CHIT_como_funcionas.top: intencion is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_como_funcionas.top: explicame is not a known word. Is it misspelled?
+
+----Reading file CHIT_conversacion.top
+Reading topic ~conversacion
+*** Warning- line 3 of CHIT_conversacion.top: tienes is not a known word. Is it misspelled?
+*** Warning- line 3 of CHIT_conversacion.top: Word familia only known in opposite case
+*** Warning- line 6 of CHIT_conversacion.top: Word gusta only known in opposite case
+*** Warning- line 9 of CHIT_conversacion.top: Word tomas only known in opposite case
+*** Warning- line 9 of CHIT_conversacion.top: drogas is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_conversacion.top: cuantos is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 18 of CHIT_conversacion.top: donde is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_conversacion.top: vives is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_conversacion.top: quien is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_conversacion.top: escribio is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_conversacion.top: Word este only known in opposite case
+*** Warning- line 21 of CHIT_conversacion.top: Word libro only known in opposite case
+*** Warning- line 24 of CHIT_conversacion.top: acuerdas is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_conversacion.top: tus is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_conversacion.top: clases is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_conversacion.top: geografia is not a known word. Is it misspelled?
+*** Warning- line 27 of CHIT_conversacion.top: Word historia only known in opposite case
+*** Warning- line 30 of CHIT_conversacion.top: estas is not a known word. Is it misspelled?
+*** Warning- line 30 of CHIT_conversacion.top: casado is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_conversacion.top: puedo is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_conversacion.top: hacerte is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_conversacion.top: Word una only known in opposite case
+*** Warning- line 33 of CHIT_conversacion.top: pregunta is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_conversacion.top: aspecto is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_conversacion.top: fisico is not a known word. Is it misspelled?
+*** Warning- line 36 of CHIT_conversacion.top: gustan is not a known word. Is it misspelled?
+*** Warning- line 36 of CHIT_conversacion.top: Word los only known in opposite case
+*** Warning- line 36 of CHIT_conversacion.top: animales is not a known word. Is it misspelled?
+*** Warning- line 39 of CHIT_conversacion.top: hijos is not a known word. Is it misspelled?
+*** Warning- line 42 of CHIT_conversacion.top: moverte is not a known word. Is it misspelled?
+*** Warning- line 45 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 45 of CHIT_conversacion.top: divertirte is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_conversacion.top: cual is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_conversacion.top: favorito is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_conversacion.top: apellido is not a known word. Is it misspelled?
+*** Warning- line 54 of CHIT_conversacion.top: vienes is not a known word. Is it misspelled?
+*** Warning- line 57 of CHIT_conversacion.top: caigo is not a known word. Is it misspelled?
+*** Warning- line 60 of CHIT_conversacion.top: gatos is not a known word. Is it misspelled?
+*** Warning- line 66 of CHIT_conversacion.top: pais is not a known word. Is it misspelled?
+*** Warning- line 72 of CHIT_conversacion.top: hacer is not a known word. Is it misspelled?
+*** Warning- line 72 of CHIT_conversacion.top: deporte is not a known word. Is it misspelled?
+*** Warning- line 75 of CHIT_conversacion.top: quieres is not a known word. Is it misspelled?
+*** Warning- line 75 of CHIT_conversacion.top: salir is not a known word. Is it misspelled?
+*** Warning- line 75 of CHIT_conversacion.top: conmigo is not a known word. Is it misspelled?
+*** Warning- line 78 of CHIT_conversacion.top: algo is not a known word. Is it misspelled?
+*** Warning- line 81 of CHIT_conversacion.top: votas is not a known word. Is it misspelled?
+*** Warning- line 84 of CHIT_conversacion.top: presidente is not a known word. Is it misspelled?
+*** Warning- line 87 of CHIT_conversacion.top: catalunya is not a known word. Is it misspelled?
+*** Warning- line 90 of CHIT_conversacion.top: tenido is not a known word. Is it misspelled?
+*** Warning- line 90 of CHIT_conversacion.top: semana is not a known word. Is it misspelled?
+*** Warning- line 93 of CHIT_conversacion.top: Word como only known in opposite case
+*** Warning- line 93 of CHIT_conversacion.top: fue is not a known word. Is it misspelled?
+*** Warning- line 96 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 96 of CHIT_conversacion.top: Word tal only known in opposite case
+*** Warning- line 96 of CHIT_conversacion.top: Word ido only known in opposite case
+*** Warning- line 99 of CHIT_conversacion.top: va is not a known word. Is it misspelled?
+*** Warning- line 102 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 108 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 108 of CHIT_conversacion.top: pasado is not a known word. Is it misspelled?
+*** Warning- line 111 of CHIT_conversacion.top: futbol is not a known word. Is it misspelled?
+*** Warning- line 114 of CHIT_conversacion.top: ganar is not a known word. Is it misspelled?
+*** Warning- line 114 of CHIT_conversacion.top: liga is not a known word. Is it misspelled?
+*** Warning- line 117 of CHIT_conversacion.top: cocinar is not a known word. Is it misspelled?
+*** Warning- line 120 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 120 of CHIT_conversacion.top: parece is not a known word. Is it misspelled?
+*** Warning- line 120 of CHIT_conversacion.top: Word madrid only known in opposite case
+*** Warning- line 126 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 126 of CHIT_conversacion.top: messi is not a known word. Is it misspelled?
+*** Warning- line 129 of CHIT_conversacion.top: cae is not a known word. Is it misspelled?
+*** Warning- line 129 of CHIT_conversacion.top: Word cristiano only known in opposite case
+*** Warning- line 129 of CHIT_conversacion.top: Word ronaldo only known in opposite case
+*** Warning- line 132 of CHIT_conversacion.top: cocina is not a known word. Is it misspelled?
+*** Warning- line 135 of CHIT_conversacion.top: Word vida only known in opposite case
+*** Warning- line 138 of CHIT_conversacion.top: ofertas is not a known word. Is it misspelled?
+*** Warning- line 138 of CHIT_conversacion.top: trabajo is not a known word. Is it misspelled?
+*** Warning- line 141 of CHIT_conversacion.top: entrena is not a known word. Is it misspelled?
+*** Warning- line 144 of CHIT_conversacion.top: distancia is not a known word. Is it misspelled?
+*** Warning- line 144 of CHIT_conversacion.top: Word entre only known in opposite case
+*** Warning- line 144 of CHIT_conversacion.top: Word tierra only known in opposite case
+*** Warning- line 144 of CHIT_conversacion.top: Word luna only known in opposite case
+*** Warning- line 147 of CHIT_conversacion.top: estaria is not a known word. Is it misspelled?
+*** Warning- line 147 of CHIT_conversacion.top: masaje is not a known word. Is it misspelled?
+*** Warning- line 150 of CHIT_conversacion.top: podrias is not a known word. Is it misspelled?
+*** Warning- line 150 of CHIT_conversacion.top: hacerme is not a known word. Is it misspelled?
+*** Warning- line 153 of CHIT_conversacion.top: hablar is not a known word. Is it misspelled?
+*** Warning- line 156 of CHIT_conversacion.top: caminar is not a known word. Is it misspelled?
+*** Warning- line 159 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 159 of CHIT_conversacion.top: Word tiempo only known in opposite case
+*** Warning- line 159 of CHIT_conversacion.top: hace is not a known word. Is it misspelled?
+*** Warning- line 159 of CHIT_conversacion.top: Spelling.txt changes hace to hare anywhere in input
+*** Warning- line 162 of CHIT_conversacion.top: crema is not a known word. Is it misspelled?
+*** Warning- line 162 of CHIT_conversacion.top: fresa is not a known word. Is it misspelled?
+*** Warning- line 165 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 165 of CHIT_conversacion.top: parecio is not a known word. Is it misspelled?
+*** Warning- line 165 of CHIT_conversacion.top: partido is not a known word. Is it misspelled?
+*** Warning- line 168 of CHIT_conversacion.top: malisimos is not a known word. Is it misspelled?
+*** Warning- line 171 of CHIT_conversacion.top: petardo is not a known word. Is it misspelled?
+*** Warning- line 174 of CHIT_conversacion.top: podemos is not a known word. Is it misspelled?
+*** Warning- line 177 of CHIT_conversacion.top: charlar is not a known word. Is it misspelled?
+*** Warning- line 180 of CHIT_conversacion.top: importa is not a known word. Is it misspelled?
+*** Warning- line 180 of CHIT_conversacion.top: hablamos is not a known word. Is it misspelled?
+*** Warning- line 180 of CHIT_conversacion.top: poco is not a known word. Is it misspelled?
+*** Warning- line 183 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 186 of CHIT_conversacion.top: porque is not a known word. Is it misspelled?
+*** Warning- line 186 of CHIT_conversacion.top: charlamos is not a known word. Is it misspelled?
+*** Warning- line 186 of CHIT_conversacion.top: rato is not a known word. Is it misspelled?
+*** Warning- line 189 of CHIT_conversacion.top: vamos is not a known word. Is it misspelled?
+*** Warning- line 195 of CHIT_conversacion.top: caixa is not a known word. Is it misspelled?
+*** Warning- line 198 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 198 of CHIT_conversacion.top: hara is not a known word. Is it misspelled?
+*** Warning- line 201 of CHIT_conversacion.top: hora is not a known word. Is it misspelled?
+*** Warning- line 201 of CHIT_conversacion.top: juega is not a known word. Is it misspelled?
+*** Warning- line 204 of CHIT_conversacion.top: presupuestos is not a known word. Is it misspelled?
+*** Warning- line 207 of CHIT_conversacion.top: barca is not a known word. Is it misspelled?
+*** Warning- line 210 of CHIT_conversacion.top: mejor is not a known word. Is it misspelled?
+*** Warning- line 210 of CHIT_conversacion.top: equipo is not a known word. Is it misspelled?
+*** Warning- line 210 of CHIT_conversacion.top: mundo is not a known word. Is it misspelled?
+*** Warning- line 213 of CHIT_conversacion.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 213 of CHIT_conversacion.top: sepas is not a known word. Is it misspelled?
+
+----Reading file CHIT_de_que_compania_eres.top
+Reading topic ~dequecompaniaeres
+*** Warning- line 3 of CHIT_de_que_compania_eres.top: hablame is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 12 of CHIT_de_que_compania_eres.top: empresa is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 15 of CHIT_de_que_compania_eres.top: puedes is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_de_que_compania_eres.top: contarme is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 21 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 27 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 27 of CHIT_de_que_compania_eres.top: piensas is not a known word. Is it misspelled?
+*** Warning- line 39 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_de_que_compania_eres.top: puedas is not a known word. Is it misspelled?
+*** Warning- line 42 of CHIT_de_que_compania_eres.top: describirias is not a known word. Is it misspelled?
+*** Warning- line 45 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 45 of CHIT_de_que_compania_eres.top: eres is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 51 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 51 of CHIT_de_que_compania_eres.top: dedica is not a known word. Is it misspelled?
+*** Warning- line 54 of CHIT_de_que_compania_eres.top: trabajas is not a known word. Is it misspelled?
+*** Warning- line 57 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 60 of CHIT_de_que_compania_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 60 of CHIT_de_que_compania_eres.top: firma is not a known word. Is it misspelled?
+
+----Reading file CHIT_eres.top
+Reading topic ~eres
+*** Warning- line 6 of CHIT_eres.top: humano is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_eres.top: casualidad is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_eres.top: asistente is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_eres.top: experto is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_eres.top: operador is not a known word. Is it misspelled?
+*** Warning- line 27 of CHIT_eres.top: trabajador is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_eres.top: posible is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 36 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_eres.top: Word banco only known in opposite case
+*** Warning- line 42 of CHIT_eres.top: departamento is not a known word. Is it misspelled?
+*** Warning- line 45 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 57 of CHIT_eres.top: aqu� is not a known word. Is it misspelled?
+*** Warning- line 60 of CHIT_eres.top: estoy is not a known word. Is it misspelled?
+*** Warning- line 60 of CHIT_eres.top: hablando is not a known word. Is it misspelled?
+*** Warning- line 66 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 66 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 69 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 69 of CHIT_eres.top: dijeras is not a known word. Is it misspelled?
+*** Warning- line 69 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 72 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 75 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 78 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 78 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 81 of CHIT_eres.top: puede is not a known word. Is it misspelled?
+*** Warning- line 81 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 84 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 84 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 87 of CHIT_eres.top: llaman is not a known word. Is it misspelled?
+*** Warning- line 90 of CHIT_eres.top: desearia is not a known word. Is it misspelled?
+*** Warning- line 90 of CHIT_eres.top: hablo is not a known word. Is it misspelled?
+*** Warning- line 93 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 99 of CHIT_eres.top: exijo is not a known word. Is it misspelled?
+*** Warning- line 102 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 105 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 117 of CHIT_eres.top: fondos is not a known word. Is it misspelled?
+*** Warning- line 123 of CHIT_eres.top: nombre is not a known word. Is it misspelled?
+*** Warning- line 129 of CHIT_eres.top: suelen is not a known word. Is it misspelled?
+*** Warning- line 129 of CHIT_eres.top: llamar is not a known word. Is it misspelled?
+*** Warning- line 132 of CHIT_eres.top: Substitutes.txt changes que to queue anywhere in input
+
+----Reading file CHIT_felicitaciones.top
+Reading topic ~felicitaciones
+*** Warning- line 3 of CHIT_felicitaciones.top: pascuas is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_felicitaciones.top: nuevo is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_felicitaciones.top: cumpleaños is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_felicitaciones.top: Word buena only known in opposite case
+*** Warning- line 24 of CHIT_felicitaciones.top: pascua is not a known word. Is it misspelled?
+*** Warning- line 30 of CHIT_felicitaciones.top: Word santa only known in opposite case
+*** Warning- line 39 of CHIT_felicitaciones.top: noche is not a known word. Is it misspelled?
+*** Warning- line 39 of CHIT_felicitaciones.top: vieja is not a known word. Is it misspelled?
+*** Warning- line 42 of CHIT_felicitaciones.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 45 of CHIT_felicitaciones.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 48 of CHIT_felicitaciones.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 48 of CHIT_felicitaciones.top: Word navidad only known in opposite case
+*** Warning- line 51 of CHIT_felicitaciones.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 51 of CHIT_felicitaciones.top: unas is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_felicitaciones.top: felices is not a known word. Is it misspelled?
+*** Warning- line 54 of CHIT_felicitaciones.top: deseo is not a known word. Is it misspelled?
+*** Warning- line 57 of CHIT_felicitaciones.top: Word prospero only known in opposite case
+*** Warning- line 60 of CHIT_felicitaciones.top: Word feliz only known in opposite case
+*** Warning- line 63 of CHIT_felicitaciones.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 69 of CHIT_felicitaciones.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 72 of CHIT_felicitaciones.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 75 of CHIT_felicitaciones.top: Substitutes.txt changes que to queue anywhere in input
+
+----Reading file CHIT_halagos.top
+Reading topic ~halagos
+*** Warning- line 3 of CHIT_halagos.top: deberias is not a known word. Is it misspelled?
+*** Warning- line 3 of CHIT_halagos.top: ser is not a known word. Is it misspelled?
+*** Warning- line 3 of CHIT_halagos.top: reconocido is not a known word. Is it misspelled?
+*** Warning- line 3 of CHIT_halagos.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 6 of CHIT_halagos.top: programado is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_halagos.top: esto is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_halagos.top: forma is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_halagos.top: fenomenal is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_halagos.top: muy is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_halagos.top: pareces is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_halagos.top: realmente is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_halagos.top: entrenado is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_halagos.top: fenomeno is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_halagos.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 30 of CHIT_halagos.top: sentido is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_halagos.top: respondes is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_halagos.top: ráido is not a known word. Is it misspelled?
+*** Warning- line 42 of CHIT_halagos.top: enhorabuena is not a known word. Is it misspelled?
+*** Warning- line 42 of CHIT_halagos.top: logros is not a known word. Is it misspelled?
+*** Warning- line 45 of CHIT_halagos.top: hecho is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_halagos.top: felicito is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_halagos.top: proezas is not a known word. Is it misspelled?
+*** Warning- line 57 of CHIT_halagos.top: agradecido is not a known word. Is it misspelled?
+*** Warning- line 60 of CHIT_halagos.top: encanta is not a known word. Is it misspelled?
+*** Warning- line 63 of CHIT_halagos.top: clavado is not a known word. Is it misspelled?
+*** Warning- line 66 of CHIT_halagos.top: clavas is not a known word. Is it misspelled?
+*** Warning- line 69 of CHIT_halagos.top: entendido is not a known word. Is it misspelled?
+*** Warning- line 69 of CHIT_halagos.top: primera is not a known word. Is it misspelled?
+*** Warning- line 75 of CHIT_halagos.top: excelente is not a known word. Is it misspelled?
+
+----Reading file CHIT_me_llamo.top
+Reading topic ~felicitaciones
+*** Warning- line 3 of CHIT_me_llamo.top: llamo is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_me_llamo.top: llamarme is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_me_llamo.top: nombres is not a known word. Is it misspelled?
+*** Warning- line 21 of CHIT_me_llamo.top: llamaban is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_me_llamo.top: ahora is not a known word. Is it misspelled?
+*** Warning- line 27 of CHIT_me_llamo.top: llamame is not a known word. Is it misspelled?
+*** Warning- line 30 of CHIT_me_llamo.top: completo is not a known word. Is it misspelled?
+
+----Reading file CHIT_novedades.top
+Reading topic ~novedades
+*** Warning- line 1 of CHIT_novedades.top: novedades is not a known word. Is it misspelled?
+*** Warning- line 3 of CHIT_novedades.top: cuales is not a known word. Is it misspelled?
+*** Warning- line 3 of CHIT_novedades.top: Word las only known in opposite case
+*** Warning- line 3 of CHIT_novedades.top: nuevas is not a known word. Is it misspelled?
+*** Warning- line 3 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 9 of CHIT_novedades.top: ultimos is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_novedades.top: avances is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_novedades.top: alguna is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_novedades.top: novedad is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 18 of CHIT_novedades.top: aprendido is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_novedades.top: recientemente is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 30 of CHIT_novedades.top: Word han only known in opposite case
+*** Warning- line 30 of CHIT_novedades.top: a�adido is not a known word. Is it misspelled?
+*** Warning- line 30 of CHIT_novedades.top: ultimamente is not a known word. Is it misspelled?
+*** Warning- line 36 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 42 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 45 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 48 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 54 of CHIT_novedades.top: nueva is not a known word. Is it misspelled?
+*** Warning- line 54 of CHIT_novedades.top: funcionalidad is not a known word. Is it misspelled?
+*** Warning- line 57 of CHIT_novedades.top: habilidades is not a known word. Is it misspelled?
+*** Warning- line 60 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 60 of CHIT_novedades.top: hayas is not a known word. Is it misspelled?
+*** Warning- line 66 of CHIT_novedades.top: Substitutes.txt changes nada to nothing anywhere in input
+*** Warning- line 75 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 78 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 81 of CHIT_novedades.top: Substitutes.txt changes que to queue anywhere in input
+
+----Reading file CHIT_que_haces.top
+Reading topic ~quehaces
+*** Warning- line 3 of CHIT_que_haces.top: fuertes is not a known word. Is it misspelled?
+*** Warning- line 6 of CHIT_que_haces.top: temas is not a known word. Is it misspelled?
+*** Warning- line 9 of CHIT_que_haces.top: negocio is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_que_haces.top: especializacion is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 15 of CHIT_que_haces.top: podria is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_que_haces.top: aquello is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 21 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 24 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 30 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 33 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 33 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 36 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_que_haces.top: explicarme is not a known word. Is it misspelled?
+*** Warning- line 48 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 48 of CHIT_que_haces.top: especializado is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 51 of CHIT_que_haces.top: util is not a known word. Is it misspelled?
+*** Warning- line 54 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 57 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 60 of CHIT_que_haces.top: gustaria is not a known word. Is it misspelled?
+*** Warning- line 60 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 63 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 63 of CHIT_que_haces.top: preguntar is not a known word. Is it misspelled?
+*** Warning- line 66 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 69 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 72 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 75 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 75 of CHIT_que_haces.top: resolver is not a known word. Is it misspelled?
+*** Warning- line 78 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 78 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 81 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 84 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 84 of CHIT_que_haces.top: contestame is not a known word. Is it misspelled?
+*** Warning- line 87 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 90 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 90 of CHIT_que_haces.top: contestarme is not a known word. Is it misspelled?
+*** Warning- line 93 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 96 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 99 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 102 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 102 of CHIT_que_haces.top: ayudar is not a known word. Is it misspelled?
+*** Warning- line 105 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 108 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 111 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 111 of CHIT_que_haces.top: tratas is not a known word. Is it misspelled?
+*** Warning- line 114 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 117 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 117 of CHIT_que_haces.top: resolverme is not a known word. Is it misspelled?
+*** Warning- line 123 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 126 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 129 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 132 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 135 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 138 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 141 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 144 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 144 of CHIT_que_haces.top: ayudarme is not a known word. Is it misspelled?
+*** Warning- line 156 of CHIT_que_haces.top: importaria is not a known word. Is it misspelled?
+*** Warning- line 156 of CHIT_que_haces.top: echarme is not a known word. Is it misspelled?
+*** Warning- line 156 of CHIT_que_haces.top: Word mano only known in opposite case
+*** Warning- line 165 of CHIT_que_haces.top: urgente is not a known word. Is it misspelled?
+*** Warning- line 168 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 168 of CHIT_que_haces.top: ayudes is not a known word. Is it misspelled?
+*** Warning- line 168 of CHIT_que_haces.top: urgentemente is not a known word. Is it misspelled?
+*** Warning- line 171 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 174 of CHIT_que_haces.top: importante is not a known word. Is it misspelled?
+*** Warning- line 174 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 177 of CHIT_que_haces.top: porfavor is not a known word. Is it misspelled?
+*** Warning- line 180 of CHIT_que_haces.top: agradeceria is not a known word. Is it misspelled?
+*** Warning- line 183 of CHIT_que_haces.top: ayudaras is not a known word. Is it misspelled?
+*** Warning- line 183 of CHIT_que_haces.top: eternamente is not a known word. Is it misspelled?
+*** Warning- line 189 of CHIT_que_haces.top: seria is not a known word. Is it misspelled?
+*** Warning- line 189 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 192 of CHIT_que_haces.top: momento is not a known word. Is it misspelled?
+*** Warning- line 195 of CHIT_que_haces.top: echas is not a known word. Is it misspelled?
+*** Warning- line 198 of CHIT_que_haces.top: debes is not a known word. Is it misspelled?
+*** Warning- line 207 of CHIT_que_haces.top: hechar is not a known word. Is it misspelled?
+*** Warning- line 213 of CHIT_que_haces.top: necesitaria is not a known word. Is it misspelled?
+*** Warning- line 213 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 225 of CHIT_que_haces.top: crees is not a known word. Is it misspelled?
+*** Warning- line 225 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 231 of CHIT_que_haces.top: algunos is not a known word. Is it misspelled?
+*** Warning- line 231 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 237 of CHIT_que_haces.top: problema is not a known word. Is it misspelled?
+*** Warning- line 237 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 240 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 240 of CHIT_que_haces.top: tipo is not a known word. Is it misspelled?
+*** Warning- line 243 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 243 of CHIT_que_haces.top: consultas is not a known word. Is it misspelled?
+*** Warning- line 246 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 246 of CHIT_que_haces.top: consultarte is not a known word. Is it misspelled?
+*** Warning- line 249 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 249 of CHIT_que_haces.top: consultar is not a known word. Is it misspelled?
+*** Warning- line 252 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 255 of CHIT_que_haces.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 258 of CHIT_que_haces.top: echar is not a known word. Is it misspelled?
+
+----Reading file CHIT_que_tal.top
+Reading topic ~quetal
+*** Warning- line 3 of CHIT_que_tal.top: estamos is not a known word. Is it misspelled?
+*** Warning- line 6 of CHIT_que_tal.top: estan is not a known word. Is it misspelled?
+*** Warning- line 6 of CHIT_que_tal.top: ustedes is not a known word. Is it misspelled?
+*** Warning- line 12 of CHIT_que_tal.top: usted is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_que_tal.top: encuentra is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_que_tal.top: encuentras is not a known word. Is it misspelled?
+*** Warning- line 30 of CHIT_que_tal.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 33 of CHIT_que_tal.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 36 of CHIT_que_tal.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 39 of CHIT_que_tal.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 45 of CHIT_que_tal.top: cansada is not a known word. Is it misspelled?
+*** Warning- line 51 of CHIT_que_tal.top: cansado is not a known word. Is it misspelled?
+
+----Reading file CHIT_vale.top
+Reading topic ~vale
+*** Warning- line 3 of CHIT_vale.top: acuerdo is not a known word. Is it misspelled?
+*** Warning- line 15 of CHIT_vale.top: perfecto is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_vale.top: quedamos is not a known word. Is it misspelled?
+*** Warning- line 18 of CHIT_vale.top: Word asi only known in opposite case
+*** Warning- line 24 of CHIT_vale.top: volvamos is not a known word. Is it misspelled?
+*** Warning- line 24 of CHIT_vale.top: Word nuestra only known in opposite case
+*** Warning- line 30 of CHIT_vale.top: eso is not a known word. Is it misspelled?
+*** Warning- line 33 of CHIT_vale.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 36 of CHIT_vale.top: alegro is not a known word. Is it misspelled?
+
+----Reading file concepts.top
+Reading concept ~hola
+*** Warning- line 1 of concepts.top: Word hola only known in opposite case
+*** Warning- line 1 of concepts.top: holita is not a known word. Is it misspelled?
+Reading concept ~gracias
+*** Warning- line 2 of concepts.top: agradezco is not a known word. Is it misspelled?
+*** Warning- line 2 of concepts.top: agradecer is not a known word. Is it misspelled?
+Reading concept ~adios
+*** Warning- line 3 of concepts.top: adiós is not a known word. Is it misspelled?
+*** Warning- line 3 of concepts.top: Word chao only known in opposite case
+Reading concept ~no
+*** Warning- line 5 of concepts.top: negativo is not a known word. Is it misspelled?
+*** Warning- line 5 of concepts.top: incorrecto is not a known word. Is it misspelled?
+Reading concept ~sí
+*** Warning- line 6 of concepts.top: afirmativo is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: correcto is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: sí is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: oky is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: oki is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: Word guay only known in opposite case
+Reading concept ~si
+Reading concept ~gastar
+*** Warning- line 10 of concepts.top: gastar is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: gasté is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: gaste is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: gastado is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: gasto is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: gastos is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: pagado is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: pagar is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: pague is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: factura is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: facturas is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: Word pago only known in opposite case
+*** Warning- line 10 of concepts.top: recibo is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: recivo is not a known word. Is it misspelled?
+Reading concept ~cuánto
+*** Warning- line 11 of concepts.top: qué is not a known word. Is it misspelled?
+*** Warning- line 11 of concepts.top: cuanto is not a known word. Is it misspelled?
+*** Warning- line 11 of concepts.top: cuánto is not a known word. Is it misspelled?
+*** Warning- line 11 of concepts.top: ¿cuanto is not a known word. Is it misspelled?
+*** Warning- line 11 of concepts.top: ¿cuánto is not a known word. Is it misspelled?
+Reading concept ~cuanto
+Reading concept ~mostrar
+*** Warning- line 13 of concepts.top: mostrar is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: muestrame is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: muéstrame is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: mostrarme is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: enseñar is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: enséñame is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: enseñame is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: enseñarme is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: ver is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: dígame is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: digame is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: decirme is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: consúltame is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: cansultarme is not a known word. Is it misspelled?
+Reading concept ~ingresos
+*** Warning- line 14 of concepts.top: ingresos is not a known word. Is it misspelled?
+*** Warning- line 14 of concepts.top: ingreso is not a known word. Is it misspelled?
+*** Warning- line 14 of concepts.top: ingresar is not a known word. Is it misspelled?
+*** Warning- line 14 of concepts.top: ingresado is not a known word. Is it misspelled?
+*** Warning- line 14 of concepts.top: ingresé is not a known word. Is it misspelled?
+*** Warning- line 14 of concepts.top: ingrese is not a known word. Is it misspelled?
+*** Warning- line 14 of concepts.top: recibir is not a known word. Is it misspelled?
+Reading concept ~saldo
+*** Warning- line 15 of concepts.top: saldo is not a known word. Is it misspelled?
+*** Warning- line 15 of concepts.top: Word plata only known in opposite case
+*** Warning- line 15 of concepts.top: guita is not a known word. Is it misspelled?
+Reading concept ~movimiento
+*** Warning- line 16 of concepts.top: movimientos is not a known word. Is it misspelled?
+*** Warning- line 16 of concepts.top: Word movimiento only known in opposite case
+Reading concept ~transferencia
+*** Warning- line 18 of concepts.top: transferencia is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: traspasso is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: traspassos is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: transferencias is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: traer is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: traspasar is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: enviar is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: transferir is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: pasar is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: transmitir is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: ceder is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: trasladar is not a known word. Is it misspelled?
+*** Warning- line 18 of concepts.top: abonar is not a known word. Is it misspelled?
+Reading concept ~país
+*** Warning- line 19 of concepts.top: país is not a known word. Is it misspelled?
+*** Warning- line 19 of concepts.top: nacion is not a known word. Is it misspelled?
+*** Warning- line 19 of concepts.top: naciones is not a known word. Is it misspelled?
+*** Warning- line 19 of concepts.top: estado is not a known word. Is it misspelled?
+*** Warning- line 19 of concepts.top: estados is not a known word. Is it misspelled?
+Reading concept ~pais
+Reading concept ~otro_país
+Reading concept ~extranjero
+*** Warning- line 22 of concepts.top: extranjero is not a known word. Is it misspelled?
+*** Warning- line 22 of concepts.top: extranjera is not a known word. Is it misspelled?
+*** Warning- line 22 of concepts.top: extranjeros is not a known word. Is it misspelled?
+*** Warning- line 22 of concepts.top: extranjeras is not a known word. Is it misspelled?
+Reading concept ~conceptrans
+*** Warning- line 23 of concepts.top: compleaños is not a known word. Is it misspelled?
+*** Warning- line 23 of concepts.top: cumpleanos is not a known word. Is it misspelled?
+*** Warning- line 23 of concepts.top: Word boda only known in opposite case
+*** Warning- line 23 of concepts.top: regalo is not a known word. Is it misspelled?
+Reading concept ~pregunta
+*** Warning- line 25 of concepts.top: cuestión is not a known word. Is it misspelled?
+*** Warning- line 25 of concepts.top: cuestion is not a known word. Is it misspelled?
+*** Warning- line 25 of concepts.top: Word duda only known in opposite case
+Reading concept ~otro
+*** Warning- line 26 of concepts.top: otro is not a known word. Is it misspelled?
+*** Warning- line 26 of concepts.top: otros is not a known word. Is it misspelled?
+Reading concept ~datos
+*** Warning- line 27 of concepts.top: datos is not a known word. Is it misspelled?
+*** Warning- line 27 of concepts.top: dato is not a known word. Is it misspelled?
+Reading concept ~recibir
+*** Warning- line 28 of concepts.top: recibido is not a known word. Is it misspelled?
+Reading concept ~como
+*** Warning- line 30 of concepts.top: cómo is not a known word. Is it misspelled?
+Reading concept ~cual
+*** Warning- line 31 of concepts.top: cuál is not a known word. Is it misspelled?
+*** Warning- line 31 of concepts.top: cuáles is not a known word. Is it misspelled?
+Reading concept ~cuál
+Reading concept ~desde
+*** Warning- line 33 of concepts.top: desde is not a known word. Is it misspelled?
+Reading concept ~hasta
+*** Warning- line 34 of concepts.top: al is not a known word. Is it misspelled?
+Reading concept ~poder
+*** Warning- line 35 of concepts.top: poder is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: lograr is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: logro is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: logra is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: conseguir is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: consigo is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: consigue is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: obtener is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: obtengo is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: obtiene is not a known word. Is it misspelled?
+Reading concept ~deber
+*** Warning- line 36 of concepts.top: debo is not a known word. Is it misspelled?
+*** Warning- line 36 of concepts.top: deber is not a known word. Is it misspelled?
+Reading concept ~saber
+*** Warning- line 37 of concepts.top: conocer is not a known word. Is it misspelled?
+*** Warning- line 37 of concepts.top: comprender is not a known word. Is it misspelled?
+Reading concept ~sobre
+Reading concept ~donde
+*** Warning- line 39 of concepts.top: adonde is not a known word. Is it misspelled?
+Reading concept ~abrir
+*** Warning- line 40 of concepts.top: abrir is not a known word. Is it misspelled?
+*** Warning- line 40 of concepts.top: abro is not a known word. Is it misspelled?
+*** Warning- line 40 of concepts.top: empezar is not a known word. Is it misspelled?
+*** Warning- line 40 of concepts.top: empiezo is not a known word. Is it misspelled?
+Reading concept ~añadir
+*** Warning- line 41 of concepts.top: añadir is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: añado is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: incorporar is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: incorporo is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: agregar is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: agrego is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: ampliar is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: amplio is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: aumentar is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: aumento is not a known word. Is it misspelled?
+*** Warning- line 41 of concepts.top: sumar is not a known word. Is it misspelled?
+Reading concept ~acceder
+*** Warning- line 42 of concepts.top: acceder is not a known word. Is it misspelled?
+*** Warning- line 42 of concepts.top: accedo is not a known word. Is it misspelled?
+*** Warning- line 42 of concepts.top: entrar is not a known word. Is it misspelled?
+*** Warning- line 42 of concepts.top: entro is not a known word. Is it misspelled?
+*** Warning- line 42 of concepts.top: entra is not a known word. Is it misspelled?
+*** Warning- line 42 of concepts.top: llegar is not a known word. Is it misspelled?
+*** Warning- line 42 of concepts.top: llego is not a known word. Is it misspelled?
+*** Warning- line 42 of concepts.top: llega is not a known word. Is it misspelled?
+Reading concept ~que
+Reading concept ~linea
+*** Warning- line 44 of concepts.top: linea is not a known word. Is it misspelled?
+*** Warning- line 44 of concepts.top: línea is not a known word. Is it misspelled?
+Reading concept ~costar
+*** Warning- line 45 of concepts.top: cuesta is not a known word. Is it misspelled?
+*** Warning- line 45 of concepts.top: valer is not a known word. Is it misspelled?
+Reading concept ~hacer
+*** Warning- line 46 of concepts.top: crear is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: realizar is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: hago is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: creo is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: realizo is not a known word. Is it misspelled?
+Reading concept ~usar
+*** Warning- line 47 of concepts.top: usar is not a known word. Is it misspelled?
+*** Warning- line 47 of concepts.top: uso is not a known word. Is it misspelled?
+*** Warning- line 47 of concepts.top: utilizar is not a known word. Is it misspelled?
+*** Warning- line 47 of concepts.top: utilizo is not a known word. Is it misspelled?
+*** Warning- line 47 of concepts.top: dispongo is not a known word. Is it misspelled?
+*** Warning- line 47 of concepts.top: disponer is not a known word. Is it misspelled?
+Reading concept ~activar
+*** Warning- line 49 of concepts.top: activar is not a known word. Is it misspelled?
+*** Warning- line 49 of concepts.top: activación is not a known word. Is it misspelled?
+*** Warning- line 49 of concepts.top: activo is not a known word. Is it misspelled?
+*** Warning- line 49 of concepts.top: Word alta only known in opposite case
+Reading concept ~bloquear
+*** Warning- line 50 of concepts.top: bloquear is not a known word. Is it misspelled?
+*** Warning- line 50 of concepts.top: bloqueo is not a known word. Is it misspelled?
+Reading concept ~robar
+*** Warning- line 51 of concepts.top: perder is not a known word. Is it misspelled?
+*** Warning- line 51 of concepts.top: anular is not a known word. Is it misspelled?
+*** Warning- line 51 of concepts.top: robar is not a known word. Is it misspelled?
+*** Warning- line 51 of concepts.top: robado is not a known word. Is it misspelled?
+*** Warning- line 51 of concepts.top: robaron is not a known word. Is it misspelled?
+Reading concept ~destinatario
+*** Warning- line 53 of concepts.top: Word madre only known in opposite case
+*** Warning- line 53 of concepts.top: Word tia only known in opposite case
+*** Warning- line 53 of concepts.top: abuela is not a known word. Is it misspelled?
+*** Warning- line 53 of concepts.top: abuelo is not a known word. Is it misspelled?
+*** Warning- line 53 of concepts.top: tio is not a known word. Is it misspelled?
+*** Warning- line 53 of concepts.top: hermano is not a known word. Is it misspelled?
+*** Warning- line 53 of concepts.top: hermana is not a known word. Is it misspelled?
+Reading concept ~concepto
+*** Warning- line 54 of concepts.top: aniversario is not a known word. Is it misspelled?
+*** Warning- line 54 of concepts.top: celebración is not a known word. Is it misspelled?
+*** Warning- line 54 of concepts.top: celebracon is not a known word. Is it misspelled?
+Reading concept ~compania
+*** Warning- line 56 of concepts.top: compania is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: compañia is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: companyia is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: empresas is not a known word. Is it misspelled?
+Reading concept ~temporal
+*** Warning- line 57 of concepts.top: mañana is not a known word. Is it misspelled?
+*** Warning- line 57 of concepts.top: Word ayer only known in opposite case
+*** Warning- line 57 of concepts.top: aier is not a known word. Is it misspelled?
+*** Warning- line 57 of concepts.top: año is not a known word. Is it misspelled?
+*** Warning- line 57 of concepts.top: Word ano only known in opposite case
+*** Warning- line 57 of concepts.top: años is not a known word. Is it misspelled?
+*** Warning- line 57 of concepts.top: anos is not a known word. Is it misspelled?
+Reading concept ~feliz
+*** Warning- line 58 of concepts.top: felic is not a known word. Is it misspelled?
+*** Warning- line 58 of concepts.top: Word felis only known in opposite case
+Reading concept ~bien
+*** Warning- line 60 of concepts.top: bie is not a known word. Is it misspelled?
+*** Warning- line 60 of concepts.top: vien is not a known word. Is it misspelled?
+Reading concept ~nombre
+*** Warning- line 62 of concepts.top: nomvre is not a known word. Is it misspelled?
+
+----Reading file introductions.top
+Reading topic ~introductions
+
+----Reading file simplecontrol.top
+Reading outputmacro: ^imagin
+Reading table tbl:defaultbot
+Reading topic ~control
+Reading topic ~xpostprocess
+
+<<end folder RAWDATA/Imagin_test1
+
+>>Reading folder RAWDATA/QUIBBLE_ES/
+
+----Reading file honest.top
+Reading topic ~intent
+Reading topic ~honest_response
+
+----Reading file quibble.top
+Reading topic ~quibble_all
+
+<<end folder RAWDATA/QUIBBLE_ES
+*** Warning-  Undefined set or topic ~cobrar line 14 in concepts.top
+*** Warning-  Undefined set or topic ~keywordless line 54 in simplecontrol.top
+*** Warning- line 0 of missingLabel.txt: At least one duplicate topic name, i.e., ~felicitaciones, which may intended if bot restrictions differ.
+
+WARNING SUMMARY: 
+0 function warnings, 102 spelling warnings, 21 case warnings, 26 substitution warnings,  and 507 more serious warnings
+    
+
+Finished compile
+

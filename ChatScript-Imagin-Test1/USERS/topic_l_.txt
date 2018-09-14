@@ -1,0 +1,14 @@
+USERS/topic_l_.txt
+jul2116 Jun20'17-15:33:10 Jun20'17-15:46:18 0 |
+1 0 0 DY 0 7 7 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+#pending
+#`end topics
+$cs_login=l
+$cs_randindex=3984
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+#`end chatbot

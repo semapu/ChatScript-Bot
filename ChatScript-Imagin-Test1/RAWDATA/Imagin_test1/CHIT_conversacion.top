@@ -1,0 +1,214 @@
+TOPIC: ~CONVERSACION repeat (~temporal)
+
+u: (tienes familia) ^keep()
+CHIT_conversacion
+
+u: (te gusta *) ^keep()
+CHIT_conversacion
+
+u: (tomas drogas) ^keep()
+CHIT_conversacion
+
+u: (cuantos ~temporal tienes) ^keep()
+CHIT_conversacion
+
+u: (que te gusta comer) ^keep()
+CHIT_conversacion
+
+u: (donde vives) ^keep()
+CHIT_conversacion
+
+u: (quien escribio este libro) ^keep()
+CHIT_conversacion
+
+u: (te acuerdas de tus clases de geografia) ^keep()
+CHIT_conversacion
+
+u: (te acuerdas de tus clases de historia) ^keep()
+CHIT_conversacion
+
+u: (estas casado) ^keep()
+CHIT_conversacion
+
+u: (puedo hacerte una pregunta sobre tu aspecto fisico) ^keep()
+CHIT_conversacion
+
+u: (te gustan los animales) ^keep()
+CHIT_conversacion
+
+u: (tienes hijos) ^keep()
+CHIT_conversacion
+
+u: (sabes moverte) ^keep()
+CHIT_conversacion
+
+u: (que haces para divertirte) ^keep()
+CHIT_conversacion
+
+u: (cual es tu color favorito) ^keep()
+CHIT_conversacion
+
+u: (cual es tu apellido) ^keep()
+CHIT_conversacion
+
+u: (de donde vienes) ^keep()
+CHIT_conversacion
+
+u: (te caigo bien) ^keep()
+CHIT_conversacion
+
+u: (me gustan los gatos) ^keep()
+CHIT_conversacion
+
+u: (me gusta España) ^keep()
+CHIT_conversacion
+
+u: (cual es la capital de este pais) ^keep()
+CHIT_conversacion
+
+u: (me gusta comer) ^keep()
+CHIT_conversacion
+
+u: (me gusta hacer deporte) ^keep()
+CHIT_conversacion
+
+u: (quieres salir conmigo) ^keep()
+CHIT_conversacion
+
+u: (te gusta algo) ^keep()
+CHIT_conversacion
+
+u: (votas) ^keep()
+CHIT_conversacion
+
+u: (quien es el presidente del pais) ^keep()
+CHIT_conversacion
+
+u: (me gusta catalunya) ^keep()
+CHIT_conversacion
+
+u: (has tenido un buen fin de semana) ^keep()
+CHIT_conversacion
+
+u: (como fue el fin de semana) ^keep()
+CHIT_conversacion
+
+u: (que tal ha ido el fin de semana) ^keep()
+CHIT_conversacion
+
+u: (como va este ~temporal) ^keep()
+CHIT_conversacion
+
+u: (que tal va este ~temporal) ^keep()
+CHIT_conversacion
+
+u: (como te va este ~temporal) ^keep()
+CHIT_conversacion
+
+u: (que tal te fue el ~temporal pasado) ^keep()
+CHIT_conversacion
+
+u: (te gusta el futbol) ^keep()
+CHIT_conversacion
+
+u: (quien va a ganar la liga) ^keep()
+CHIT_conversacion
+
+u: (sabes cocinar) ^keep()
+CHIT_conversacion
+
+u: (que te parece el madrid) ^keep()
+CHIT_conversacion
+
+u: (sabes cosas sobre futbol) ^keep()
+CHIT_conversacion
+
+u: (que te parece messi) ^keep()
+CHIT_conversacion
+
+u: (te cae bien cristiano ronaldo) ^keep()
+CHIT_conversacion
+
+u: (cuentame cosas de cocina) ^keep()
+CHIT_conversacion
+
+u: (puedo hacerte una pregunta sobre tu vida personal) ^keep()
+CHIT_conversacion
+
+u: (tienes ofertas de trabajo) ^keep()
+CHIT_conversacion
+
+u: (quien te entrena) ^keep()
+CHIT_conversacion
+
+u: (cual es la distancia entre la tierra y la luna) ^keep()
+CHIT_conversacion
+
+u: (estaria bien un masaje de pies) ^keep()
+CHIT_conversacion
+
+u: (podrias hacerme el trabajo) ^keep()
+CHIT_conversacion
+
+u: (sabes hablar) ^keep()
+CHIT_conversacion
+
+u: (sabes caminar) ^keep()
+CHIT_conversacion
+
+u: (que tiempo hace hoy) ^keep()
+CHIT_conversacion
+
+u: (sabes hacer crema de fresa) ^keep()
+CHIT_conversacion
+
+u: (que te parecio el partido) ^keep()
+CHIT_conversacion
+
+u: (los del madrid son malisimos) ^keep()
+CHIT_conversacion
+
+u: (cristiano es un petardo) ^keep()
+CHIT_conversacion
+
+u: (podemos hablar) ^keep()
+CHIT_conversacion
+
+u: (podemos charlar) ^keep()
+CHIT_conversacion
+
+u: (te importa si hablamos un poco) ^keep()
+CHIT_conversacion
+
+u: (que tal si hablamos un poco) ^keep()
+CHIT_conversacion
+
+u: (porque no charlamos un rato) ^keep()
+CHIT_conversacion
+
+u: (vamos a charlar) ^keep()
+CHIT_conversacion
+
+u: (quien es el presidente de Caixabank) ^keep()
+CHIT_conversacion
+
+u: (dime quien es el presidente de la caixa) ^keep()
+CHIT_conversacion
+
+u: (que tiempo hara ~temporal) ^keep()
+CHIT_conversacion
+
+u: (hora juega ~temporal el Barça) ^keep()
+CHIT_conversacion
+
+u: (hora tengo reunion de presupuestos) ^keep()
+CHIT_conversacion
+
+u: (como va el barca) ^keep()
+CHIT_conversacion
+
+u: (el barca es el mejor equipo del mundo) ^keep()
+CHIT_conversacion
+
+u: (hay algo que no sepas) ^keep()
+CHIT_conversacion

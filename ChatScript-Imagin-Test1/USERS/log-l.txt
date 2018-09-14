@@ -1,0 +1,44 @@
+﻿
+No such bot  l -  -  status: ImaginBankBot   in topic_l_imaginbankbot.txt at 1: ^imaginbankbot
+    Command: :build HARRY
+Start: user:l bot:harry ip: rand:3984 (~introductions) 0 ==> Welcome to ChatScript.  When:Jun20'17-15:32:45 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:32:33 0:Jun20'17-15:32:45 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:l bot:harry ip: (~introductions) 1   hi ==> Have you been here before?  When:Jun20'17-15:32:49 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:l bot:harry ip: (~introductions) 2   no ==> Why not?  When:Jun20'17-15:32:51 Why:~honest_response.1.0.~quibble_all.12.0   F:0 
+Command: :build Imagin_test1
+Start: user:l bot:dory ip: rand:3984 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:33:10 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:33:00 0:Jun20'17-15:33:10 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:l bot:dory ip: (~keywordless) 1   hola ==> ¿Tiene alguna pregunta?  When:Jun20'17-15:33:13 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:l bot:dory ip: (~keywordless) 2   como te llamas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:33:51 Why:~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:l bot:dory ip: rand:3986 (~introductions) 2 ==> Hola!  When:Jun20'17-15:36:21 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:36:17 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:33:51 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:l bot:dory ip: rand:3984 (~introductions) 0 ==> Bienvenido!  When:Jun20'17-15:36:27 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:36:17 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:33:51 Why:~introductions.1.0.~control.0.0 
+Respond: user:l bot:dory ip: (~keywordless) 1   hola ==> ¿Tiene alguna pregunta?  When:Jun20'17-15:36:29 Why:~keywordless.31.0.~control.1.0   F:15 
+Respond: user:l bot:dory ip: (~keywordless) 2   como te llamas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:36:35 Why:~control.1.0   F:15 
+Respond: user:l bot:dory ip: (~keywordless) 3   cual es tu nombre? ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:36:41 Why:~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:l bot:dory ip: rand:3987 (~introductions) 3 ==> Hola!  When:Jun20'17-15:37:54 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:37:51 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:36:41 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:l bot: ip: rand:3984 () 0 ==>   When:Jun20'17-15:38:04 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:37:51 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:36:41 
+Respond: user:l bot:dory ip: (~keywordless) 4   hola ==> ¿Le puedo ayudar en algo?  When:Jun20'17-15:38:07 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:l bot:dory ip: (~keywordless) 5   como te llamas? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-15:38:34 Why:~control.1.0   F:0 
+Respond: user:l bot:dory ip: (~keywordless) 6   cual es tu nambre? ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:38:40 Why:~control.1.0   F:0 
+Command: :build HARRY
+Start: user:l bot:harry ip: rand:3987 (~introductions) 2 ==> Glad you came back.  When:Jun20'17-15:42:01 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:41:57 0:Jun20'17-15:32:45 F:0 P:Jun20'17-15:32:51 Why:~introductions.0.0.~control.0.0 
+Respond: user:l bot:harry ip: (~introductions) 3   what is your name? ==> My name is Harry.  When:Jun20'17-15:43:02 Why:~introductions.3.0.~control.9.0   F:0 
+Command: :build Imagin_test1
+Start: user:l bot:dory ip: rand:3992 (~introductions) 6 ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:45:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:45:29 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:38:40 Why:~control.1.0 
+Respond: user:l bot:dory ip: (~introductions) 7   como te llamas? ==> My name is Harry.  When:Jun20'17-15:45:37 Why:~introductions.2.0.~control.1.0   F:16 
+Command: :build Imagin_test1
+Start: user:l bot:dory ip: rand:3993 (~introductions) 7 ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:46:04 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:46:01 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:45:37 Why:~control.1.0 
+Command: :reset
+Start: user:l bot: ip: rand:3984 () 0 ==>   When:Jun20'17-15:46:11 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:46:01 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:45:37 
+Respond: user:l bot:dory ip: (~keywordless) 8   hola ==> ¿Tiene alguna pregunta?  When:Jun20'17-15:46:14 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:l bot:dory ip: (~keywordless) 9   como te llamas? ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:46:18 Why:~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:l bot:dory ip: rand:3995 (~introductions) 9 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun20'17-15:46:46 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:46:42 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:46:18 Why:~control.1.0 
+Command: :reset
+Start: user:l bot: ip: rand:3984 () 0 ==>   When:Jun20'17-15:47:07 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun20'17-15:46:42 0:Jun20'17-15:33:10 F:0 P:Jun20'17-15:46:18 
+Respond: user:l bot:dory ip: (~keywordless) 10   hola ==> ¿Le puedo ayudar en algo?  When:Jun20'17-15:47:11 Why:~keywordless.31.0.~control.1.0   F:16 
+Respond: user:l bot:dory ip: (~keywordless) 11   si ==> No comprendo lo que ha dicho.  When:Jun20'17-15:47:13 Why:~control.1.0   F:0 
+Respond: user:l bot:dory ip: (~keywordless) 12   como te llamas ==> No consigue entender lo que me está diciendo.  When:Jun20'17-15:47:19 Why:~control.1.0   F:16 
+Respond: user:l bot:dory ip: (~keywordless) 13   como te llamas? ==> No entiendo lo que me quiere decir.  When:Jun20'17-15:47:23 Why:~control.1.0   F:0 

@@ -1,0 +1,64 @@
+﻿Start: user:ca bot:imagin ip: rand:3837 (~introductions) 0 ==> Hola!  When:Jun28'17-09:52:31 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun27'17-14:25:41 0:Jun28'17-09:52:31 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+No such bot  ca -  -  status: defaultbot word not found   in topic_ca_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  ca -  -  status: defaultbot word not found   in topic_ca_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  ca -  -  status: defaultbot word not found   in topic_ca_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  ca -  -  status: defaultbot word not found   in topic_ca_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+No such bot  ca -  -  status: defaultbot word not found   in topic_ca_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+Start: user:ca bot:imagin ip: rand:3838 (~introductions) 0 ==> Buenos días!  When:Jun28'17-09:55:27 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-09:55:24 0:Jun28'17-09:52:31 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:ca bot:imagin ip: (~introductions) 1   cuales son tus fuentes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:55:39 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~introductions) 2   hols ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:55:42 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~introductions) 3   hola ==> En que puedo serte de ayuda?  When:Jun28'17-09:55:44 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~introductions) 4   cuales son tus fuentes ==> No entiendo lo que me quiere decir.  When:Jun28'17-09:55:49 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~introductions) 5   cuales son tus fuertes ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:56:01 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:ca bot:imagin ip: (~introductions) 6   cuales son tus fuertes ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:56:20 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~saludo-despedida) 7   hola ==> Hola de nuevo. Sigo aqui a la espera de poder ayudarte  When:Jun28'17-09:56:22 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Command: :reset
+Start: user:ca bot:imagin ip: rand:3837 (~introductions) 0 ==> Hola!  When:Jun28'17-09:56:24 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-09:55:24 0:Jun28'17-09:52:31 F:0 P:Jun28'17-09:56:22 Why:~introductions.1.0.~control.0.0 
+Respond: user:ca bot:imagin ip: (~introductions) 1   cuales son tus fuertes ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:56:26 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:ca bot:imagin ip: (~introductions) 2   cuales son tus fuertes ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:56:33 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:ca bot:imagin ip: rand:3839 (~introductions) 2 ==> Buenos días!  When:Jun28'17-09:56:45 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-09:56:42 0:Jun28'17-09:52:31 F:0 P:Jun28'17-09:56:33 Why:~introductions.0.0.~control.0.0 
+Respond: user:ca bot:imagin ip: (~introductions) 3   hola ==> En que puedo serte de ayuda?  When:Jun28'17-09:56:47 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~introductions) 4   cuales son tus fuertes ==> No entiendo lo que me quiere decir.  When:Jun28'17-09:57:01 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:ca bot:imagin ip: rand:3842 (~introductions) 4 ==> Bienvenido!  When:Jun28'17-09:57:38 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-09:57:35 0:Jun28'17-09:52:31 F:0 P:Jun28'17-09:57:01 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:ca bot:imagin ip: rand:3837 (~introductions) 0 ==> Hola!  When:Jun28'17-09:57:41 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-09:57:35 0:Jun28'17-09:52:31 F:0 P:Jun28'17-09:57:01 Why:~introductions.1.0.~control.0.0 
+Respond: user:ca bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-09:57:42 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~introductions) 2   cuales son tus fuertes ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:57:46 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:ca bot:imagin ip: (~introductions) 3   como puedo activar mi tajeta? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-09:58:07 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~saludo-despedida) 4   hola ==> Gracias por vorvel a saludar. En que puedo ayudarte?  When:Jun28'17-09:58:09 Why:~saludo-despedida.0.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~saludo-despedida) 5   como puedo activar mi tajeta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:58:12 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:ca bot:imagin ip: (~saludo-despedida) 6   cuales son tus fuertes ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-09:58:16 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~tran) 7   como puedo hacer una transferencia? ==>   	 Necesito conocer el destinatario y el concepto  When:Jun28'17-09:58:29 Why:~tran.2.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~tran) 8   ok ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-09:58:36 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:ca bot:imagin ip: (~tarjeta) 9   como puedo bloquear mi tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun28'17-09:58:50 Why:~tarjeta.0.0.~control.1.0   F:15 
+Respond: user:ca bot:imagin ip: (~tarjeta) 10   cuales son tus fuertes ==> No entiendo lo que me quiere decir.  When:Jun28'17-09:59:04 Why:~control.1.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:ca bot:imagin ip: rand:3848 (~introductions) 10 ==> Bienvenido!  When:Jun28'17-09:59:57 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-09:59:53 0:Jun28'17-09:52:31 F:0 P:Jun28'17-09:59:04 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:ca bot:imagin ip: rand:3837 (~introductions) 0 ==> Hola!  When:Jun28'17-10:00:00 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-09:59:53 0:Jun28'17-09:52:31 F:0 P:Jun28'17-09:59:04 Why:~introductions.1.0.~control.0.0 
+Respond: user:ca bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-10:00:02 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~introductions) 2   puedes ayudarme en algo ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-10:00:19 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:ca bot:imagin ip: (~introductions) 3   puedes ayudarme en algo? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-10:00:29 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+No such bot  ca -  -  status: defaultbot word not found   in topic_ca_anonymous.txt at 0: ^anonymous
+    Command: :build Imagin_test1
+Start: user:ca bot:imagin ip: rand:3840 (~introductions) 3 ==> Bienvenido!  When:Jun28'17-10:01:12 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-10:01:08 0:Jun28'17-09:52:31 F:0 P:Jun28'17-10:00:29 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:ca bot:imagin ip: rand:3837 (~introductions) 0 ==> Hola!  When:Jun28'17-10:01:17 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-10:01:08 0:Jun28'17-09:52:31 F:0 P:Jun28'17-10:00:29 Why:~introductions.1.0.~control.0.0 
+Respond: user:ca bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-10:01:19 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~tarjeta) 2   como puedo bloquear mi tarjeta? ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Jun28'17-10:01:31 Why:~tarjeta.0.0.~control.1.0   F:16 
+Respond: user:ca bot:imagin ip: (~tarjeta) 3   cuales son tus fuertes? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-10:02:04 Why:~control.1.0.~control.1.0   F:15 
+Command: :build Imagin_test1
+Start: user:ca bot:imagin ip: rand:3840 (~introductions) 3 ==> Bienvenido!  When:Jun28'17-10:02:26 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-10:02:23 0:Jun28'17-09:52:31 F:0 P:Jun28'17-10:02:04 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:ca bot:imagin ip: rand:3837 (~introductions) 0 ==> Hola!  When:Jun28'17-10:02:28 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-10:02:23 0:Jun28'17-09:52:31 F:0 P:Jun28'17-10:02:04 Why:~introductions.1.0.~control.0.0 
+Respond: user:ca bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-10:02:33 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:ca bot:imagin ip: (~introductions) 2   cuales son tus fuertes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-10:02:40 Why:~control.1.0.~control.1.0   F:16 

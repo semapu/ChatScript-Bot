@@ -1,0 +1,82 @@
+TOPIC: ~CHITADIOS repeat (adios)
+
+u: (adios) ^keep()
+CHIT_adios
+
+u: (dejame en paz) ^keep()
+CHIT_adios
+
+u: (no me molestes mas) ^keep()
+CHIT_adios
+
+u: (me voy) ^keep()
+CHIT_adios
+
+u: (me voy a dormir) ^keep()
+CHIT_adios
+
+u: (no necesito nada mas) ^keep()
+CHIT_adios
+
+u: (que vaya bien) ^keep()
+CHIT_adios
+
+u: (no te necesito mas) ^keep()
+CHIT_adios
+
+u: (no tengo mas preguntas) ^keep()
+CHIT_adios
+
+u: (tengo que irme) ^keep()
+CHIT_adios
+
+u: (tu ayuda ya no es necesaria) ^keep()
+CHIT_adios
+
+u: (ya he acabado) ^keep()
+CHIT_adios
+
+u: (ya he terminado) ^keep()
+CHIT_adios
+
+u: (ya no necesito tu ayuda) ^keep()
+CHIT_adios
+
+u: (ya no tengo mas dudas) ^keep()
+CHIT_adios
+
+u: (quiero dejar esta conversacion) ^keep()
+CHIT_adios
+
+u: (que tengas un buen dia) ^keep()
+CHIT_adios
+
+u: (que pases un buen dia) ^keep()
+CHIT_adios
+
+u: (hasta pronto) ^keep()
+CHIT_adios
+
+u: (bueno me voy) ^keep()
+CHIT_adios
+
+u: (bueno me voy gracias por tu ayuda) ^keep()
+CHIT_adios
+
+u: (quiero que te vayas) ^keep()
+CHIT_adios
+
+u: (vete) ^keep()
+CHIT_adios
+
+u: (quiero que me dejes en paz) ^keep()
+CHIT_adios
+
+u: (see you) ^keep()
+CHIT_adios
+
+u: (good bye) ^keep()
+CHIT_adios
+
+u: (bye) ^keep()
+CHIT_adios

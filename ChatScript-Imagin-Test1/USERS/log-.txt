@@ -1,0 +1,30 @@
+﻿
+No such bot  :build Imagin_test1 -  -  status: ImaginBankBot   in topic__build imagin_test1.txt at 1: ^build imagin_test1
+    
+No such bot   -  -  status: ImaginBankBot   in topic__imaginbankbot.txt at 1: ^imaginbankbot
+    
+No such bot   -  -  status: ImaginBankBot   in topic__imaginbankbot.txt at 1: ^imaginbankbot
+    
+No such bot   -  -  status: ImaginBankBot   in topic__imaginbankbot.txt at 1: ^imaginbankbot
+    
+No such bot   -  -  status: ImaginBankBot   in topic__imaginbankbot.txt at 1: ^imaginbankbot
+    
+No such bot   -  - reset status: ImaginBankBot   in topic__imaginbankbot.txt at 1: ^imaginbankbot
+    
+No such bot   -  - exit status: ImaginBankBot   in topic__imaginbankbot.txt at 1: ^imaginbankbot
+    Command: :exit
+Respond: user: bot: ip: () 1   :exit ==>   When:Jun20'17-15:30:12   F:15 
+Command: :exit
+Respond: user: bot: ip: () 1   :exit ==>   When:Jun20'17-15:30:15   F:16 
+Start: user: bot:imagin ip: rand:1 (~introductions) 0 ==> Bienvenido!  When:Jun27'17-14:25:33 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun21'17-16:18:21 0:Jun27'17-14:25:33 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user: bot:imagin ip: rand:2 (~introductions) 0 ==> Hola!  When:Jun27'17-14:25:45 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun27'17-14:25:41 0:Jun27'17-14:25:33 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user: bot:imagin ip: rand:1 (~introductions) 0 ==> Bienvenido!  When:Jun27'17-14:25:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun27'17-14:25:41 0:Jun27'17-14:25:33 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user: bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun27'17-14:25:50 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user: bot:imagin ip: (~tran) 2   quiero hacer una transferencia de 200? a mi madre para su cumpleaÑos ==>   	 Necesito conocer el destinatario y el concepto  When:Jun27'17-14:26:05 Why:~tran.2.0.~control.1.0   F:15 
+Respond: user: bot:imagin ip: (~tran) 3   madre para el cumpleaÑos ==>   	 Destinatario: madre   	 concepto: el cumpleaÑos  When:Jun27'17-14:26:15 Why:~tran.2.1   F:15 
+Respond: user: bot:imagin ip: (~tran) 4   quiero hacer una transferencia ==> No consigo entender lo que me estas diciendo.  When:Jun27'17-14:26:28 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user: bot:imagin ip: rand:1 (~introductions) 0 ==> Bienvenido!  When:Jun27'17-14:26:34 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun27'17-14:25:41 0:Jun27'17-14:25:33 F:0 P:Jun27'17-14:26:28 Why:~introductions.1.0.~control.0.0 
+Respond: user: bot:imagin ip: (~tran) 1   quiero hacer una transferencia a mi madre para su cumpleaÑos ==>   	 Necesito conocer el concepto  When:Jun27'17-14:26:42 Why:~tran.1.0.~control.1.0   F:16 

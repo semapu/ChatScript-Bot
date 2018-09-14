@@ -1,0 +1,25 @@
+USERS/topic_gi_dory.txt
+jul2116 Jun20'17-15:52:50 Jun20'17-15:53:13 0 |
+1 2 0 DY 0 6 6 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 7Md!S ca 1 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=gi: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=gi
+$cs_bot=Dory
+$cs_randindex=1600
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ como te llamas?
+ como te llamas?
+#`end user
+ Bienvenido!
+ Soy ImaginBank Bot.
+ No comprendo lo que ha dicho.
+#`end chatbot

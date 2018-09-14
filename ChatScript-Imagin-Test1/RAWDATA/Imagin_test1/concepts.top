@@ -1,0 +1,62 @@
+concept: ~hola(hola "buenos dias" holita)
+concept: ~gracias (gracias agradezco agradecer agradecido)
+concept: ~adios (adios adiós "hasta luego" "hasta pronto" "hasta nunca" "chao" "hasta la proxima" "me voy")
+
+concept: ~no (negativo error incorrecto no)
+concept: ~sí (afirmativo correcto "de acuerdo" si sí ok okey okay oky oki guay)
+concept: ~si (~sí)
+
+
+concept: ~gastar (gastar gasté gaste gastado gasto gastos pagado pagar pague factura facturas pago recibo recivo)
+concept: ~cuánto (que qué cuanto cuánto ¿cuanto ¿cuánto dime cual cuales)
+concept: ~cuanto (~cuánto)
+concept: ~mostrar (mostrar muestrame muéstrame mostrarme enseñar enséñame enseñame enseñarme ver dime dígame digame decirme consultar consúltame cansultarme)
+concept: ~ingresos (ingresos ingreso ingresar ingresado ingresé ingrese recibir ~cobrar)
+concept: ~saldo (saldo dinero dineros euros plata pasta guita)
+concept: ~movimiento (movimientos movimiento)
+
+concept: ~transferencia (transferencia traspasso pago traspassos transferencias traer traspasar enviar transferir pasar transmitir ceder trasladar abonar mover)
+concept: ~país ( pais país paises nacion naciones estado estados)
+concept: ~pais (~país)
+concept: ~otro_país ("otro país" "otra nación" "otros paises" "otros paises")
+concept: ~extranjero ( extranjero extranjera extranjeros extranjeras)
+concept: ~concepTrans (compleaños cumpleanos boda fiesta regalo)
+
+concept: ~pregunta ( pregunta preguntas cuestión cuestion duda dudas)
+concept: ~otro (otro otros)
+concept: ~datos (datos dato)
+concept: ~recibir (recibir recibo recibido)
+
+concept: ~como ( como cómo )
+concept: ~cual (cual cuál cuales cuáles)
+concept: ~cuál (~cual)
+concept: ~desde (desde del)
+concept: ~hasta (hasta al)
+concept: ~poder (poder puede puedo lograr logro logra conseguir consigo consigue obtener obtengo obtiene "puede obtener" "puedo obtener" "puede conseguir" "puedo conseguir")
+concept: ~deber (debo "se tiene que" "tengo que" "se debe" deber tener)
+concept: ~saber (saber conocer comprender)
+concept: ~sobre (sobre "acerca de" "referente a" "relativo a")
+concept: ~donde (donde "en donde" adonde "en que")
+concept: ~abrir (abrir abro empezar empiezo)
+concept: ~añadir (añadir añado incorporar incorporo agregar agrego ampliar amplio aumentar aumento sumar sumo)
+concept: ~acceder (acceder accedo accede entrar entro entra llegar llego llega)
+concept: ~que (que qué)
+concept: ~linea (linea línea)
+concept: ~costar (costar cuesta valer vale)
+concept: ~hacer (hacer crear realizar hago creo realizo)
+concept: ~usar (usar uso utilizar utilizo dispongo disponer )
+
+concept: ~activar (activar activación activo "se activa" alta)
+concept: ~bloquear (bloquear bloqueo "se bloquea")
+concept: ~robar (perder anular "he perdido" robar robado robaron)
+
+concept: ~destinatario(madre padre tia abuela abuelo tio hermano hermana)
+concept: ~concepto(cumpleaños cumpleanos aniversario boda regalo celebración celebracon)
+
+concept: ~compania(compania compañia companyia empresa empresas)
+concept: ~temporal(hoy mañana manana ayer aier año ano años anos)
+concept: ~feliz(feliz felic felis felices )
+
+concept: ~bien(bien genial bie vien)
+
+concept: ~nombre(nombre nomvre)

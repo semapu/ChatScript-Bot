@@ -1,0 +1,76 @@
+TOPIC: ~FELICITACIONES repeat (~feliz ~temporal)
+
+u: (~feliz pascuas) ^keep()
+CHIT_felicitaciones
+
+u: (buen dia de San Valentin) ^keep()
+CHIT_felicitaciones
+
+u: (~feliz ~temporal nuevo) ^keep()
+CHIT_felicitaciones
+
+u: (~feliz fiestas) ^keep()
+CHIT_felicitaciones
+
+u: (~feliz ~temporal) ^keep()
+CHIT_felicitaciones
+
+u: (es mi cumpleaños) ^keep()
+CHIT_felicitaciones
+
+u: (~feliz Navidad) ^keep()
+CHIT_felicitaciones
+
+u: (buena pascua) ^keep()
+CHIT_felicitaciones
+
+u: (~feliz pascua) ^keep()
+CHIT_felicitaciones
+
+u: (~feliz semana santa) ^keep()
+CHIT_felicitaciones
+
+u: (buena semana santa) ^keep()
+CHIT_felicitaciones
+
+u: (~feliz dia de San Valentin) ^keep()
+CHIT_felicitaciones
+
+u: (~feliz noche vieja) ^keep()
+CHIT_felicitaciones
+
+u: (que pases un buen dia de San Valentin) ^keep()
+CHIT_felicitaciones
+
+u: (que tengas un buen ~temporal nuevo) ^keep()
+CHIT_felicitaciones
+
+u: (que pases una buena navidad) ^keep()
+CHIT_felicitaciones
+
+u: (que pases unas felices fiestas) ^keep()
+CHIT_felicitaciones
+
+u: (te deseo la mejor navidad) ^keep()
+CHIT_felicitaciones
+
+u: (te deseo un ~temporal prospero) ^keep()
+CHIT_felicitaciones
+
+u: (te deseo un feliz ~temporal nuevo) ^keep()
+CHIT_felicitaciones
+
+u: (deseo que tengas un feliz ~temporal nuevo) ^keep()
+CHIT_felicitaciones
+
+u: (te deseo una buena navidad) ^keep()
+CHIT_felicitaciones
+
+u: (que pases felices fiestas) ^keep()
+CHIT_felicitaciones
+
+u: (que pases una buena pascua) ^keep()
+CHIT_felicitaciones
+
+u: (sabes que es mi cumpleaños) ^keep()
+CHIT_felicitaciones

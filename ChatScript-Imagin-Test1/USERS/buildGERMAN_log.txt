@@ -1,0 +1,24 @@
+﻿ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+----Reading file simplecontrol.top
+Rename @9 as @chatoutput
+Reading outputmacro: ^test
+Reading topic ~xrejoinder
+Reading table tbl:defaultbot
+Reading topic ~control
+
+----Reading file simpletopic.top
+Reading outputmacro: ^myfunc
+Reading topic ~xpostagsentence
+Reading topic ~introductions
+*** Warning- line 23 of simpletopic.top: gehen is not a known word. Is it misspelled?
+*** Warning-  Undefined set or topic ~keywordless line 56 in simplecontrol.top
+
+WARNING SUMMARY: 
+  line 4 of : Undefined set or topic ~keywordless line 56 in simplecontrol.top
+
+0 function warnings, 1 spelling warnings, 0 case warnings, 0 substitution warnings,  and 1 more serious warnings
+    
+
+Finished compile
+

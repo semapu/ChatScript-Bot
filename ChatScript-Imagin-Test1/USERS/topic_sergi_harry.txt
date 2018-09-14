@@ -1,0 +1,59 @@
+USERS/topic_sergi_harry.txt
+jul2116 Sep26'16-21:35:28 Jun20'17-15:22:36 1474918617-4.9.0 |
+31 30 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~childhood ~introductions #pending
+~childhood + 2 l7ijH pkaa 9 0 0 
+~introductions + 1 8H9S3Js*Ok3 da u 0 0 
+#`end topics
+$cs_randindex=57
+$cs_bot=Harry
+$cs_login=Sergi
+$cs_token=163583
+$cs_control_main=~control
+$userprompt=sergi: >
+$botprompt=HARRY: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~honest_response 28 GRUNT 
+ hi
+ no
+ no
+ what is your name?
+ hi Harry
+ how was your childhood
+ by
+ bie
+ see you tomorrow
+ no
+ no
+ no
+ no
+ no
+ si
+ yes
+ ok
+ no
+ no
+ no
+ yes
+ yes
+ 
+ 
+ 
+ 
+ 
+ 
+ hi
+ hello
+#`end user
+ Hello, again.
+ Hi, again.
+ Glad you came back.
+ Welcome back
+ Hi.
+ I don't know what to say.
+ I don't know what to say.
+ Welcome to ChatScript.
+#`end chatbot

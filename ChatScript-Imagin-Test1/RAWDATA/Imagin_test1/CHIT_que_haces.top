@@ -1,0 +1,262 @@
+TOPIC: ~QUEHACES repeat (~cual)
+
+u: (~cual son tus fuertes) ^keep()
+CHIT_que_haces
+
+u: (~cual son tus temas) ^keep()
+CHIT_que_haces
+
+u: (~cual es tu area de negocio) ^keep()
+CHIT_que_haces
+
+u: (~cual es tu especializacion) ^keep()
+CHIT_que_haces
+
+u: (cuentame cosas que podria preguntarte) ^keep()
+CHIT_que_haces
+
+u: (cuentame todo aquello que puedas contarme) ^keep()
+CHIT_que_haces
+
+u: (cuentame todo lo que sepas hacer) ^keep()
+CHIT_que_haces
+
+u: (cuentame todo lo que sepas contestar) ^keep()
+CHIT_que_haces
+
+u: (cuentame tu especializacion) ^keep()
+CHIT_que_haces
+
+u: (de que departamento eres) ^keep()
+CHIT_que_haces
+
+u: (dime que es lo que sabes hacer) ^keep()
+CHIT_que_haces
+
+u: (dime que puedes contarme) ^keep()
+CHIT_que_haces
+
+u: (dime que puedes explicarme) ^keep()
+CHIT_que_haces
+
+u: (dime tu area de negocio) ^keep()
+CHIT_que_haces
+
+u: (dime tu especializacion) ^keep()
+CHIT_que_haces
+
+u: (en que estas especializado) ^keep()
+CHIT_que_haces
+
+u: (en que me puedes ser util) ^keep()
+CHIT_que_haces
+
+u: (en que temas estas especializado) ^keep()
+CHIT_que_haces
+
+u: (explicame todo lo que sepas hacer) ^keep()
+CHIT_que_haces
+
+u: (me gustaria saber que haces) ^keep()
+CHIT_que_haces
+
+u: (me gustaria saber sobre que te puedo preguntar) ^keep()
+CHIT_que_haces
+
+u: (me gustaria saber que cosas puedo preguntarte) ^keep()
+CHIT_que_haces
+
+u: (que area de negocio es esta) ^keep()
+CHIT_que_haces
+
+u: (que cosas puedes contarme) ^keep()
+CHIT_que_haces
+
+u: (que dudas puedo resolver) ^keep()
+CHIT_que_haces
+
+u: (que es lo que sabes hacer) ^keep()
+CHIT_que_haces
+
+u: (que me puedes contestar) ^keep()
+CHIT_que_haces
+
+u: (que preguntas puedes contestame) ^keep()
+CHIT_que_haces
+
+u: (que puedes contarme) ^keep()
+CHIT_que_haces
+
+u: (que puedes contestarme) ^keep()
+CHIT_que_haces
+
+u: (que puedes hacer) ^keep()
+CHIT_que_haces
+
+u: (que puedo preguntar) ^keep()
+CHIT_que_haces
+
+u: (que puedo preguntarte) ^keep()
+CHIT_que_haces
+
+u: (en que me puedes ayudar) ^keep()
+CHIT_que_haces
+
+u: (que sabes hacer) ^keep()
+CHIT_que_haces
+
+u: (que temas puedo preguntarte) ^keep()
+CHIT_que_haces
+
+u: (que temas tratas) ^keep()
+CHIT_que_haces
+
+u: (sobre que te puedo preguntar) ^keep()
+CHIT_que_haces
+
+u: (que dudas puedes resolverme) ^keep()
+CHIT_que_haces
+
+u: (sabes algo) ^keep()
+CHIT_que_haces
+
+u: (bueno que sabes sobre fondos) ^keep()
+CHIT_que_haces
+
+u: (que sabes sobre fondos) ^keep()
+CHIT_que_haces
+
+u: (hay algo que sepas hacer) ^keep()
+CHIT_que_haces
+
+u: (no se sobre que preguntarte) ^keep()
+CHIT_que_haces
+
+u: (que haces) ^keep()
+CHIT_que_haces
+
+u: (dime que preguntas puedo hacerte) ^keep()
+CHIT_que_haces
+
+u: (cuales son las preguntas que puedo hacerte) ^keep()
+CHIT_que_haces
+
+u: (hay algo en lo que puedas ayudarme) ^keep()
+CHIT_que_haces
+
+u: (puedes ayudarme) ^keep()
+CHIT_que_haces
+
+u: (podrias ayudarme) ^keep()
+CHIT_que_haces
+
+u: (por favor puedes ayudarme) ^keep()
+CHIT_que_haces
+
+u: (te importaria echarme una mano) ^keep()
+CHIT_que_haces
+
+u: (por favor puedes echarme una mano) ^keep()
+CHIT_que_haces
+
+u: (necesito ayuda) ^keep()
+CHIT_que_haces
+
+u: (necesito ayuda urgente) ^keep()
+CHIT_que_haces
+
+u: (necesito que me ayudes urgentemente) ^keep()
+CHIT_que_haces
+
+u: (necesito que me ayudes) ^keep()
+CHIT_que_haces
+
+u: (es muy importante que me ayudes) ^keep()
+CHIT_que_haces
+
+u: (puedes ayudarme porfavor) ^keep()
+CHIT_que_haces
+
+u: (te agradeceria un poco de ayuda) ^keep()
+CHIT_que_haces
+
+u: (si me ayudaras estaria eternamente agradecido) ^keep()
+CHIT_que_haces
+
+u: (estaria muy agradecido si me ayudaras) ^keep()
+CHIT_que_haces
+
+u: (seria posible que me ayudes) ^keep()
+CHIT_que_haces
+
+u: (tienes un momento para echarme una mano) ^keep()
+CHIT_que_haces
+
+u: (me echas un cable) ^keep()
+CHIT_que_haces
+
+u: (debes ayudarme urgentemente) ^keep()
+CHIT_que_haces
+
+u: (tengo dudas puedes ayudarme) ^keep()
+CHIT_que_haces
+
+u: (me puedes ayudar) ^keep()
+CHIT_que_haces
+
+u: (me puedes hechar una mano) ^keep()
+CHIT_que_haces
+
+u: (puedes echarme una mano) ^keep()
+CHIT_que_haces
+
+u: (necesitaria que me ayudes) ^keep()
+CHIT_que_haces
+
+u: (sabes ayudarme) ^keep()
+CHIT_que_haces
+
+u: (deberias ayudarme) ^keep()
+CHIT_que_haces
+
+u: (puedes echarme un cable) ^keep()
+CHIT_que_haces
+
+u: (crees que puedes ayudarme) ^keep()
+CHIT_que_haces
+
+u: (necesito tu ayuda) ^keep()
+CHIT_que_haces
+
+u: (hay algunos temas con los que tengo dudas puedes ayudarme) ^keep()
+CHIT_que_haces
+
+u: (puedes ayudarme en algo) ^keep()
+CHIT_que_haces
+
+u: (puedes ayudarme con un problema que tengo) ^keep()
+CHIT_que_haces
+
+u: (que tipo de preguntas puedo hacerte) ^keep()
+CHIT_que_haces
+
+u: (que tipo de consultas puedo hacerte) ^keep()
+CHIT_que_haces
+
+u: (que puedo consultarte) ^keep()
+CHIT_que_haces
+
+u: (sobre que te puedo consultar) ^keep()
+CHIT_que_haces
+
+u: (en que te puedo hacer consultas) ^keep()
+CHIT_que_haces
+
+u: (en que puedes ayudarme) ^keep()
+CHIT_que_haces
+
+u: (me puedes echar una mano) ^keep()
+CHIT_que_haces
+
+u: (necesito ayuda urgentemente) ^keep()
+CHIT_que_haces

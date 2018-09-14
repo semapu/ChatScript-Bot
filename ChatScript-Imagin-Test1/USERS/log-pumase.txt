@@ -1,0 +1,134 @@
+﻿Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-12:51:46 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:47:33 0:Jun28'17-12:51:46 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build Imagin_test1
+Start: user:pumase bot:imagin ip: rand:2997 (~introductions) 0 ==> Buenos días!  When:Jun28'17-12:52:02 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:51:57 0:Jun28'17-12:51:46 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-12:52:04 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:51:57 0:Jun28'17-12:51:46 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:52:06 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~introductions) 2   buena pascua ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:52:16 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~eres) 3   eres humano? ==> CHIT eres  When:Jun28'17-12:52:21 Why:~eres.0.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~felicitaciones) 4   feliz pascua ==> CHIT felicitaciones  When:Jun28'17-12:52:30 Why:~felicitaciones.8.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~felicitaciones) 5   vete ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:52:41 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 6   como funcionas? ==> CHIT como funcionas  When:Jun28'17-12:53:00 Why:~comofuncionas.0.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 7   vete ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:53:19 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 8   te gusta ver peliculas? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:53:30 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 9   tienes familia ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:53:46 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-12:53:49 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:51:57 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:53:46 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:53:50 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~eres) 2   eres humano ==> CHIT eres  When:Jun28'17-12:53:52 Why:~eres.0.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~eres) 3   tienes familia ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:53:58 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pumase bot:imagin ip: rand:2999 (~introductions) 3 ==> Bienvenido!  When:Jun28'17-12:54:41 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:54:37 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:53:58 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-12:54:47 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:54:37 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:53:58 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:54:49 Why:~introductions.3.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~introductions) 2   te gusta el cine? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:54:55 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pumase bot:imagin ip: rand:2998 (~introductions) 2 ==> Buenos días!  When:Jun28'17-12:55:13 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:55:08 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:54:55 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-12:55:15 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:55:08 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:54:55 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hol ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:55:17 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~introductions) 2   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:55:19 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~introductions) 3   tienes familia? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:55:24 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pumase bot:imagin ip: rand:2999 (~introductions) 3 ==> Bienvenido!  When:Jun28'17-12:56:00 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:55:55 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:55:24 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-12:56:02 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:55:55 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:55:24 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:56:04 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~introductions) 2   cuantos aÑos tienes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:56:09 Why:~control.1.0.~control.1.0   F:0 
+Command: :build Imagin_test1
+Start: user:pumase bot:imagin ip: rand:2998 (~introductions) 2 ==> Buenos días!  When:Jun28'17-12:56:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:56:17 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:56:09 Why:~introductions.0.0.~control.0.0 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-12:56:25 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:56:17 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:56:09 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:56:27 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~introductions) 2   te gusta la tele? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-12:56:32 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~eres) 3   eres humano? ==> CHIT eres  When:Jun28'17-12:56:36 Why:~eres.0.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quehaces) 4   cuales son tus fuertes? ==> CHIT que haces  When:Jun28'17-12:57:19 Why:~quehaces.0.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~quehaces) 5   me parece bien ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:57:28 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 6   si ==> CHIT vale  When:Jun28'17-12:57:30 Why:~vale.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 7   quedamos asó ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:57:41 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 8   quedamos asi ==> CHIT vale  When:Jun28'17-12:57:44 Why:~vale.5.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~vale) 9   bye ==> No entiendo lo que me quiere decir.  When:Jun28'17-12:59:47 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-12:59:50 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:56:17 0:Jun28'17-12:51:46 F:0 P:Jun28'17-12:59:47 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-12:59:52 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~eres) 2   eres humano ==> CHIT eres  When:Jun28'17-12:59:54 Why:~eres.0.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~eres) 3   bye ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-12:59:59 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~eres) 4   cuentame cosas sobre ti ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:00:45 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 5   como funcionas? ==> CHIT como funcionas  When:Jun28'17-13:00:52 Why:~comofuncionas.0.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 6   cuentame cosas sobre tu funcionamiento? ==> CHIT como funcionas  When:Jun28'17-13:01:06 Why:~comofuncionas.7.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 7   bueno me voy? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-13:01:18 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 8   bueno me voy ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:01:22 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 9   vete ==> No entiendo lo que me quiere decir.  When:Jun28'17-13:01:25 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 10   vete? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-13:01:27 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 11   tomas grogas? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:01:42 Why:~control.1.0.~control.1.0   F:0 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-13:01:45 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:56:17 0:Jun28'17-12:51:46 F:0 P:Jun28'17-13:01:42 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   tomas drogas? ==> No entiendo lo que me quiere decir.  When:Jun28'17-13:01:53 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~introductions) 2   como sabes lo que vioy a preguntarte? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:02:51 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 3   como sabes lo que voy a preguntarte? ==> CHIT como funcionas  When:Jun28'17-13:02:56 Why:~comofuncionas.5.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 4   tienes familia? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:03:08 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 5   tienes familia ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-13:03:12 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 6   hablame de tu compaÑia ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:03:31 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~dequecompaniaeres) 7   hablame de tu compania ==> CHIT de que compania eres  When:Jun28'17-13:03:35 Why:~dequecompaniaeres.0.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~dequecompaniaeres) 8   buena pascua ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:03:49 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~felicitaciones) 9   feliz Navidad ==> CHIT felicitaciones  When:Jun28'17-13:04:08 Why:~felicitaciones.6.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~halagos) 10   lo haces muy bien ==> CHIT halagos  When:Jun28'17-13:04:20 Why:~halagos.3.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~halagos) 11   llamame ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:04:30 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~halagos) 12   puedes llamarme ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:04:35 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~halagos) 13   cual es tu nombre? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:04:39 Why:~control.1.0.~control.1.0   F:15 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-13:04:42 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:56:17 0:Jun28'17-12:51:46 F:0 P:Jun28'17-13:04:39 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-13:04:47 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~introductions) 2   mis amigos me llaman ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:04:55 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~introductions) 3   mis nombres son ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-13:05:02 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~introductions) 4   mis nombres son? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:05:04 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~novedades) 5   cuales son las novedades? ==> CHIT novedades  When:Jun28'17-13:05:23 Why:~novedades.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quehaces) 6   cual es tu area de negocio? ==> CHIT que haces  When:Jun28'17-13:05:35 Why:~quehaces.2.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quetal) 7   como estas? ==> CHIT que tal  When:Jun28'17-13:05:52 Why:~quetal.2.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 8   si ==> CHIT vale  When:Jun28'17-13:06:00 Why:~vale.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quehaces) 9   cual es tu area de negocio ==> CHIT que haces  When:Jun28'17-13:07:22 Why:~quehaces.2.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~quehaces) 10   cuentame todo lo que sepas contestar ==> CHIT que haces  When:Jun28'17-13:07:34 Why:~quehaces.7.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quehaces) 11   haces esto de forma fenomenal ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:08:14 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quehaces) 12   estas muy bien programado ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:08:23 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~quehaces) 13   me gusta como lo haces ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:08:33 Why:~control.1.0.~control.1.0   F:16 
+Command: :reset
+Start: user:pumase bot:imagin ip: rand:2996 (~introductions) 0 ==> Hola!  When:Jun28'17-13:08:36 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Jun28'17-12:56:17 0:Jun28'17-12:51:46 F:0 P:Jun28'17-13:08:33 Why:~introductions.1.0.~control.0.0 
+Respond: user:pumase bot:imagin ip: (~introductions) 1   hola ==> En que puedo serte de ayuda?  When:Jun28'17-13:08:38 Why:~introductions.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~introductions) 2   me gusta como lo haces ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:08:41 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~novedades) 3   cuentame las novedades ==> CHIT novedades  When:Jun28'17-13:08:54 Why:~novedades.4.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~novedades) 4   cuentame todo lo nuevo que sepas hacer ==> CHIT novedades  When:Jun28'17-13:09:08 Why:~novedades.7.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~novedades) 5   estas muy bien programado ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-13:09:21 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~eres) 6   eres humano? ==> CHIT eres  When:Jun28'17-13:09:29 Why:~eres.0.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~eres) 7   eres un trbajador? ==> CHIT eres  When:Jun28'17-13:09:35 Why:~eres.0.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~eres) 8   buena pascua ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:09:42 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~eres) 9   de maravilla ==> No entiendo lo que me quiere decir.  When:Jun28'17-13:09:51 Why:~control.1.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~vale) 10   si ==> CHIT vale  When:Jun28'17-13:09:54 Why:~vale.3.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~vale) 11   bueno me voy ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:10:22 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 12   vete ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:10:25 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 13   bye ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:10:27 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 14   bye? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:10:30 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~chitadios) 15   adios ==> CHIT adios  When:Jun28'17-13:10:33 Why:~chitadios.0.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~chitadios) 16   dejame en paz ==> CHIT adios  When:Jun28'17-13:10:47 Why:~chitadios.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~chitadios) 17   no tengo mas preguntas ==> CHIT adios  When:Jun28'17-13:10:53 Why:~chitadios.8.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~chitadios) 18   hasta pronto ==> CHIT adios  When:Jun28'17-13:11:03 Why:~chitadios.18.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~chitadios) 19   bye ==> CHIT adios  When:Jun28'17-13:11:11 Why:~chitadios.26.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~chitadios) 20   cuentame cosas de ti ==> No entiendo lo que me quiere decir.  When:Jun28'17-13:11:24 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 21   como funcionas? ==> CHIT como funcionas  When:Jun28'17-13:11:32 Why:~comofuncionas.0.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~comofuncionas) 22   tienes familia? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-13:11:39 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~dequecompaniaeres) 23   hablame de tu compania ==> CHIT de que compania eres  When:Jun28'17-13:11:51 Why:~dequecompaniaeres.0.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~felicitaciones) 24   feliz pascua ==> CHIT felicitaciones  When:Jun28'17-13:12:05 Why:~felicitaciones.8.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~eres) 25   eres? ==> CHIT eres  When:Jun28'17-13:12:12 Why:~eres.0.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~halagos) 26   estas bien programado ==> CHIT halagos  When:Jun28'17-13:12:31 Why:~halagos.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~halagos) 27   me llamo ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:12:36 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~halagos) 28   mi nombre es ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-13:12:41 Why:~control.1.0.~control.1.0   F:15 
+Respond: user:pumase bot:imagin ip: (~novedades) 29   cuentame las novedades ==> CHIT novedades  When:Jun28'17-13:12:50 Why:~novedades.4.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quehaces) 30   cuales son tus fuertes ==> CHIT que haces  When:Jun28'17-13:12:59 Why:~quehaces.0.0.~control.1.0   F:16 
+Respond: user:pumase bot:imagin ip: (~quehaces) 31   te va? ==> No entiendo lo que me quiere decir.  When:Jun28'17-13:13:04 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quetal) 32   como estas? ==> CHIT que tal  When:Jun28'17-13:13:08 Why:~quetal.2.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quetal) 33   muy bien ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Jun28'17-13:13:14 Why:~control.1.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 34   si ==> CHIT vale  When:Jun28'17-13:13:16 Why:~vale.3.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~vale) 35   muy bien ==> CHIT vale  When:Jun28'17-13:13:20 Why:~vale.2.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quetal) 36   como estas? ==> CHIT que tal  When:Jun28'17-15:26:10 Why:~quetal.2.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quetal) 37   estas bien? ==> CHIT que tal  When:Jun28'17-15:26:14 Why:~quetal.8.0.~control.1.0   F:0 
+Respond: user:pumase bot:imagin ip: (~quetal) 38   cuanto quedo el barça ayer? ==> No consigo entender lo que me estas diciendo.  When:Jun28'17-17:36:52 Why:~control.1.0.~control.1.0   F:16 

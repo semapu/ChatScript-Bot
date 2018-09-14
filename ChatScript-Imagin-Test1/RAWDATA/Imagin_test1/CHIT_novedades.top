@@ -1,0 +1,82 @@
+TOPIC: ~NOVEDADES repeat (novedades)
+
+u: (cuales son las cosas nuevas que puedes hacer) ^keep()
+CHIT_novedades
+
+u: (cuales son las novedades) ^keep()
+CHIT_novedades
+
+u: (cuales son tus ultimos avances) ^keep()
+CHIT_novedades
+
+u: (cuentame alguna novedad) ^keep()
+CHIT_novedades
+
+u: (cuentame las novedades) ^keep()
+CHIT_novedades
+
+u: (cuentame lo que has aprendido recientemente) ^keep()
+CHIT_novedades
+
+u: (cuentame novedades) ^keep()
+CHIT_novedades
+
+u: (cuentame todo lo nuevo que sepas hacer) ^keep()
+CHIT_novedades
+
+u: (dime las novedades) ^keep()
+CHIT_novedades
+
+u: (han a�adido algo ultimamente) ^keep()
+CHIT_novedades
+
+u: (hay alguna novedad) ^keep()
+CHIT_novedades
+
+u: (que cosas nuevas puedes hacer) ^keep()
+CHIT_novedades
+
+u: (que es lo que has aprendido recientemente) ^keep()
+CHIT_novedades
+
+u: (que has aprendido recientemente) ^keep()
+CHIT_novedades
+
+u: (que novedades hay) ^keep()
+CHIT_novedades
+
+u: (que novedades puedes contarme) ^keep()
+CHIT_novedades
+
+u: (sabes de alguna novedad) ^keep()
+CHIT_novedades
+
+u: (tienes alguna nueva funcionalidad) ^keep()
+CHIT_novedades
+
+u: (tienes nuevas habilidades) ^keep()
+CHIT_novedades
+
+u: (hay algo que hayas aprendido recientemente) ^keep()
+CHIT_novedades
+
+u: (has aprendido algo recientemente) ^keep()
+CHIT_novedades
+
+u: (hay nada nuevo) ^keep()
+CHIT_novedades
+
+u: (hay algo nuevo) ^keep()
+CHIT_novedades
+
+u: (hay cosas nuevas) ^keep()
+CHIT_novedades
+
+u: (algo nuevo que puedas contarme) ^keep()
+CHIT_novedades
+
+u: (que cosas nuevas hay) ^keep()
+CHIT_novedades
+
+u: (que hay de nuevo) ^keep()
+CHIT_novedades

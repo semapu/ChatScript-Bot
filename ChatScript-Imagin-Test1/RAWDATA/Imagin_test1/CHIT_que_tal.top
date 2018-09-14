@@ -1,0 +1,61 @@
+TOPIC: ~QUETAL repeat (~como)
+
+u: (~como estamos) ^keep()
+CHIT_que_tal
+
+u: (~como estan ustedes) ^keep()
+CHIT_que_tal
+
+u: (~como estas) ^keep()
+CHIT_que_tal
+
+u: (~como esta usted) ^keep()
+CHIT_que_tal
+
+u: (~como se encuentra) ^keep()
+CHIT_que_tal
+
+u: (te encuentras) ^keep()
+CHIT_que_tal
+
+u: (te va) ^keep()
+CHIT_que_tal
+
+u: (como va) ^keep()
+CHIT_que_tal
+
+u: (estas bien) ^keep()
+CHIT_que_tal
+
+u: (que tal) ^keep()
+CHIT_que_tal
+
+u: (que tal estas) ^keep()
+CHIT_que_tal
+
+u: (que tal vamos) ^keep()
+CHIT_que_tal
+
+u: (que tal vas) ^keep()
+CHIT_que_tal
+
+u: (te encuentras bien) ^keep()
+CHIT_que_tal
+
+u: (estas cansada) ^keep()
+CHIT_que_tal
+
+u: (te va el dia) ^keep()
+CHIT_que_tal
+
+u: (estas cansado) ^keep()
+CHIT_que_tal
+
+u: (esta todo bien) ^keep()
+CHIT_que_tal
+
+u: (todo bien) ^keep()
+CHIT_que_tal
+
+u: (te ha ido el dia) ^keep()
+CHIT_que_tal

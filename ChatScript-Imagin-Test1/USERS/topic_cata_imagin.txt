@@ -1,0 +1,25 @@
+USERS/topic_cata_imagin.txt
+jul2116 Jun28'17-10:58:40 Jun28'17-11:01:50 0 |
+1 2 0 DY 0 10 10 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 3O%a9 ba 1 0 0 
+#`end topics
+$botprompt=ImaginBank Bot: 
+$userprompt=cata: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=cata
+$cs_bot=Imagin
+$cs_randindex=484
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ cuales son tus funtes?
+#`end user
+ Buenos días!
+ En que puedo serte de ayuda?
+ No entiendo lo que me quiere decir.
+#`end chatbot
